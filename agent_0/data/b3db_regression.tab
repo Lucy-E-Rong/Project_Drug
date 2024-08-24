@@ -1,0 +1,943 @@
+Drug_ID	Drug	Y
+"7-[[2-carboxy-2-(4-hydroxyphenyl)acetyl]amino]-7-methoxy-3-[(1-methyltetrazol-5-yl)sulfanylmethyl]-8-oxo-5-oxa-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"	"CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)C(C4=CC=C(C=C4)O)C(=O)O)OC)OC2)C(=O)O"	-2.52
+"(2s,3s,4s,5r)-6-[[(4r,4ar,7s,7ar,12bs)-7-hydroxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinolin-9-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid"	"CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O)O[C@H]3[C@H](C=C4)O"	-2.15
+"(2s,3s,4s,5r)-6-[[(4r,4ar,7s,7ar,12bs)-9-hydroxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid"	"CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)OC6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O"	-2.09
+"2-[4-(5-bromo-3-methylpyridin-2-yl)butylamino]-5-[(6-methylpyridin-3-yl)methyl]-1,3-diazinan-4-one"	"CC1=NC=C(C=C1)CC2CNC(NC2=O)NCCCCC3=NC=C(C=C3C)Br"	-1.88
+"(2r,3r,4s,5s,6r)-2-[(2s,3s,4s,5r)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol"	"C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CO)O)O)CO)O)O)O)O"	-1.7
+"n-[(z)-(2-hydroxy-3-prop-2-enylphenyl)methylideneamino]-2-[4-[(4-sulfamoylphenyl)methyl]piperazin-1-yl]acetamide"	"C=CCC1=C(C(=CC=C1)/C=N\NC(=O)CN2CCN(CC2)CC3=CC=C(C=C3)S(=O)(=O)N)O"	-1.67
+"6-(trifluoromethyl)-3-[[4-(trifluoromethyl)phenyl]methylamino]quinoxaline-2-carboxylic acid"	"C1=CC(=CC=C1CNC2=NC3=C(C=CC(=C3)C(F)(F)F)N=C2C(=O)O)C(F)(F)F"	-1.57
+"disodium;[6-[5-acetamido-4,6-dihydroxy-2-(sulfonatooxymethyl)oxan-3-yl]oxy-3,4,5-trihydroxyoxan-2-yl]methyl sulfate"	"CC(=O)NC1C(C(C(OC1O)COS(=O)(=O)[O-])OC2C(C(C(C(O2)COS(=O)(=O)[O-])O)O)O)O.[Na+].[Na+]"	-1.54
+"2-[4-(3,4-dihydroxyphenyl)-1,3-thiazol-2-yl]guanidine"	"C1=CC(=C(C=C1C2=CSC(=N2)N=C(N)N)O)O"	-1.54
+"n-[2-[4-[3-(ethylamino)pyridin-2-yl]piperazine-1-carbonyl]-1h-indol-5-yl]methanesulfonamide"	"CCNC1=C(N=CC=C1)N2CCN(CC2)C(=O)C3=CC4=C(N3)C=CC(=C4)NS(=O)(=O)C"	-1.52
+"(1s,2r,19r,22r,34s,37r,40r,52s)-5,32-dichloro-64-[(2s,3r,4r,5s,6r)-4,5-dihydroxy-6-(hydroxymethyl)-3-(10-methylundecanoylamino)oxan-2-yl]oxy-n-[3-(dimethylamino)propyl]-2,26,31,44,49-pentahydroxy-22-(methylamino)-21,35,38,54,56,59-hexaoxo-47-[(2r,3s,4s,5s,6r)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-7,13,28-trioxa-20,36,39,53,55,58-hexazaundecacyclo[38.14.2.23,6.214,17.219,34.18,12.123,27.129,33.141,45.010,37.046,51]hexahexaconta-3,5,8,10,12(64),14(63),15,17(62),23(61),24,26,29(60),30,32,41(57),42,44,46(51),47,49,65-henicosaene-52-carboxamide"	"CC(C)CCCCCCCCC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1OC2=C3C=C4C=C2OC5=C(C=C(C=C5)[C@H]([C@H]6C(=O)N[C@@H](C7=C(C(=CC(=C7)O)O[C@@H]8[C@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)C9=C(C=CC(=C9)[C@H](C(=O)N6)NC(=O)[C@@H]4NC(=O)[C@@H]1C2=C(C(=CC(=C2)OC2=C(C=CC(=C2)[C@H](C(=O)N[C@H](CC2=CC=C(O3)C=C2)C(=O)N1)NC)O)O)Cl)O)C(=O)NCCCN(C)C)O)Cl)CO)O)O"	-1.48
+"1-cyano-2-methyl-3-[2-[(4-methyl-4h-imidazol-5-yl)methylsulfanyl]ethyl]guanidine"	"CC1C(=NC=N1)CSCCNC(=NC)NC#N"	-1.42
+"2-[2-ethoxy-5-(4-ethylpiperazin-1-yl)sulfonylphenyl]-5-methyl-7-propyl-3h-imidazo[5,1-f][1,2,4]triazin-4-one"	"CCCC1=NC(=C2N1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)CC)OCC)C"	-1.4
+"1h-imidazo[1,2-a]pyridin-4-ium-2-ylmethanamine"	"C1=CC=[N+]2C=C(NC2=C1)CN"	-1.4
+"4-aminobenzoic acid"	"C1=CC(=CC=C1C(=O)O)N"	-1.4
+"1,3-dimethyl-n-(2-methylphenyl)imidazolidin-2-imine"	"CC1=CC=CC=C1N=C2N(CCN2C)C"	-1.39
+"5,7-dichloro-4-oxo-1h-quinoline-2-carboxylic acid"	"C1=C(C=C(C2=C1NC(=CC2=O)C(=O)O)Cl)Cl"	-1.33
+"5-[2-ethoxy-5-(4-methylpiperazin-1-yl)sulfonylphenyl]-1-methyl-3-propyl-6h-pyrazolo[4,3-d]pyrimidin-7-one"	"CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C"	-1.3
+"n-(2,4-dimethylphenyl)-1,3-dimethylimidazolidin-2-imine"	"CC1=CC(=C(C=C1)N=C2N(CCN2C)C)C"	-1.3
+"4-[2-[[7-amino-2-(furan-2-yl)-[1,2,4]triazolo[1,5-a][1,3,5]triazin-5-yl]amino]ethyl]phenol"	"C1=COC(=C1)C2=NN3C(=NC(=NC3=N2)NCCC4=CC=C(C=C4)O)N"	-1.3
+"9-[(2s,5r)-5-(hydroxymethyl)oxolan-2-yl]-1h-purin-6-one"	"C1C[C@H](O[C@H]1CO)N2C=NC3=C2N=CNC3=O"	-1.3
+"n-[3-[5-[(dimethylamino)methyl]furan-2-yl]sulfanylpropyl]-n'-methyl-2-nitroethanimidamide"	"CN=C(C[N+](=O)[O-])NCCCSC1=CC=C(O1)CN(C)C"	-1.23
+"[2-acetyloxy-4-[(e)-3-oxo-3-(2-phenylethylamino)prop-1-enyl]phenyl] acetate"	"CC(=O)OC1=C(C=C(C=C1)/C=C/C(=O)NCCC2=CC=CC=C2)OC(=O)C"	-1.17
+"(e)-3-[6-[(e)-1-(4-methylphenyl)-3-pyrrolidin-1-ylprop-1-enyl]pyridin-2-yl]prop-2-enoic acid"	"CC1=CC=C(C=C1)/C(=C\CN2CCCC2)/C3=CC=CC(=N3)/C=C/C(=O)O"	-1.14
+"4-[[3-[2-(dimethylamino)ethyl]-1h-indol-5-yl]methyl]-1,3-oxazolidin-2-one"	"CN(C)CCC1=CNC2=C1C=C(C=C2)CC3COC(=O)N3"	-1.01
+"6'-butan-2-yl-21,24-dihydroxy-12-[5-(5-hydroxy-4-methoxy-6-methyloxan-2-yl)oxy-4-methoxy-6-methyloxan-2-yl]oxy-5',11,13,22-tetramethylspiro[3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene-6,2'-oxane]-2-one"	"CCC(C)C1C(CCC2(O1)CC3CC(O2)CC=C(C(C(C=CC=C4COC5C4(C(C=C(C5O)C)C(=O)O3)O)C)OC6CC(C(C(O6)C)OC7CC(C(C(O7)C)O)OC)OC)C)C"	-1.0
+"2-(1,3-benzodioxol-5-yl)-6-methyl-3,6,17-triazatetracyclo[8.7.0.03,8.011,16]heptadeca-1(10),11,13,15-tetraene-4,7-dione"	"CN1CC(=O)N2C(C1=O)CC3=C(C2C4=CC5=C(C=C4)OCO5)NC6=CC=CC=C36"	-1.0
+"methyl (1s,6r)-6-methyl-4-(3-nitroanilino)-2-oxocyclohex-3-ene-1-carboxylate"	"C[C@@H]1CC(=CC(=O)[C@H]1C(=O)OC)NC2=CC(=CC=C2)[N+](=O)[O-]"	-1.0
+"(e)-3-[3,4-bis(2-hydroxyethoxy)phenyl]-n-[2-(2-methylindol-1-yl)ethyl]prop-2-enamide"	"CC1=CC2=CC=CC=C2N1CCNC(=O)/C=C/C3=CC(=C(C=C3)OCCO)OCCO"	-1.0
+"6-(4-ethylsulfonylphenyl)-5-[4-(2-piperidin-1-ylethoxy)phenoxy]naphthalen-2-ol"	"CCS(=O)(=O)C1=CC=C(C=C1)C2=C(C3=C(C=C2)C=C(C=C3)O)OC4=CC=C(C=C4)OCCN5CCCCC5"	-0.92
+"(2r)-n-[1-[(6-aminopyridin-2-yl)methyl]piperidin-4-yl]-2-[(1r)-3,3-difluorocyclopentyl]-2-hydroxy-2-phenylacetamide"	"C1CC(C[C@@H]1[C@@](C2=CC=CC=C2)(C(=O)NC3CCN(CC3)CC4=NC(=CC=C4)N)O)(F)F"	-0.89
+"benzyl n-[[4-[(2-aminophenyl)carbamoyl]phenyl]methyl]carbamate"	"C1=CC=C(C=C1)COC(=O)NCC2=CC=C(C=C2)C(=O)NC3=CC=CC=C3N"	-0.85
+"6-(4-methylsulfonylphenyl)-5-[4-(2-piperidin-1-ylethoxy)phenoxy]naphthalen-2-ol"	"CS(=O)(=O)C1=CC=C(C=C1)C2=C(C3=C(C=C2)C=C(C=C3)O)OC4=CC=C(C=C4)OCCN5CCCCC5"	-0.81
+"(2z)-3-methoxy-5-methyl-4-oxohexa-2,5-dienoic acid"	"CC(=C)C(=O)/C(=C/C(=O)O)/OC"	-0.8
+"n-(2-ethyltetrazol-5-yl)-9h-xanthene-9-carboxamide"	"CCN1N=C(N=N1)NC(=O)C2C3=CC=CC=C3OC4=CC=CC=C24"	-0.8
+"2-[[5-chloro-2-[4-[(4-methylpiperazin-1-yl)methyl]anilino]pyrimidin-4-yl]amino]-n,n-dimethylbenzenesulfonamide"	"CN1CCN(CC1)CC2=CC=C(C=C2)NC3=NC=C(C(=N3)NC4=CC=CC=C4S(=O)(=O)N(C)C)Cl"	-0.8
+"30-ethyl-33-[(e)-1-hydroxy-2-methylpent-3-enyl]-1,4,7,10,12,15,19,25,28-nonamethyl-3,6,9,18,24-pentakis(2-methylpropyl)-21-propan-2-yl-1,4,7,10,13,16,19,22,25,28,31-undecazacyclotritriacontane-2,5,8,11,14,17,20,23,26,29,32-undecone"	"CCC1C(=O)N(CC(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N1)C(C(C)/C=C/C)O)C)CC(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C"	-0.78
+"(3s,6s,9s,12r,15s,18s,21s,24s,30s,33s)-30-ethyl-33-[(e,1r,2r)-1-hydroxy-2-methylpent-3-enyl]-1,4,7,10,12,15,19,25,28-nonamethyl-3,6,9,18,24-pentakis(2-methylpropyl)-21-propan-2-yl-1,4,7,10,13,16,19,22,25,28,31-undecazacyclotritriacontane-2,5,8,11,14,17,20,23,26,29,32-undecone"	"CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)/C=C/C)O)C)CC(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C"	-0.78
+"30-ethyl-33-(1-hydroxy-2-methylhex-4-enyl)-1,4,7,10,12,15,19,25,28-nonamethyl-6,9,18,24-tetrakis(2-methylpropyl)-3,21-di(propan-2-yl)-1,4,7,10,13,16,19,22,25,28,31-undecazacyclotritriacontane-2,5,8,11,14,17,20,23,26,29,32-undecone"	"CCC1C(=O)N(CC(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N1)C(C(C)CC=CC)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C"	-0.78
+"6-(4-hydroxyphenyl)-5-[4-(2-piperidin-1-ylethoxy)phenoxy]naphthalen-2-ol"	"C1CCN(CC1)CCOC2=CC=C(C=C2)OC3=C(C=CC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O"	-0.77
+"[[2-(hydroxymethyl)-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-3-yl]amino]azaniumylideneazanide"	"CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N[NH+]=[N-]"	-0.72
+"1-[(2s,4s,5r)-4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione"	"CC1=CN(C(=O)NC1=O)[C@@H]2C[C@@H]([C@@H](O2)CO)N=[N+]=[N-]"	-0.72
+"30-ethyl-33-[(e)-1-hydroxy-2-methylhex-4-enyl]-1,4,7,10,12,15,19,25,28-nonamethyl-6,9,18,24-tetrakis(2-methylpropyl)-3,21-di(propan-2-yl)-1,4,7,10,13,16,19,22,25,28,31-undecazacyclotritriacontane-2,5,8,11,14,17,20,23,26,29,32-undecone"	"CCC1C(=O)N(CC(=O)N(C(C(=O)NC(C(=O)N(C(C(=O)NC(C(=O)NC(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N(C(C(=O)N1)C(C(C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C"	-0.7
+"1,3-thiazol-5-ylmethyl n-[3-hydroxy-5-[[3-methyl-2-[[methyl-[(2-propan-2-yl-1,3-thiazol-4-yl)methyl]carbamoyl]amino]butanoyl]amino]-1,6-diphenylhexan-2-yl]carbamate"	"CC(C)C1=NC(=CS1)CN(C)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=CC=C2)CC(C(CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O"	-0.7
+"(2r)-2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethyl-methylamino]-2-propan-2-ylpentanenitrile"	"CC(C)[C@@](CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC"	-0.7
+"2-[3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]triazole-4-carboxamide"	"C1=NN(N=C1C(=O)N)C2C(C(C(O2)CO)O)O"	-0.67
+"benzene-1,2,4,5-tetramine;tetrahydrochloride"	"C1=C(C(=CC(=C1N)N)N)N.Cl.Cl.Cl.Cl"	-0.67
+"(4e)-4-[[3-[(3-methylphenyl)methoxy]phenyl]methylidene]-1-phenylpyrazolidine-3,5-dione"	"CC1=CC(=CC=C1)COC2=CC=CC(=C2)/C=C/3\C(=O)NN(C3=O)C4=CC=CC=C4"	-0.66
+"9-[3,5-bis(trifluoromethyl)benzoyl]-5-phenyl-1-oxa-3,9-diazaspiro[5.5]undecan-2-one"	"C1CN(CCC12C(CNC(=O)O2)C3=CC=CC=C3)C(=O)C4=CC(=CC(=C4)C(F)(F)F)C(F)(F)F"	-0.66
+"2-butan-2-yl-4-[4-[4-[4-[[2-(2,4-dichlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]phenyl]-1,2,4-triazol-3-one"	"CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OCC5COC(O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl"	-0.64
+"(4as,7r,7ar,12bs)-9-methoxy-3-methyl-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-4a,7-diol"	"CN1CC[C@]23[C@@H]4[C@@H](CC[C@]2(C1CC5=C3C(=C(C=C5)OC)O4)O)O"	-0.6
+"2-methyl-5-nitro-4-(1,2,4,5-tetrahydro-3-benzazepin-3-yl)-1h-pyrimidin-6-one"	"CC1=NC(=C(C(=O)N1)[N+](=O)[O-])N2CCC3=CC=CC=C3CC2"	-0.59
+"2-(4-phenylmethoxyphenyl)-n-[1-(2-pyrrolidin-1-ylethyl)indol-6-yl]acetamide"	"C1CCN(C1)CCN2C=CC3=C2C=C(C=C3)NC(=O)CC4=CC=C(C=C4)OCC5=CC=CC=C5"	-0.59
+"4-acetamido-n-(2-aminophenyl)benzamide"	"CC(=O)NC1=CC=C(C=C1)C(=O)NC2=CC=CC=C2N"	-0.58
+"6-(3-hydroxyphenyl)-5-[4-(2-piperidin-1-ylethoxy)phenoxy]naphthalen-2-ol"	"C1CCN(CC1)CCOC2=CC=C(C=C2)OC3=C(C=CC4=C3C=CC(=C4)O)C5=CC(=CC=C5)O"	-0.57
+"(4r,4as,5ar,12ar)-4,7-bis(dimethylamino)-1,10,11,12a-tetrahydroxy-3,12-dioxo-4a,5,5a,6-tetrahydro-4h-tetracene-2-carboxamide"	"CN(C)[C@@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C"	-0.52
+"(4s,4as,5ar,12ar)-4,7-bis(dimethylamino)-1,10,11,12a-tetrahydroxy-3,12-dioxo-4a,5,5a,6-tetrahydro-4h-tetracene-2-carboxamide"	"CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C"	-0.52
+"(e)-n-[2-(2-methylindol-1-yl)ethyl]-3-(3,4,5-trimethoxyphenyl)prop-2-enamide"	"CC1=CC2=CC=CC=C2N1CCNC(=O)/C=C/C3=CC(=C(C(=C3)OC)OC)OC"	-0.52
+"6-[2-[4-[(4-fluorophenyl)methyl]piperidin-1-yl]ethylsulfinyl]-3h-1,3-benzoxazol-2-one"	"C1CN(CCC1CC2=CC=C(C=C2)F)CCS(=O)C3=CC4=C(C=C3)NC(=O)O4"	-0.52
+"6-[(2-fluoroacetyl)amino]-n-phenylhexanamide"	"C1=CC=C(C=C1)NC(=O)CCCCCNC(=O)CF"	-0.51
+"(2z,4e,6e,8e)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoate"	"CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C\C(=O)[O-])/C)/C"	-0.49
+"(2e,4e,6e,8e)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid"	"CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C"	-0.49
+"3-[(2s,3r)-2-(tert-butylcarbamoyl)-3-[4-[(4-chlorophenyl)methoxy]phenyl]-4-oxo-1-azabicyclo[1.1.0]butan-2-yl]-6-chloro-1h-indole-2-carboxylic acid"	"CC(C)(C)NC(=O)[C@@]1([C@]2(N1C2=O)C3=CC=C(C=C3)OCC4=CC=C(C=C4)Cl)C5=C(NC6=C5C=CC(=C6)Cl)C(=O)O"	-0.46
+"6-[4-methyl-1-(pyrimidin-2-ylmethyl)pyrrolidin-3-yl]-1-(oxan-4-yl)-5h-pyrazolo[3,4-d]pyrimidin-4-one"	"CC1CN(CC1C2=NC3=C(C=NN3C4CCOCC4)C(=O)N2)CC5=NC=CC=N5"	-0.4
+"n-(5-methyl-1,2,4-oxadiazol-3-yl)-9h-xanthene-9-carboxamide"	"CC1=NC(=NO1)NC(=O)C2C3=CC=CC=C3OC4=CC=CC=C24"	-0.4
+"n-tert-butyl-1-(1-oxidopyridin-1-ium-4-yl)methanimine oxide"	"CC(C)(C)/[N+](=C/C1=CC=[N+](C=C1)[O-])/[O-]"	-0.38
+"4-[6-hydroxy-1-[4-(2-piperidin-1-ylethoxy)phenoxy]naphthalen-2-yl]-n,n-dimethylbenzenesulfonamide"	"CN(C)S(=O)(=O)C1=CC=C(C=C1)C2=C(C3=C(C=C2)C=C(C=C3)O)OC4=CC=C(C=C4)OCCN5CCCCC5"	-0.37
+"[(2r,9s)-2-carbamoyl-9-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,11,13-hexaenyl] acetate"	"CC(=O)O[C@H]1CC2=CC=CC=C2[C@H](C3=CC=CC=C13)C(=O)N"	-0.34
+"(5s)-1-methyl-5-pyridin-3-ylpyrrolidin-2-one"	"CN1[C@@H](CCC1=O)C2=CN=CC=C2"	-0.32
+"[4,12-diacetyloxy-15-(3-benzamido-2-hydroxy-3-phenylpropanoyl)oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate"	"CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C"	-0.3
+"4-[8-(2-fluorophenyl)-2-oxo-1,3-dihydro-1,5-benzodiazepin-4-yl]pyridine-2-carbonitrile"	"C1C(=NC2=C(C=C(C=C2)C3=CC=CC=C3F)NC1=O)C4=CC(=NC=C4)C#N"	-0.3
+"1,3-dimethyl-5h-purine-2,6-dione"	"CN1C2=NC=NC2C(=O)N(C1=O)C"	-0.29
+"1,3-dimethyl-5,7-dihydro-4h-purine-2,6-dione"	"CN1C2C(C(=O)N(C1=O)C)NC=N2"	-0.29
+"8-[4-(5-(123i)iodanylthiophen-2-yl)-4-oxobutyl]-3-methyl-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one"	"CN1CN(C2(C1=O)CCN(CC2)CCCC(=O)C3=CC=C(S3)[123I])C4=CC=CC=C4"	-0.25
+"benzamide"	"C1=CC=C(C=C1)C(=O)N"	-0.24
+"4-amino-5-chloro-2-methoxy-n-[(3s,4r)-3-methoxypiperidin-4-yl]benzamide"	"CO[C@H]1CNCC[C@H]1NC(=O)C2=CC(=C(C=C2OC)N)Cl"	-0.22
+"(8s,9s,10r,11s,13s,14s,17r)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1h-cyclopenta[a]phenanthren-3-one"	"C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O"	-0.22
+"[(1s,4r)-4-[2-amino-6-(cyclopropylamino)purin-9-yl]cyclopent-2-en-1-yl]methanol"	"C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)[C@@H]4C[C@@H](C=C4)CO"	-0.22
+"propane-1,2,3-triol"	"C(C(CO)O)O"	-0.21
+"1-[2-[(2-chlorothiophen-3-yl)methoxy]-2-(2,4-dichlorophenyl)ethyl]imidazole"	"C1=CC(=C(C=C1Cl)Cl)C(CN2C=CN=C2)OCC3=C(SC=C3)Cl"	-0.2
+"2-phenylethylhydrazine"	"C1=CC=C(C=C1)CCNN"	-0.2
+"(2r)-2-[4-(2-methylpropyl)phenyl]propanoic acid"	"C[C@H](C1=CC=C(C=C1)CC(C)C)C(=O)O"	-0.18
+"n-[(5s)-2,4-dioxo-6-[(2s,3s,4r)-2,3,4,5-tetrahydroxypentyl]imino-1,3-diazinan-5-yl]propanamide"	"CCC(=O)N[C@H]1C(=NC[C@@H]([C@@H]([C@@H](CO)O)O)O)NC(=O)NC1=O"	-0.18
+"(8s,9s,10r,11s,13s,14s,17r)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6h-cyclopenta[a]phenanthren-3-one"	"C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O"	-0.18
+"2-(4-benzylpiperazin-1-yl)-n-[(z)-(2-hydroxy-3-prop-2-enylphenyl)methylideneamino]acetamide"	"C=CCC1=C(C(=CC=C1)/C=N\NC(=O)CN2CCN(CC2)CC3=CC=CC=C3)O"	-0.17
+"2-aminopropanoic acid"	"CC(C(=O)O)N"	-0.17
+"methyl (1s,6r)-6-methyl-2-oxo-4-[3-(trifluoromethoxy)anilino]cyclohex-3-ene-1-carboxylate"	"C[C@@H]1CC(=CC(=O)[C@H]1C(=O)OC)NC2=CC(=CC=C2)OC(F)(F)F"	-0.17
+"6-[(s)-(4-chlorophenyl)-(1,2,4-triazol-1-yl)methyl]-1-methylbenzotriazole"	"CN1C2=C(C=CC(=C2)[C@H](C3=CC=C(C=C3)Cl)N4C=NC=N4)N=N1"	-0.16
+"n-(2-propan-2-yltetrazol-5-yl)-9h-xanthene-9-carboxamide"	"CC(C)N1N=C(N=N1)NC(=O)C2C3=CC=CC=C3OC4=CC=CC=C24"	-0.12
+"5-[2-[(3r)-1-methyl-5-oxopyrrolidin-3-yl]ethyl]-3,4-dihydro-2h-pyrido[4,3-b]indol-1-one"	"CN1C[C@@H](CC1=O)CCN2C3=C(C4=CC=CC=C42)C(=O)NCC3"	-0.12
+"7-(2-methylpyridin-4-yl)-2-pyridin-2-yl-[1,2,4]triazolo[1,5-a]pyridin-5-amine"	"CC1=NC=CC(=C1)C2=CC3=NC(=NN3C(=C2)N)C4=CC=CC=N4"	-0.1
+"[(4z,6z,10z)-19-[2-(dimethylamino)ethylamino]-13-hydroxy-8,14-dimethoxy-4,10,12,16-tetramethyl-3,20,22-trioxo-2-azabicyclo[16.3.1]docosa-1(21),4,6,10,18-pentaen-9-yl] carbamate"	"CC1CC(C(C(/C=C(\C(C(/C=C\C=C(/C(=O)NC2=CC(=O)C(=C(C1)C2=O)NCCN(C)C)\C)OC)OC(=O)N)/C)C)O)OC"	-0.09
+"(13ar)-2,3,9,10-tetramethoxy-6,8,13,13a-tetrahydro-5h-isoquinolino[2,1-b]isoquinoline"	"COC1=C(C2=C(C[C@@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC"	-0.07
+"2-[[4-(1-methyl-4-pyridin-4-ylpyrazol-3-yl)phenoxy]methyl]quinoline"	"CN1C=C(C(=N1)C2=CC=C(C=C2)OCC3=NC4=CC=CC=C4C=C3)C5=CC=NC=C5"	-0.06
+"1,3,7-trimethyl-4,5-dihydropurine-2,6-dione"	"CN1C=NC2C1C(=O)N(C(=O)N2C)C"	-0.06
+"3-ethyl-8-[4-(4-fluorophenyl)-4-oxobutyl]-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one"	"CCN1CN(C2(C1=O)CCN(CC2)CCCC(=O)C3=CC=C(C=C3)F)C4=CC=CC=C4"	-0.01
+"(7s,9s)-9-acetyl-7-[(2r,4s,5s,6s)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-8,10-dihydro-7h-tetracene-5,12-dione"	"C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O"	0.0
+"2-amino-4-methylpentanoic acid"	"CC(C)CC(C(=O)O)N"	0.0
+"1-(2-hydroxyethyl)-6-oxo-4-(1,2,4,5-tetrahydro-3-benzazepin-3-yl)pyrimidine-5-carbonitrile"	"C1CN(CCC2=CC=CC=C21)C3=C(C(=O)N(C=N3)CCO)C#N"	0.0
+"1,2-diphenylguanidine"	"C1=CC=C(C=C1)NC(=NC2=CC=CC=C2)N"	0.0
+"2-[[2-[bis(2-hydroxyethyl)amino]-4,8-di(piperidin-1-yl)pyrimido[5,4-d]pyrimidin-6-yl]-(2-hydroxyethyl)amino]ethanol"	"C1CCN(CC1)C2=NC(=NC3=C2N=C(N=C3N4CCCCC4)N(CCO)CCO)N(CCO)CCO"	0.0
+"4-[3-methyl-2-piperidin-4-yl-5-[3-(trifluoromethyl)phenyl]imidazol-4-yl]-n-[(1s)-1-phenylethyl]pyridin-2-amine"	"C[C@@H](C1=CC=CC=C1)NC2=NC=CC(=C2)C3=C(N=C(N3C)C4CCNCC4)C5=CC(=CC=C5)C(F)(F)F"	0.01
+"1-(propan-2-ylamino)-3-(2-prop-2-enoxyphenoxy)propan-2-ol"	"CC(C)NCC(COC1=CC=CC=C1OCC=C)O"	0.02
+"4,5-bis(2-naphthalen-1-yl-2-oxoethyl)-2-phenyl-1,6a-dihydropyrrolo[2,3-c]pyrazol-3-one"	"C1=CC=C(C=C1)N2C(=O)C3=C(C(=NC3N2)CC(=O)C4=CC=CC5=CC=CC=C54)CC(=O)C6=CC=CC7=CC=CC=C76"	0.02
+"3-ethyl-2-methyl-5-nitro-6-(1,2,4,5-tetrahydro-3-benzazepin-3-yl)pyrimidin-4-one"	"CCN1C(=NC(=C(C1=O)[N+](=O)[O-])N2CCC3=CC=CC=C3CC2)C"	0.04
+"(2s)-2-amino-3-(4-boronophenyl)propanoic acid"	"B(C1=CC=C(C=C1)C[C@@H](C(=O)O)N)(O)O"	0.05
+"3-[6-(dimethylamino)-4-methylpyridin-3-yl]-2,5-dimethyl-n,n-dipropylpyrazolo[1,5-a]pyrimidin-7-amine"	"CCCN(CCC)C1=CC(=NC2=C(C(=NN12)C)C3=CN=C(C=C3C)N(C)C)C"	0.07
+"[(3ar,8br)-3,4,8b-trimethyl-2,3a-dihydro-1h-pyrrolo[2,3-b]indol-7-yl] n-methylcarbamate"	"C[C@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC)C)C"	0.08
+"2-(1,2,3,4-tetrahydronaphthalen-2-yloxycarbonyl)benzoic acid"	"C1CC2=CC=CC=C2CC1OC(=O)C3=CC=CC=C3C(=O)O"	0.09
+"21-methyl-3,13,21-triazapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-1,3,5,7,9,15,17,19-octaen-14-one"	"CN1C2=CC=CC=C2C(=O)N3C1=C4C(=C5C=CC=CC5=N4)CC3"	0.11
+"(2r)-n-(2,6-dichlorophenyl)-2,5-dihydro-1h-imidazol-2-amine"	"C1C=N[C@H](N1)NC2=C(C=CC=C2Cl)Cl"	0.11
+"5-ethyl-5-[(2r)-pentan-2-yl]-1,3-diazinane-2,4,6-trione"	"CCC[C@@H](C)C1(C(=O)NC(=O)NC1=O)CC"	0.12
+"1-fluoro-2-(2-fluoroethenoxy)ethene"	"C(=CF)OC=CF"	0.13
+"(2s,3r,4s,5s,6r)-2-[2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromenylium-3-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol"	"C1=CC(=C(C=C1C2=[O+]C3=CC(=CC(=C3C=C2O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O"	0.15
+"2-hydroxypropanoic acid"	"CC(C(=O)O)O"	0.16
+"3-[6-hydroxy-1-[4-(2-piperidin-1-ylethoxy)phenoxy]naphthalen-2-yl]benzonitrile"	"C1CCN(CC1)CCOC2=CC=C(C=C2)OC3=C(C=CC4=C3C=CC(=C4)O)C5=CC=CC(=C5)C#N"	0.17
+"(1s,12s,14r)-9-methoxy-11-oxa-4-azatetracyclo[8.6.1.01,12.06,17]heptadeca-6(17),7,9,15-tetraen-14-ol"	"COC1=C2C3=C(CNCC[C@]34C=C[C@@H](C[C@@H]4O2)O)C=C1"	0.18
+"[(1s,2s,3r,4s,7r,9s,10s,12r,15s)-4,12-diacetyloxy-15-[(2r,3s)-3-[(4-fluorobenzoyl)amino]-2-hydroxy-3-phenylpropanoyl]oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate"	"CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=C(C=C6)F)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C"	0.19
+"n-[4-(methoxymethyl)-1-(2-thiophen-2-ylethyl)piperidin-4-yl]-n-phenylpropanamide"	"CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CS3)COC"	0.2
+"5-chloro-2-[2-[(dimethylamino)methyl]phenyl]sulfanyl-4-fluoroaniline"	"CN(C)CC1=CC=CC=C1SC2=CC(=C(C=C2N)Cl)F"	0.2
+"6-[4-(4-fluorophenyl)piperidin-1-yl]-3-(2-methoxyethyl)-2-methyl-5-nitropyrimidin-4-one"	"CC1=NC(=C(C(=O)N1CCOC)[N+](=O)[O-])N2CCC(CC2)C3=CC=C(C=C3)F"	0.2
+"[(1s,2s,4r,5s)-9-methyl-3-oxa-9-azatricyclo[3.3.1.02,4]nonan-7-yl] 3-hydroxy-2-phenylpropanoate"	"CN1[C@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)C(CO)C4=CC=CC=C4"	0.23
+"(e)-n-[2-[2-(trifluoromethyl)indol-1-yl]ethyl]-3-(3,4,5-trimethoxyphenyl)prop-2-enamide"	"COC1=CC(=CC(=C1OC)OC)/C=C/C(=O)NCCN2C3=CC=CC=C3C=C2C(F)(F)F"	0.23
+"10-[2-[(2r)-1-methylpiperidin-2-yl]ethyl]-2-methylsulfanylphenothiazine"	"CN1CCCC[C@@H]1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC"	0.24
+"(5ar,9ar)-6-propyl-5a,7,8,9,9a,10-hexahydro-5h-pyrido[2,3-g]quinazolin-2-amine;dihydrochloride"	"CCCN1CCC[C@H]2[C@H]1CC3=CN=C(N=C3C2)N.Cl.Cl"	0.25
+"(2r)-2-bromo-1,1,1,2-tetrafluoroethane"	"[C@@H](C(F)(F)F)(F)Br"	0.27
+"(11s)-6-chloro-11-methyl-10-(3-methylbut-2-enyl)-1,3,10-triazatricyclo[6.4.1.04,13]trideca-4,6,8(13)-triene-2-thione"	"C[C@H]1CN2C3=C(CN1CC=C(C)C)C=C(C=C3NC2=S)Cl"	0.28
+"9-methyl-3-[(2-methylimidazol-1-yl)methyl]-2,3-dihydro-1h-carbazol-4-one"	"CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C"	0.28
+"[5-[2-(dimethylamino)ethyl]-2-(4-methoxyphenyl)-4-oxo-2,3-dihydro-1,5-benzothiazepin-3-yl] acetate"	"CC(=O)OC1C(SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC"	0.3
+"[(2s,3s)-5-[2-(dimethylamino)ethyl]-2-(4-methoxyphenyl)-4-oxo-2,3-dihydro-1,5-benzothiazepin-3-yl] acetate"	"CC(=O)O[C@@H]1[C@@H](SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC"	0.3
+"6-[2-[4-[bis(4-fluorophenyl)methylidene]piperidin-1-yl]ethyl]-7-methyl-[1,3]thiazolo[3,2-a]pyrimidin-5-one"	"CC1=C(C(=O)N2C=CSC2=N1)CCN3CCC(=C(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F)CC3"	0.3
+"3-[2-oxo-8-(2-phenylethynyl)-1,3-dihydro-1,5-benzodiazepin-4-yl]benzonitrile"	"C1C(=NC2=C(C=C(C=C2)C#CC3=CC=CC=C3)NC1=O)C4=CC=CC(=C4)C#N"	0.3
+"7-nitro-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one"	"C1C(=O)NC2=C(C=C(C=C2)[N+](=O)[O-])C(=N1)C3=CC=CC=C3"	0.32
+"(3-ethyl-2-methylquinolin-6-yl)-(4-methoxycyclohexyl)methanone"	"CCC1=C(N=C2C=CC(=CC2=C1)C(=O)C3CCC(CC3)OC)C"	0.33
+"n-[5-amino-2-(2-methylphenyl)phenyl]-2-[3,5-bis(trifluoromethyl)phenyl]-n,2-dimethylpropanamide"	"CC1=CC=CC=C1C2=C(C=C(C=C2)N)N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F"	0.34
+"(4r,4as,7ar,12bs)-4a,9-dihydroxy-3-methyl-2,4,5,6,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one"	"CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O"	0.35
+"(2r)-2-bromo-2-chloro-1,1,1-trifluoroethane"	"[C@@H](C(F)(F)F)(Cl)Br"	0.35
+"4-(dimethylamino)-2-[[[2-(hydroxymethyl)quinolin-8-yl]amino]methyl]phenol"	"CN(C)C1=CC(=C(C=C1)O)CNC2=CC=CC3=C2N=C(C=C3)CO"	0.38
+"(2s,6s)-9-chloro-13-oxa-4-azatetracyclo[12.4.0.02,6.07,12]octadeca-1(18),7(12),8,10,14,16-hexaene"	"C1[C@H]2[C@H](CN1)C3=C(C=CC(=C3)Cl)OC4=CC=CC=C24"	0.39
+"2-[2-[4-[(s)-(4-chlorophenyl)-phenylmethyl]piperazin-1-yl]ethoxy]ethanol"	"C1CN(CCN1CCOCCO)[C@@H](C2=CC=CC=C2)C3=CC=C(C=C3)Cl"	0.39
+"3-[(2s)-1-methylpyrrolidin-2-yl]pyridine"	"CN1CCC[C@H]1C2=CN=CC=C2"	0.4
+"3-(n-ethylanilino)propanenitrile"	"CCN(CCC#N)C1=CC=CC=C1"	0.42
+"(2r)-2-chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane"	"[C@@H](C(F)(F)F)(OC(F)F)Cl"	0.42
+"3-(2-phenylethylamino)propanenitrile"	"C1=CC=C(C=C1)CCNCCC#N"	0.42
+"5-cycloheptyl-13-(dimethylamino)-8-thia-3,5,10-triazatricyclo[7.4.0.02,7]trideca-1(13),2(7),3,9,11-pentaen-6-one"	"CN(C)C1=C2C3=C(C(=O)N(C=N3)C4CCCCCC4)SC2=NC=C1"	0.43
+"n-[4-[4-[3-(trifluoromethyl)phenoxy]piperidin-1-yl]butyl]quinoline-4-carboxamide"	"C1CN(CCC1OC2=CC=CC(=C2)C(F)(F)F)CCCCNC(=O)C3=CC=NC4=CC=CC=C34"	0.48
+"(1r)-1,13-dimethyl-10-(3-methylbut-2-enyl)-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol"	"CC1C2CC3=C([C@@]1(CCN2CC=C(C)C)C)C=C(C=C3)O"	0.51
+"5-(2-chlorophenyl)-7-ethyl-1-methyl-3h-thieno[2,3-e][1,4]diazepin-2-one"	"CCC1=CC2=C(S1)N(C(=O)CN=C2C3=CC=CC=C3Cl)C"	0.51
+"(3s,6s,9s,12r,15s,18s,21s,24s,30s,33s)-30-ethyl-33-[(e,1r,2r)-1-hydroxy-2-methylhex-4-enyl]-1,4,7,10,12,15,19,25,28-nonamethyl-6,9,18,24-tetrakis(2-methylpropyl)-3,21-di(propan-2-yl)-1,4,7,10,13,16,19,22,25,28,31-undecazacyclotritriacontane-2,5,8,11,14,17,20,23,26,29,32-undecone"	"CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C"	0.52
+"(4ar,7s,7ar)-9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol"	"CN1CCC23[C@@H]4C1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O"	0.55
+"(4r,4ar,7r,7ar,12bs)-9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol"	"CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@@H](C=C4)O"	0.55
+"9-ethyl-4,6,9,10,11-pentahydroxy-7-(5-hydroxy-6-methyl-4-morpholin-4-yloxan-2-yl)oxy-8,10-dihydro-7h-tetracene-5,12-dione"	"CCC1(CC(C2=C(C1O)C(=C3C(=C2O)C(=O)C4=C(C3=O)C=CC=C4O)O)OC5CC(C(C(O5)C)O)N6CCOCC6)O"	0.56
+"(7s,9r,10r)-9-ethyl-4,6,9,10,11-pentahydroxy-7-[(2r,4s,5s,6s)-5-hydroxy-6-methyl-4-morpholin-4-yloxan-2-yl]oxy-8,10-dihydro-7h-tetracene-5,12-dione"	"CC[C@]1(C[C@@H](C2=C([C@H]1O)C(=C3C(=C2O)C(=O)C4=C(C3=O)C=CC=C4O)O)O[C@H]5C[C@@H]([C@@H]([C@@H](O5)C)O)N6CCOCC6)O"	0.56
+"n-(2-amino-5-phenylphenyl)-4-[(4-methylpiperazin-1-yl)methyl]benzamide"	"CN1CCN(CC1)CC2=CC=C(C=C2)C(=O)NC3=C(C=CC(=C3)C4=CC=CC=C4)N"	0.56
+"2-(aminomethyl)-6-methoxyphenol"	"COC1=CC=CC(=C1O)CN"	0.56
+"(4r,4ar,7ar,12bs)-9-methoxy-3-methyl-1,2,4,4a,7a,11a,12a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one"	"CN1CC[C@]23[C@@H]4[C@H]1CC5C2C(=C(C=C5)OC)O[C@H]3C(=O)C=C4"	0.57
+"1-[4-[1,3-benzothiazol-2-yl(methyl)amino]piperidin-1-yl]-3-(3,4-difluorophenoxy)propan-2-ol"	"CN(C1CCN(CC1)CC(COC2=CC(=C(C=C2)F)F)O)C3=NC4=CC=CC=C4S3"	0.59
+"(2s)-1-[4-[1,3-benzothiazol-2-yl(methyl)amino]piperidin-1-yl]-3-(3,4-difluorophenoxy)propan-2-ol"	"CN(C1CCN(CC1)C[C@@H](COC2=CC(=C(C=C2)F)F)O)C3=NC4=CC=CC=C4S3"	0.59
+"n-(2-aminophenyl)-4-[(dimethylamino)methyl]benzamide"	"CN(C)CC1=CC=C(C=C1)C(=O)NC2=CC=CC=C2N"	0.6
+"2-methyl-6-oxo-4-(1,2,4,5-tetrahydro-3-benzazepin-3-yl)-1-(2,2,2-trifluoroethyl)pyrimidine-5-carbonitrile"	"CC1=NC(=C(C(=O)N1CC(F)(F)F)C#N)N2CCC3=CC=CC=C3CC2"	0.6
+"(3s)-7-chloro-3-hydroxy-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one"	"C1=CC=C(C=C1)C2=N[C@H](C(=O)NC3=C2C=C(C=C3)Cl)O"	0.61
+"2-[[2-[[1-(2-aminoethyl)piperidin-4-yl]amino]-4-methylbenzimidazol-1-yl]methyl]-6-methylpyridin-3-ol"	"CC1=C2C(=CC=C1)N(C(=N2)NC3CCN(CC3)CCN)CC4=C(C=CC(=N4)C)O"	0.63
+"n-[[3,5-bis(trifluoromethyl)phenyl]methyl]-n-methyl-4-(2-methylphenyl)pyridine-3-carboxamide"	"CC1=CC=CC=C1C2=C(C=NC=C2)C(=O)N(C)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F"	0.68
+"2-[5-[3-[(dimethylamino)methyl]phenyl]-3-(4-methoxyphenyl)-1,2,4-triazol-1-yl]ethanol"	"CN(C)CC1=CC(=CC=C1)C2=NC(=NN2CCO)C3=CC=C(C=C3)OC"	0.71
+"6-(3-fluorophenyl)-5-[4-(2-piperidin-1-ylethoxy)phenoxy]naphthalen-2-ol"	"C1CCN(CC1)CCOC2=CC=C(C=C2)OC3=C(C=CC4=C3C=CC(=C4)O)C5=CC(=CC=C5)F"	0.73
+"n-hexyl-2,2-diphenylacetamide"	"CCCCCCNC(=O)C(C1=CC=CC=C1)C2=CC=CC=C2"	0.74
+"n-[3-(aminomethyl)phenyl]naphthalene-2-carboxamide"	"C1=CC=C2C=C(C=CC2=C1)C(=O)NC3=CC=CC(=C3)CN"	0.74
+"(1r,5s)-3-[bis(4-fluorophenyl)methoxy]-8-butyl-8-azabicyclo[3.2.1]octane"	"CCCCN1[C@@H]2CC[C@H]1CC(C2)OC(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F"	0.75
+"2-[(z)-1-(4-methylphenyl)-3-pyrrolidin-1-ylprop-1-enyl]pyridine"	"CC1=CC=C(C=C1)/C(=C/CN2CCCC2)/C3=CC=CC=N3"	0.77
+"n-[4-[4-(2-methoxyphenyl)piperazin-1-yl]butyl]naphthalene-2-carboxamide"	"COC1=CC=CC=C1N2CCN(CC2)CCCCNC(=O)C3=CC4=CC=CC=C4C=C3"	0.78
+"(1r,2s)-2-(4-fluorophenyl)cyclopropan-1-amine"	"C1[C@H]([C@@H]1N)C2=CC=C(C=C2)F"	0.81
+"3-(9h-acridin-10-yl)-n,n-dimethylpropan-1-amine"	"CN(C)CCCN1C2=CC=CC=C2CC3=CC=CC=C31"	0.83
+"[(1s,3s,7s,8s,8ar)-8-[2-[(2r,4r)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2s)-2-methylbutanoate"	"CC[C@H](C)C(=O)O[C@H]1C[C@@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C"	0.85
+"n-(2-amino-5-phenylphenyl)-4-[(dimethylamino)methyl]benzamide"	"CN(C)CC1=CC=C(C=C1)C(=O)NC2=C(C=CC(=C2)C3=CC=CC=C3)N"	0.88
+"n-[[3,5-bis(trifluoromethyl)phenyl]methyl]-4-(2-chlorophenyl)-n-methylpyridine-3-carboxamide"	"CN(CC1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)C(=O)C2=C(C=CN=C2)C3=CC=CC=C3Cl"	0.89
+"n-[4-[2-[4-(2,3-dichlorophenyl)piperazin-1-yl]ethyl]cyclohexyl]propanamide"	"CCC(=O)NC1CCC(CC1)CCN2CCN(CC2)C3=C(C(=CC=C3)Cl)Cl"	0.9
+"(3r)-3-methylhexane"	"CCC[C@H](C)CC"	0.9
+"2-[[2-(4-methoxyphenyl)quinolin-4-yl]amino]ethanol"	"COC1=CC=C(C=C1)C2=NC3=CC=CC=C3C(=C2)NCCO"	0.9
+"1-[2-(3,4-dimethoxyphenyl)ethyl]-4-[3-(2-iodophenyl)propyl]piperazine"	"COC1=C(C=C(C=C1)CCN2CCN(CC2)CCCC3=CC=CC=C3I)OC"	0.9
+"6-(3,4-difluorophenyl)-5-[4-(2-piperidin-1-ylethoxy)phenoxy]naphthalen-2-ol"	"C1CCN(CC1)CCOC2=CC=C(C=C2)OC3=C(C=CC4=C3C=CC(=C4)O)C5=CC(=C(C=C5)F)F"	0.92
+"(2s,3s)-n-[(5-tert-butyl-2-methoxyphenyl)methyl]-2-phenylpiperidin-3-amine"	"CC(C)(C)C1=CC(=C(C=C1)OC)CN[C@H]2CCCN[C@H]2C3=CC=CC=C3"	0.98
+"n-[4-[2-[4-(2,3-dichlorophenyl)piperazin-1-yl]ethyl]cyclohexyl]methanesulfonamide"	"CS(=O)(=O)NC1CCC(CC1)CCN2CCN(CC2)C3=C(C(=CC=C3)Cl)Cl"	1.0
+"3-(2-chloro-5,6-dihydrobenzo[b][1]benzazepin-11-yl)-n,n-dimethylpropan-1-amine"	"CN(C)CCCN1C2=CC=CC=C2CCC3=C1C=C(C=C3)Cl"	1.04
+"4-bromo-n-[4-[4-[3-(trifluoromethyl)phenoxy]piperidin-1-yl]butyl]benzamide"	"C1CN(CCC1OC2=CC=CC(=C2)C(F)(F)F)CCCCNC(=O)C3=CC=C(C=C3)Br"	1.04
+"n-[4-[2-[4-(2,3-dichlorophenyl)piperazin-1-yl]ethyl]cyclohexyl]acetamide"	"CC(=O)NC1CCC(CC1)CCN2CCN(CC2)C3=C(C(=CC=C3)Cl)Cl"	1.08
+"(2r,3s)-n-[[2-methoxy-5-(trifluoromethoxy)phenyl]methyl]-2-phenylpiperidin-3-amine"	"COC1=C(C=C(C=C1)OC(F)(F)F)CN[C@H]2CCCN[C@@H]2C3=CC=CC=C3"	1.11
+"(2s,3s)-n-[[2-methoxy-5-(trifluoromethoxy)phenyl]methyl]-2-phenylpiperidin-3-amine"	"COC1=C(C=C(C=C1)OC(F)(F)F)CN[C@H]2CCCN[C@H]2C3=CC=CC=C3"	1.11
+"(1s,9r)-1-methyl-16-azatetracyclo[7.6.1.02,7.010,15]hexadeca-2,4,6,10,12,14-hexaene"	"C[C@@]12C3=CC=CC=C3C[C@@H](N1)C4=CC=CC=C24"	1.11
+"2-(5-oxofuran-2-ylidene)acetic acid"	"C1=CC(=O)OC1=CC(=O)O"	1.11
+"4-bromo-n-[4-[4-[3-(trifluoromethyl)anilino]piperidin-1-yl]butyl]benzamide"	"C1CN(CCC1NC2=CC=CC(=C2)C(F)(F)F)CCCCNC(=O)C3=CC=C(C=C3)Br"	1.18
+"6-(4-fluorophenyl)-5-[4-(2-piperidin-1-ylethoxy)phenoxy]naphthalen-2-ol"	"C1CCN(CC1)CCOC2=CC=C(C=C2)OC3=C(C=CC4=C3C=CC(=C4)O)C5=CC=C(C=C5)F"	1.25
+"1-[3-[5-(4-methoxyphenyl)-2-methyl-1,2,4-triazol-3-yl]phenyl]-n,n-dimethylmethanamine"	"CN1C(=NC(=N1)C2=CC=C(C=C2)OC)C3=CC=CC(=C3)CN(C)C"	1.26
+"1-cyclohexyl-1-phenyl-3-piperidin-1-ylpropan-1-ol"	"C1CCC(CC1)C(CCN2CCCCC2)(C3=CC=CC=C3)O"	1.32
+"1-(4-iodophenyl)-4-propan-2-ylpiperazine"	"CC(C)N1CCN(CC1)C2=CC=C(C=C2)I"	1.38
+"1-[3-[2-(methoxymethyl)-5-(4-methoxyphenyl)-1,2,4-triazol-3-yl]phenyl]-n,n-dimethylmethanamine"	"CN(C)CC1=CC(=CC=C1)C2=NC(=NN2COC)C3=CC=C(C=C3)OC"	1.38
+"4-[4-(4-chlorophenyl)-1,4-diazepan-1-yl]-1-(4-fluorophenyl)butan-1-one"	"C1CN(CCN(C1)C2=CC=C(C=C2)Cl)CCCC(=O)C3=CC=C(C=C3)F"	1.48
+"3-(4-chlorophenyl)-n,n-dimethyl-3-pyridin-2-ylpropan-1-amine"	"CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2"	1.53
+"2-hydroxy-5-[[4-(pyridin-2-ylsulfamoyl)phenyl]diazenyl]benzoic acid"	"C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O"	-2.69
+"5-chloro-7-iodoquinolin-8-ol"	"C1=CC2=C(C(=C(C=C2Cl)I)O)N=C1"	-2.4
+"2-[2-[(3-bromopyridin-2-yl)methylsulfanyl]ethyl]-1-cyano-3-ethylguanidine"	"CCNC(=NCCSCC1=C(C=CC=N1)Br)NC#N"	-2.15
+"n-(6,7-dichloro-2,3-dioxo-1,4-dihydroquinoxalin-5-yl)-n-(2-hydroxyethyl)methanesulfonamide"	"CS(=O)(=O)N(CCO)C1=C2C(=CC(=C1Cl)Cl)NC(=O)C(=O)N2"	-2.15
+"1-[(e)-(5-nitrofuran-2-yl)methylideneamino]imidazolidine-2,4-dione"	"C1C(=O)NC(=O)N1/N=C/C2=CC=C(O2)[N+](=O)[O-]"	-2.09
+"7-chloro-4-hydroxy-3-(3-phenoxyphenyl)-1h-quinolin-2-one"	"C1=CC=C(C=C1)OC2=CC=CC(=C2)C3=C(C4=C(C=C(C=C4)Cl)NC3=O)O"	-2.03
+"5-[(7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl)oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5h-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one"	"CC1OCC2C(O1)C(C(C(O2)OC3C4COC(=O)C4C(C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O"	-2.0
+"2-[4-(3-methoxypyridin-2-yl)butylamino]-5-[(6-methylpyridin-3-yl)methyl]-1h-pyrimidin-6-one"	"CC1=NC=C(C=C1)CC2=CN=C(NC2=O)NCCCCC3=C(C=CC=N3)OC"	-2.0
+"2-[4-(5-bromo-3-methylpyridin-2-yl)butylamino]-5-[(6-methylpyridin-3-yl)methyl]-1h-pyrimidin-6-one"	"CC1=NC=C(C=C1)CC2=CN=C(NC2=O)NCCCCC3=NC=C(C=C3C)Br"	-1.9
+"7-[[4-(2-amino-1-carboxy-2-oxoethylidene)-1,3-dithietane-2-carbonyl]amino]-7-methoxy-3-[(1-methyltetrazol-5-yl)sulfanylmethyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"	"CN1C(=NN=N1)SCC2=C(N3C(C(C3=O)(NC(=O)C4SC(=C(C(=O)N)C(=O)O)S4)OC)SC2)C(=O)O"	-1.89
+"disodium;(6r,7s)-7-[[4-(2-amino-1-carboxylato-2-oxoethylidene)-1,3-dithietane-2-carbonyl]amino]-7-methoxy-3-[(1-methyltetrazol-5-yl)sulfanylmethyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate"	"CN1C(=NN=N1)SCC2=C(N3[C@@H]([C@@](C3=O)(NC(=O)C4SC(=C(C(=O)N)C(=O)[O-])S4)OC)SC2)C(=O)[O-].[Na+].[Na+]"	-1.89
+"n-phenyl-4,5-dihydro-1h-imidazol-2-amine"	"C1CN=C(N1)NC2=CC=CC=C2"	-1.89
+"7-chloro-3-[5-(1,2-dihydroxypropan-2-yl)-1,2,4-oxadiazol-3-yl]-5-methyl-4h-imidazo[1,5-a][1,4]benzodiazepin-6-one"	"CC(CO)(C1=NC(=NO1)C2=C3CN(C(=O)C4=C(N3C=N2)C=CC=C4Cl)C)O"	-1.82
+"[6-hydroxy-2-(4-hydroxyphenyl)-1-benzothiophen-3-yl]-[4-(2-piperidin-1-ylethoxy)phenyl]methanone"	"C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O"	-1.81
+"3-ethoxycarbonyl-1,3-thiazolidine-4-carboxylic acid"	"CCOC(=O)N1CSCC1C(=O)O"	-1.72
+"4-[4-[bis(2-chloroethyl)amino]phenyl]butanoic acid"	"C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl"	-1.7
+"2-(3-fluoro-4-phenylphenyl)propanoic acid"	"CC(C1=CC(=C(C=C1)C2=CC=CC=C2)F)C(=O)O"	-1.68
+"hexane-1,2,3,4,5,6-hexol"	"C(C(C(C(C(CO)O)O)O)O)O"	-1.6
+"n-[3-[2-(diaminomethylideneamino)-1,3-thiazol-4-yl]phenyl]acetamide"	"CC(=O)NC1=CC=CC(=C1)C2=CSC(=N2)N=C(N)N"	-1.57
+"2-[[4-[(2,4-diaminopteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid"	"CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O"	-1.52
+"4-amino-3-(4-chlorophenyl)butanoic acid"	"C1=CC(=CC=C1C(CC(=O)O)CN)Cl"	-1.52
+"(2s)-2-[[4-[(2,4-diaminopteridin-6-yl)methyl-methylamino]benzoyl]amino]pentanedioic acid"	"CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O"	-1.5
+"4-[(4-methylpiperazin-1-yl)methyl]-n-[4-methyl-3-[(4-pyridin-3-ylpyrimidin-2-yl)amino]phenyl]benzamide"	"CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5"	-1.5
+"4-amino-1-[(2s,5s)-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one"	"C1C[C@H](O[C@@H]1CO)N2C=CC(=NC2=O)N"	-1.5
+"8-chloro-1-methyl-6-phenyl-4h-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin-4-ol"	"CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2O)C4=CC=CC=C4"	-1.48
+"10-hydroxy-2,4a,6a,6b,9,9,12a-heptamethyl-13-oxo-3,4,5,6,6a,7,8,8a,10,11,12,14b-dodecahydro-1h-picene-2-carboxylic acid"	"CC1(C2CCC3(C(C2(CCC1O)C)C(=O)C=C4C3(CCC5(C4CC(CC5)(C)C(=O)O)C)C)C)C"	-1.4
+"8-(3-oxocyclopentyl)-1,3-dipropyl-7h-purine-2,6-dione"	"CCCN1C2=C(C(=O)N(C1=O)CCC)NC(=N2)C3CCC(=O)C3"	-1.4
+"8-[(1s)-3-oxocyclopentyl]-1,3-dipropyl-7h-purine-2,6-dione"	"CCCN1C2=C(C(=O)N(C1=O)CCC)NC(=N2)[C@H]3CCC(=O)C3"	-1.4
+"methyl n-[6-(4-pyridin-2-ylpiperazine-1-carbonyl)-1h-benzimidazol-2-yl]carbamate"	"COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)N3CCN(CC3)C4=CC=CC=N4"	-1.4
+"4-[4-(4-fluorophenyl)-5-(2-methoxypyrimidin-4-yl)imidazol-1-yl]cyclohexan-1-ol"	"COC1=NC=CC(=N1)C2=C(N=CN2C3CCC(CC3)O)C4=CC=C(C=C4)F"	-1.4
+"n-(2-methylphenyl)-4,5-dihydro-1h-imidazol-2-amine"	"CC1=CC=CC=C1NC2=NCCN2"	-1.39
+"(3r,5r)-7-[2-(4-fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-propan-2-ylpyrrol-1-yl]-3,5-dihydroxyheptanoic acid"	"CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4"	-1.36
+"7-chloro-3-[5-(2-hydroxypropan-2-yl)-1,2,4-oxadiazol-3-yl]-5-methyl-4h-imidazo[1,5-a][1,4]benzodiazepin-6-one"	"CC(C)(C1=NC(=NO1)C2=C3CN(C(=O)C4=C(N3C=N2)C=CC=C4Cl)C)O"	-1.34
+"2-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethylamino]-5-(naphthalen-2-ylmethyl)-1h-pyrimidin-6-one"	"C[NH+](C)CC1=CC=C(CSCCNC2=NC(=O)C(=CN2)CC3=CC=C4C=CC=CC4=C3)O1"	-1.3
+"5-chloro-n-(4-methoxy-3-piperazin-1-ylphenyl)-3-methyl-1-benzothiophene-2-sulfonamide"	"CC1=C(SC2=C1C=C(C=C2)Cl)S(=O)(=O)NC3=CC(=C(C=C3)OC)N4CCNCC4"	-1.3
+"2-[1-(4-chlorobenzoyl)-5-methoxy-2-methylindol-3-yl]acetic acid"	"CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O"	-1.3
+"n-(2,4-dimethylphenyl)-4,5-dihydro-1h-imidazol-2-amine"	"CC1=CC(=C(C=C1)NC2=NCCN2)C"	-1.3
+"n-(2,6-dichlorophenyl)-2-[[6-[4-(2-hydroxyethyl)piperazin-1-yl]-2-methylpyrimidin-4-yl]amino]-1,3-thiazole-5-carboxamide"	"CC1=NC(=CC(=N1)N2CCN(CC2)CCO)NC3=NC=C(S3)C(=O)NC4=C(C=CC=C4Cl)Cl"	-1.3
+"2-(4-chlorophenyl)-2-[2,6-dichloro-4-(3,5-dioxo-1,2,4-triazin-2-yl)phenyl]acetonitrile"	"C1=CC(=CC=C1C(C#N)C2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C=N3)Cl)Cl"	-1.3
+"3-[[1-(aminomethyl)cyclohexyl]methyl]-4h-1,2,4-oxadiazol-5-one"	"C1CCC(CC1)(CC2=NOC(=O)N2)CN"	-1.3
+"2-[2-(2,6-dichloroanilino)phenyl]acetic acid"	"C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl"	-1.3
+"9-[(2r,5s)-5-(hydroxymethyl)oxolan-2-yl]-1h-purin-6-one"	"C1C[C@@H](O[C@@H]1CO)N2C=NC3=C2N=CNC3=O"	-1.3
+"2-[1-(4-chlorobenzoyl)-5-methoxy-2-methyl-2,3-dihydroindol-3-yl]acetic acid"	"CC1C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O"	-1.26
+"2-[(2s,3r)-1-(4-chlorobenzoyl)-5-methoxy-2-methyl-2,3-dihydroindol-3-yl]acetic acid"	"C[C@H]1[C@@H](C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O"	-1.26
+"4-phenylbenzoic acid"	"C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)O"	-1.26
+"(e)-1-n'-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-1-n-methyl-2-nitroethene-1,1-diamine"	"CN/C(=C\[N+](=O)[O-])/NCCSCC1=CC=C(O1)CN(C)C"	-1.23
+"n-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-n'-methyl-2-nitroethanimidamide"	"CN=C(C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C"	-1.23
+"1-n'-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-1-n-methyl-2-nitroethene-1,1-diamine"	"CNC(=C[N+](=O)[O-])NCCSCC1=CC=C(O1)CN(C)C"	-1.23
+"3-[(3s,5r,8r,9s,10s,12r,13s,14s)-3-[(2r,4s,5s,6r)-5-[(2s,4s,5s,6r)-5-[(2s,4s,5s,6r)-4,5-dihydroxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-12,14-dihydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]-2h-furan-5-one"	"C[C@@H]1[C@H]([C@H](C[C@@H](O1)O[C@@H]2[C@H](O[C@H](C[C@@H]2O)O[C@@H]3[C@H](O[C@H](C[C@@H]3O)O[C@H]4CC[C@]5([C@@H](C4)CC[C@@H]6[C@@H]5C[C@H]([C@]7([C@@]6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O"	-1.23
+"4-amino-5-fluoro-1-[(2r,5s)-2-(hydroxymethyl)-1,3-oxathiolan-5-yl]pyrimidin-2-one"	"C1[C@H](O[C@H](S1)CO)N2C=C(C(=NC2=O)N)F"	-1.22
+"3-[2-(dimethylamino)ethyl]-1h-indol-5-ol"	"CN(C)CCC1=CNC2=C1C=C(C=C2)O"	-1.19
+"4-(3-amino-1h-1,2,4-triazol-5-yl)-n,n-dimethylpyridin-2-amine"	"CN(C)C1=[NH+]C=CC(=C1)C2=N[NH]C(=N2)N"	-1.17
+"2-[4-(3-aminophenyl)-1,3-thiazol-2-yl]guanidine"	"C1=CC(=CC(=C1)N)C2=CSC(=N2)N=C(N)N"	-1.15
+"n-[1-(cyclohexylmethyl)-2-[(5-ethoxypyridin-2-yl)methyl]benzimidazol-5-yl]-n-methylthiophene-2-sulfonamide"	"CCOC1=CN=C(C=C1)CC2=NC3=C(N2CC4CCCCC4)C=CC(=C3)N(C)S(=O)(=O)C5=CC=CS5"	-1.15
+"[5-ethylsulfonyl-2-(oxan-4-yl)-3,4-dihydro-1h-pyrido[4,3-b]indol-8-yl]-(4-methylpiperidin-1-yl)methanone"	"CCS(=O)(=O)N1C2=C(CN(CC2)C3CCOCC3)C4=C1C=CC(=C4)C(=O)N5CCC(CC5)C"	-1.15
+"hexadecyl 2-(trimethylazaniumyl)ethyl phosphate"	"CCCCCCCCCCCCCCCCOP(=O)([O-])OCC[N+](C)(C)C"	-1.14
+"n-[(1-ethylpyrrolidin-2-yl)methyl]-2-methoxy-5-sulfamoylbenzamide"	"CCN1CCCC1CNC(=O)C2=C(C=CC(=C2)S(=O)(=O)N)OC"	-1.11
+"5-bromo-n-[2-hydroxy-7-(2-methylpropyl)-5,8-dioxo-4-propan-2-yl-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4h-indolo[4,3-fg]quinoline-9-carboxamide"	"CC(C)CC1C(=O)N2CCCC2C3(N1C(=O)C(O3)(C(C)C)NC(=O)C4CN(C5CC6=C(NC7=CC=CC(=C67)C5=C4)Br)C)O"	-1.1
+"(6ar,9r)-5-bromo-n-[(1s,2s,4r,7s)-2-hydroxy-7-(2-methylpropyl)-5,8-dioxo-4-propan-2-yl-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4h-indolo[4,3-fg]quinoline-9-carboxamide"	"CC(C)C[C@H]1C(=O)N2CCC[C@H]2[C@]3(N1C(=O)[C@](O3)(C(C)C)NC(=O)[C@H]4CN([C@@H]5CC6=C(NC7=CC=CC(=C67)C5=C4)Br)C)O"	-1.1
+"2-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethylamino]-5-[(6-methylpyridin-3-yl)methyl]-1h-pyrimidin-6-one"	"CC1=NC=C(C=C1)CC2=CN=C(NC2=O)NCCSCC3=CC=C(O3)CN(C)C"	-1.1
+"7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one"	"C1C2CNCC1C3=CC=CC(=O)N3C2"	-1.09
+"(2-butyl-1-benzofuran-3-yl)-[4-[2-(diethylamino)ethoxy]-3,5-diiodophenyl]methanone"	"CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I"	-1.08
+"2-[2-[[5-(2-aminopropan-2-yl)furan-2-yl]methylsulfanyl]ethylamino]-5-[(6-methylpyridin-3-yl)methyl]-1h-pyrimidin-6-one;trihydrochloride"	"CC1=NC=C(C=C1)CC2=CN=C(NC2=O)NCCSCC3=CC=C(O3)C(C)(C)N.Cl.Cl.Cl"	-1.06
+"(4s)-4-[[3-[2-(dimethylamino)ethyl]-1h-indol-5-yl]methyl]-1,3-oxazolidin-2-one"	"CN(C)CCC1=CNC2=C1C=C(C=C2)C[C@H]3COC(=O)N3"	-1.04
+"methyl (1r,9r,10s,11r,12r,19r)-11-acetyloxy-12-ethyl-4-[(13s,15s,17s)-17-ethyl-17-hydroxy-13-methoxycarbonyl-1,11-diazatetracyclo[13.3.1.04,12.05,10]nonadeca-4(12),5,7,9-tetraen-13-yl]-8-formyl-10-hydroxy-5-methoxy-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate"	"CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O"	-1.03
+"2-[2-phenyl-4-(1-phenylpropylcarbamoyl)quinolin-3-yl]oxyacetic acid"	"CCC(C1=CC=CC=C1)NC(=O)C2=C(C(=NC3=CC=CC=C32)C4=CC=CC=C4)OCC(=O)O"	-1.0
+"n,n-dimethyl-2-[6-oxo-3-(2-phenylpyrazolo[1,5-a]pyridin-3-yl)pyridazin-1-yl]acetamide"	"CN(C)C(=O)CN1C(=O)C=CC(=N1)C2=C3C=CC=CN3N=C2C4=CC=CC=C4"	-1.0
+"methyl 6-methyl-4-(3-nitroanilino)-2-oxocyclohex-3-ene-1-carboxylate"	"CC1CC(=CC(=O)C1C(=O)OC)NC2=CC(=CC=C2)[N+](=O)[O-]"	-1.0
+"6-methoxy-1-phenylpyridazin-1-ium-4-amine"	"COC1=[N+](N=CC(=C1)N)C2=CC=CC=C2"	-1.0
+"10-(benzenesulfonyl)-11-methylsulfanyl-2-piperazin-1-yl-1,8,12-triazatricyclo[7.3.0.03,7]dodeca-2,7,9,11-tetraene"	"CSC1=NN2C(=C1S(=O)(=O)C3=CC=CC=C3)N=C4CCCC4=C2N5CCNCC5"	-1.0
+"4-[5-(4-methylphenyl)-3-(trifluoromethyl)pyrazol-1-yl]benzenesulfonamide"	"CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F"	-1.0
+"6-[(3-chlorophenyl)-imidazol-1-ylmethyl]-1h-benzimidazole"	"C1=CC(=CC(=C1)Cl)C(C2=CC3=C(C=C2)N=CN3)N4C=CN=C4"	-1.0
+"5-[(z)-[pyridin-3-yl-[3-(trifluoromethyl)phenyl]methylidene]amino]oxypentanoic acid"	"C1=CC(=CC(=C1)C(F)(F)F)/C(=N/OCCCCC(=O)O)/C2=CN=CC=C2"	-1.0
+"4-[4-(azetidine-1-carbonyl)benzoyl]-1-[4-(1-cyclobutylpiperidin-4-yl)oxyphenyl]piperazin-2-one"	"C1CC(C1)N2CCC(CC2)OC3=CC=C(C=C3)N4CCN(CC4=O)C(=O)C5=CC=C(C=C5)C(=O)N6CCC6"	-1.0
+"2-chloro-5-(2-phenyl-5-pyridin-4-yl-1h-imidazol-4-yl)phenol"	"C1=CC=C(C=C1)C2=NC(=C(N2)C3=CC=NC=C3)C4=CC(=C(C=C4)Cl)O"	-1.0
+"5-[3-(tert-butylamino)-2-hydroxypropoxy]-1,2,3,4-tetrahydronaphthalene-2,3-diol"	"CC(C)(C)NCC(COC1=CC=CC2=C1CC(C(C2)O)O)O"	-0.95
+"methyl 4-(4-chloroanilino)-6-methyl-2-oxocyclohex-3-ene-1-carboxylate"	"CC1CC(=CC(=O)C1C(=O)OC)NC2=CC=C(C=C2)Cl"	-0.95
+"n-tert-butyl-2-[2-hydroxy-3-[(3-hydroxy-2-methylbenzoyl)amino]-4-phenylsulfanylbutyl]-3,4,4a,5,6,7,8,8a-octahydro-1h-isoquinoline-3-carboxamide"	"CC1=C(C=CC=C1O)C(=O)NC(CSC2=CC=CC=C2)C(CN3CC4CCCCC4CC3C(=O)NC(C)(C)C)O"	-0.93
+"5-methoxy-8-oxo-[1,3]dioxolo[4,5-g]quinoline-7-carboxylic acid"	"CON1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O"	-0.92
+"[4-(4-amino-6,7-dimethoxyquinazolin-2-yl)piperazin-1-yl]-(furan-2-yl)methanone"	"COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4=CC=CO4)N)OC"	-0.9
+"5-chloro-n-[2-[4-(cyclohexylcarbamoylsulfamoyl)phenyl]ethyl]-2-methoxybenzamide"	"COC1=C(C=C(C=C1)Cl)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3"	-0.9
+"2-[3-[[(2-benzhydryl-1-azabicyclo[2.2.2]octan-3-yl)amino]methyl]-4-methoxyphenyl]propan-2-ol"	"CC(C)(C1=CC(=C(C=C1)OC)CNC2C3CCN(C2C(C4=CC=CC=C4)C5=CC=CC=C5)CC3)O"	-0.89
+"n-[1-[(6-aminopyridin-2-yl)methyl]piperidin-4-yl]-2-(3,3-difluorocyclopentyl)-2-hydroxy-2-phenylacetamide"	"C1CC(CC1C(C2=CC=CC=C2)(C(=O)NC3CCN(CC3)CC4=NC(=CC=C4)N)O)(F)F"	-0.89
+"n-(4-chloro-2-methylphenyl)-4,5-dihydro-1h-imidazol-2-amine"	"CC1=C(C=CC(=C1)Cl)NC2=NCCN2"	-0.87
+"4-amino-n-(6-methoxypyridazin-3-yl)benzenesulfonamide"	"COC1=NN=C(C=C1)NS(=O)(=O)C2=CC=C(C=C2)N"	-0.85
+"7-(4-amino-5-hydroxy-6-methyloxan-2-yl)oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7h-tetracene-5,12-dione"	"CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O"	-0.83
+"(7s,9s)-7-[(2r,4s,5s,6s)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7h-tetracene-5,12-dione"	"C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O"	-0.83
+"6-methoxy-2-[(4-methoxy-3,5-dimethylpyridin-2-yl)methylsulfinyl]-1h-benzimidazole"	"CC1=CN=C(C(=C1OC)C)CS(=O)C2=NC3=C(N2)C=C(C=C3)OC"	-0.82
+"1-cyano-3-[2-[[2-(diaminomethylideneamino)-1,3-thiazol-4-yl]methylsulfanyl]ethyl]-2-methylguanidine"	"NC(NC1=NC(CSCC/N=C(NC)/NC#N)=CS1)=N"	-0.8
+"5-(4-ethylphenyl)-13-[methyl(2-pyridin-2-ylethyl)amino]-8-thia-3,5,10-triazatricyclo[7.4.0.02,7]trideca-1(13),2(7),3,9,11-pentaen-6-one"	"CCC1=CC=C(C=C1)N2C=NC3=C(C2=O)SC4=NC=CC(=C34)N(C)CCC5=CC=CC=N5"	-0.8
+"n-(1,2,3,10-tetramethoxy-9-oxo-6,7-dihydro-5h-benzo[a]heptalen-7-yl)acetamide"	"CC(=O)NC1CCC2=CC(=C(C(=C2C3=CC=C(C(=O)C=C13)OC)OC)OC)OC"	-0.8
+"(2s)-2-amino-3-(3,4-dihydroxyphenyl)propanoic acid"	"C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O"	-0.8
+"4-amino-1-[4,5-bis(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one"	"C1C(C(OC1N2C=CC(=NC2=O)N)CO)CO"	-0.79
+"(2e)-3-methoxy-5-methyl-4-oxohexa-2,5-dienoic acid"	"CC(=C)C(=O)/C(=C\C(=O)O)/OC"	-0.79
+"4-[(1-acetylpiperidin-4-yl)methoxy]-2-cyano-n-methyl-6-(spiro[3.5]nonan-7-ylmethylamino)pyrimidine-5-carboxamide"	"CC(=O)N1CCC(CC1)COC2=NC(=NC(=C2C(=O)NC)NCC3CCC4(CCC4)CC3)C#N"	-0.79
+"2-amino-3-(3,4-dihydroxyphenyl)propanoic acid"	"C1=CC(=C(C=C1CC(C(=O)O)N)O)O"	-0.77
+"7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.05,13]trideca-5(13),6,8,11-tetraene-11-carboxylic acid"	"CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O"	-0.76
+"1-[4-benzyl-2-hydroxy-5-[(2-hydroxy-2,3-dihydro-1h-inden-1-yl)amino]-5-oxopentyl]-n-tert-butyl-4-(pyridin-3-ylmethyl)piperazine-2-carboxamide"	"CC(C)(C)NC(=O)C1CN(CCN1CC(CC(CC2=CC=CC=C2)C(=O)NC3C(CC4=CC=CC=C34)O)O)CC5=CN=CC=C5"	-0.74
+"4-benzyl-n-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-3-nitro-1h-pyrrol-2-amine"	"CN(C)CC1=CC=C(O1)CSCCNC2=C(C(=CN2)CC3=CC=CC=C3)[N+](=O)[O-]"	-0.73
+"2-[[6-(benzylamino)-9-propan-2-ylpurin-2-yl]amino]butan-1-ol"	"CCC(CO)NC1=NC(=C2C(=N1)N(C=N2)C(C)C)NCC3=CC=CC=C3"	-0.72
+"[2-(hydroxymethyl)-5-(5-methyl-2,4-dioxopyrimidin-1-yl)oxolan-3-yl]imino-iminoazanium"	"CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=N"	-0.72
+"3,7-dihydropurine-6-thione"	"C1=NC2=C(N1)C(=S)N=CN2"	-0.71
+"1-[4-cyano-4-(4-fluorophenyl)cyclohexyl]-3-methyl-4-phenylpiperidine-4-carboxylic acid"	"CC1CN(CCC1(C2=CC=CC=C2)C(=O)O)C3CCC(CC3)(C#N)C4=CC=C(C=C4)F"	-0.7
+"5-chloro-4-methyl-1,4-dihydroquinazolin-2-amine"	"CC1C2=C(C=CC=C2Cl)NC(=N1)N"	-0.7
+"(2-methoxy-3-octadecoxypropyl) 2-(trimethylazaniumyl)ethyl phosphate"	"CCCCCCCCCCCCCCCCCCOCC(COP(=O)([O-])OCC[N+](C)(C)C)OC"	-0.7
+"2-[(2r)-butan-2-yl]-4-[4-[4-[4-[[(2s,4r)-2-(4-chlorophenyl)-2-[(4-methyl-1,2,4-triazol-3-yl)sulfanylmethyl]-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]phenyl]-1,2,4-triazol-3-one"	"CC[C@@H](C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@@H]5CO[C@@](O5)(CSC6=NN=CN6C)C7=CC=C(C=C7)Cl"	-0.7
+"4-[4-[4-(1-cyclobutylpiperidin-4-yl)oxyphenyl]-3-oxopiperazine-1-carbonyl]benzonitrile"	"C1CC(C1)N2CCC(CC2)OC3=CC=C(C=C3)N4CCN(CC4=O)C(=O)C5=CC=C(C=C5)C#N"	-0.7
+"1-methyl-n-(9-methyl-9-azabicyclo[3.3.1]nonan-3-yl)indazole-3-carboxamide"	"CN1C2CCCC1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C"	-0.69
+"2-cyano-n-methyl-4-(piperidin-4-ylmethoxy)-6-(spiro[3.5]nonan-7-ylmethylamino)pyrimidine-5-carboxamide"	"CNC(=O)C1=C(N=C(N=C1OCC2CCNCC2)C#N)NCC3CCC4(CCC4)CC3"	-0.67
+"3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-7-hydroxy-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one"	"CC1=C(C(=O)N2CC(CCC2=N1)O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F"	-0.67
+"1-[3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,4-triazole-3-carboxamide"	"C1=NC(=NN1C2C(C(C(O2)CO)O)O)C(=O)N"	-0.67
+"n-[2-[(3-bromopyridin-2-yl)methylsulfanyl]ethyl]-3-nitro-1h-pyrrol-2-amine"	"C1=CC(=C(N=C1)CSCCNC2=C(C=CN2)[N+](=O)[O-])Br"	-0.67
+"1-ethyl-7-methyl-4-oxo-1,8-naphthyridine-3-carboxylic acid"	"CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O"	-0.66
+"3-nitro-n-[2-(pyridin-2-ylmethylsulfanyl)ethyl]-1h-pyrrol-2-amine"	"C1=CC=NC(=C1)CSCCNC2=C(C=CN2)[N+](=O)[O-]"	-0.66
+"[4-(6,7-dimethoxy-4-methylquinazolin-2-yl)piperazin-1-yl]-(furan-2-yl)methanone"	"CC1=NC(=NC2=CC(=C(C=C12)OC)OC)N3CCN(CC3)C(=O)C4=CC=CO4"	-0.66
+"n-(2-chloro-4-methylphenyl)-4,5-dihydro-1h-imidazol-2-amine"	"CC1=CC(=C(C=C1)NC2=NCCN2)Cl"	-0.65
+"2-butan-2-yl-4-[4-[4-[4-[[(2r,4s)-2-(2,4-dichlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]phenyl]-1,2,4-triazol-3-one"	"CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5CO[C@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl"	-0.64
+"2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethylamino]-2-propan-2-ylpentanenitrile"	"CC(C)C(CCCNCCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC"	-0.64
+"1-[4-[4-[[(2s)-2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]ethanone"	"CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OCC3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl"	-0.63
+"2-[1-[2-(2,3-dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl]-2,2-diphenylacetamide"	"C1CN(CC1C(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)N)CCC4=CC5=C(C=C4)OCC5"	-0.62
+"2-[(3s)-1-[2-(2,3-dihydro-1-benzofuran-5-yl)ethyl]pyrrolidin-3-yl]-2,2-diphenylacetamide"	"C1CN(C[C@@H]1C(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)N)CCC4=CC5=C(C=C4)OCC5"	-0.62
+"1-[4-fluoro-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione"	"CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)F"	-0.6
+"methyl carbamimidothioate"	"CSC(=N)N"	-0.6
+"4-(2,4-difluorobenzoyl)-1-[4-[3-[(2r)-2-methylpyrrolidin-1-yl]propoxy]phenyl]piperazin-2-one"	"C[C@@H]1CCCN1CCCOC2=CC=C(C=C2)N3CCN(CC3=O)C(=O)C4=C(C=C(C=C4)F)F"	-0.6
+"(3as)-2,3,3a,4-tetrahydro-1h-pyrrolo[2,1-c][1,2,4]benzothiadiazine 5,5-dioxide"	"C1C[C@@H]2NS(=O)(=O)C3=CC=CC=C3N2C1"	-0.6
+"5-hydroxy-5,6-dihydrobenzo[b][1]benzazepine-11-carboxamide"	"C1C(C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O"	-0.59
+"oxolan-3-yl n-[4-[(4-aminophenyl)sulfonyl-(2-methylpropyl)amino]-3-hydroxy-1-phenylbutan-2-yl]carbamate"	"CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2CCOC2)O)S(=O)(=O)C3=CC=C(C=C3)N"	-0.56
+"[(3r)-oxolan-3-yl] n-[(2s,3r)-4-[(4-aminophenyl)sulfonyl-(2-methylpropyl)amino]-3-hydroxy-1-phenylbutan-2-yl]carbamate"	"CC(C)CN(C[C@H]([C@H](CC1=CC=CC=C1)NC(=O)O[C@@H]2CCOC2)O)S(=O)(=O)C3=CC=C(C=C3)N"	-0.56
+"[(3s)-oxolan-3-yl] n-[(2s,3r)-4-[(4-aminophenyl)sulfonyl-(2-methylpropyl)amino]-3-hydroxy-1-phenylbutan-2-yl]carbamate"	"CC(C)CN(C[C@H]([C@H](CC1=CC=CC=C1)NC(=O)O[C@H]2CCOC2)O)S(=O)(=O)C3=CC=C(C=C3)N"	-0.56
+"1-(4-bromophenyl)-8-[4-(4-fluorophenyl)-4-oxobutyl]-3-methyl-1,3,8-triazaspiro[4.5]decan-4-one"	"CN1CN(C2=CC=C(Br)C=C2)C3(CC[NH+](CCCC(=O)C4=CC=C(F)C=C4)CC3)C1=O"	-0.55
+"n-[4-[(2s)-2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]acetamide"	"CC(C)NC[C@@H](COC1=CC=C(C=C1)NC(=O)C)O"	-0.55
+"3-(aminomethyl)-5-methylhexanoic acid"	"CC(C)CC(CC(=O)O)CN"	-0.54
+"n-cyclopropyl-3-[4-(cyclopropylmethylcarbamoyl)phenyl]-4-methylbenzamide"	"CC1=C(C=C(C=C1)C(=O)NC2CC2)C3=CC=C(C=C3)C(=O)NCC4CC4"	-0.52
+"n-(5-sulfamoyl-1,3,4-thiadiazol-2-yl)acetamide"	"CC(=O)NC1=NN=C(S1)S(=O)(=O)N"	-0.52
+"5-[2-(benzenesulfonyl)ethyl]-3-[[(2s)-1-methylpyrrolidin-2-yl]methyl]-1h-indole"	"CN1CCC[C@H]1CC2=CNC3=C2C=C(C=C3)CCS(=O)(=O)C4=CC=CC=C4"	-0.52
+"n-(2,5-dibromo-3-fluorophenyl)-4-methoxy-3-piperazin-1-ylbenzenesulfonamide"	"COC1=C(C=C(C=C1)S(=O)(=O)NC2=C(C(=CC(=C2)Br)F)Br)N3CCNCC3"	-0.52
+"1,3-bis(2-chloroethyl)-1-nitrosourea"	"C(CCl)NC(=O)N(CCCl)N=O"	-0.52
+"4-butyl-5-hydroxy-1,2-diphenylpyrazol-3-one"	"CCCCC1=C(N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3)O"	-0.52
+"n-[2-(3-hydroxypyrrolidin-1-yl)-1-phenylethyl]-n-methyl-2,2-diphenylacetamide"	"CN(C(CN1CCC(C1)O)C2=CC=CC=C2)C(=O)C(C3=CC=CC=C3)C4=CC=CC=C4"	-0.51
+"4-butyl-1,2-diphenylpyrazolidine-3,5-dione"	"CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3"	-0.5
+"n-(3-chloro-4-fluorophenyl)-7-methoxy-6-(3-morpholin-4-ylpropoxy)quinazolin-4-amine"	"COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4"	-0.5
+"(8s,9s,10r,11r,13s,14s,17s)-11-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one"	"C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@@H](C[C@]4([C@H]3CC[C@@H]4C(=O)CO)C)O"	-0.5
+"2-amino-3-[4-[bis(2-chloroethyl)amino]phenyl]propanoic acid"	"C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl"	-0.5
+"3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid"	"CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C"	-0.49
+"1-[5-(hydroxymethyl)-2,5-dihydrofuran-2-yl]-5-methylpyrimidine-2,4-dione"	"CC1=CN(C(=O)NC1=O)C2C=CC(O2)CO"	-0.48
+"n,n-dimethyl-3-(5-oxophenothiazin-10-yl)propan-1-amine"	"CN(C)CCCN1C2=CC=CC=C2S(=O)C3=CC=CC=C31"	-0.48
+"13-(dimethylamino)-5-(4-ethylphenyl)-8-thia-3,5,10-triazatricyclo[7.4.0.02,7]trideca-1(13),2(7),3,9,11-pentaen-6-one"	"CCC1=CC=C(C=C1)N2C=NC3=C(C2=O)SC4=NC=CC(=C34)N(C)C"	-0.47
+"3-methyl-4-oxoimidazo[5,1-d][1,2,3,5]tetrazine-8-carboxamide"	"CN1C(=O)N2C=NC(=C2N=N1)C(=O)N"	-0.47
+"4-[1-[2-(2,4-difluorophenyl)ethyl]piperidin-4-yl]sulfonylbenzamide"	"C1CN(CCC1S(=O)(=O)C2=CC=C(C=C2)C(=O)N)CCC3=C(C=C(C=C3)F)F"	-0.47
+"n-[3-[3-(piperidin-1-ylmethyl)phenoxy]propyl]acetamide"	"CC(=O)NCCCOC1=CC=CC(=C1)CN2CCCCC2"	-0.46
+"4-(4-fluorobenzoyl)-1-[4-(3-piperidin-1-ylpropoxy)phenyl]piperazin-2-one"	"C1CCN(CC1)CCCOC2=CC=C(C=C2)N3CCN(CC3=O)C(=O)C4=CC=C(C=C4)F"	-0.46
+"4-fluoro-n-[2-[4-[2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-5-yl]piperazin-1-yl]ethyl]benzamide"	"C1CN(CCN1CCNC(=O)C2=CC=C(C=C2)F)C3=C4C(=CC=C3)OC(CO4)CO"	-0.45
+"4-fluoro-n-[2-[4-[(2s)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-5-yl]piperazin-1-yl]ethyl]benzamide"	"C1CN(CCN1CCNC(=O)C2=CC=C(C=C2)F)C3=C4C(=CC=C3)O[C@H](CO4)CO"	-0.45
+"2-[(2-hydroxybenzoyl)amino]acetic acid"	"C1=CC=C(C(=C1)C(=O)NCC(=O)O)O"	-0.44
+"1-(4-bromophenyl)-3-ethyl-8-[4-(4-fluorophenyl)-4-oxobutyl]-1,3,8-triazaspiro[4.5]decan-4-one"	"CCN1CN(C2(C1=O)CCN(CC2)CCCC(=O)C3=CC=C(C=C3)F)C4=CC=C(C=C4)Br"	-0.43
+"6,8-difluoro-1-(2-fluoroethyl)-7-(4-methylpiperazin-1-yl)-4-oxoquinoline-3-carboxylic acid"	"CN1CCN(CC1)C2=C(C=C3C(=C2F)N(C=C(C3=O)C(=O)O)CCF)F"	-0.43
+"1-aminocyclopentane-1-carboxylic acid"	"C1CCC(C1)(C(=O)O)N"	-0.43
+"ditert-butyl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate"	"CC1=C(C(C(=C(N1)C)C(=O)OC(C)(C)C)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OC(C)(C)C"	-0.42
+"(19s)-8-[(dimethylamino)methyl]-19-ethyl-7,19-dihydroxy-17-oxa-3,13-diazapentacyclo[11.8.0.02,11.04,9.015,20]henicosa-1(21),2,4(9),5,7,10,15(20)-heptaene-14,18-dione"	"CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O"	-0.42
+"n-[(5-methoxy-2-methyl-1-methylsulfonyl-2,3-dihydroindol-6-yl)methyl]-2-phenylpiperidin-3-amine"	"CC1CC2=CC(=C(C=C2N1S(=O)(=O)C)CNC3CCCNC3C4=CC=CC=C4)OC"	-0.42
+"(1r,2s,5s,6s)-2-amino-6-fluoro-4-oxobicyclo[3.1.0]hexane-2,6-dicarboxylic acid"	"C1C(=O)[C@@H]2[C@H]([C@@]1(C(=O)O)N)[C@]2(C(=O)O)F"	-0.41
+"prop-2-enenitrile"	"C=CC#N"	-0.4
+"4-(dipropylsulfamoyl)benzoic acid"	"CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O"	-0.4
+"3-aminopropane-1-sulfonic acid"	"C(CN)CS(=O)(=O)O"	-0.4
+"4-(4-chlorobenzoyl)-1-[4-(1-cyclobutylpiperidin-4-yl)oxyphenyl]piperazin-2-one"	"C1CC(C1)N2CCC(CC2)OC3=CC=C(C=C3)N4CCN(CC4=O)C(=O)C5=CC=C(C=C5)Cl"	-0.4
+"5-cyclopropyl-2-(3,5-dimethoxyanilino)-7-[(1-hydroxy-3-methylbutan-2-yl)amino]pyrazolo[1,5-a]pyrimidine-3-carboxamide"	"CC(C)C(CO)NC1=CC(=NC2=C(C(=NN12)NC3=CC(=CC(=C3)OC)OC)C(=O)N)C4CC4"	-0.39
+"6-[[1-[2-(2-methylquinolin-5-yl)oxyethyl]piperidin-4-yl]methyl]-4h-1,4-benzoxazin-3-one"	"CC1=NC2=C(C=C1)C(=CC=C2)OCCN3CCC(CC3)CC4=CC5=C(C=C4)OCC(=O)N5"	-0.39
+"tert-butyl-[(1-oxidopyridin-4-ylidene)methyl]-oxoazanium"	"CC(C)(C)[N+](=O)C=C1C=CN(C=C1)[O-]"	-0.38
+"1-[(3s)-3-(3,4-dichlorophenyl)-3-[2-(4-phenyl-1-azoniabicyclo[2.2.2]octan-1-yl)ethyl]piperidin-1-yl]-2-(3-propan-2-yloxyphenyl)ethanone;chloride"	"CC(C)OC1=CC=CC(=C1)CC(=O)N2CCC[C@](C2)(CC[N+]34CCC(CC3)(CC4)C5=CC=CC=C5)C6=CC(=C(C=C6)Cl)Cl.[Cl-]"	-0.37
+"(1s)-1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl)-3h-2-benzofuran-5-carbonitrile"	"CN(C)CCC[C@@]1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F"	-0.37
+"n-(4,5-dimethyl-1,3-thiazol-2-yl)-n-[4-methoxy-3-[[(2-phenylpiperidin-3-yl)amino]methyl]phenyl]methanesulfonamide"	"CC1=C(SC(=N1)N(C2=CC(=C(C=C2)OC)CNC3CCCNC3C4=CC=CC=C4)S(=O)(=O)C)C"	-0.37
+"benzyl 4-[(pyrimidin-2-ylamino)methyl]piperidine-1-carboxylate"	"C1CN(CCC1CNC2=NC=CC=N2)C(=O)OCC3=CC=CC=C3"	-0.37
+"5,6-dimethyl-5,6-dihydrobenzo[b][1]benzazepine-11-carboxamide"	"CC1C(C2=CC=CC=C2N(C3=CC=CC=C13)C(=O)N)C"	-0.34
+"3-oxatetracyclo[10.4.0.02,4.05,10]hexadeca-1(16),5,7,9,12,14-hexaene-11-carboxamide"	"C1=CC=C2C(C3=CC=CC=C3C4C(C2=C1)O4)C(=O)N"	-0.34
+"11-azatetracyclo[10.4.0.02,4.05,10]hexadeca-1(16),5,7,9,12,14-hexaene-11-carboxamide"	"C1C2C1C3=CC=CC=C3N(C4=CC=CC=C24)C(=O)N"	-0.34
+"2-(2-oxopropyl)-6-(2-phenylpyrazolo[1,5-a]pyridin-3-yl)pyridazin-3-one"	"CC(=O)CN1C(=O)C=CC(=N1)C2=C3C=CC=CN3N=C2C4=CC=CC=C4"	-0.31
+"3-oxa-11-azatetracyclo[10.4.0.02,4.05,10]hexadeca-1(16),5,7,9,12,14-hexaene-11-carboxamide"	"C1=CC=C2C(=C1)C3C(O3)C4=CC=CC=C4N2C(=O)N"	-0.3
+"16-fluoro-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol"	"CC12CCC3C(C1CC(C2O)F)CCC4=C3C=CC(=C4)O"	-0.3
+"5-(cyclohexen-1-yl)-5-ethyl-1,3-diazinane-2,4,6-trione"	"CCC1(C(=O)NC(=O)NC1=O)C2=CCCCC2"	-0.3
+"7-chloro-5-methyl-3-(5-propan-2-yl-1,2,4-oxadiazol-3-yl)-4h-imidazo[1,5-a][1,4]benzodiazepin-6-one"	"CC(C)C1=NC(=NO1)C2=C3CN(C(=O)C4=C(N3C=N2)C=CC=C4Cl)C"	-0.3
+"(8r,9s,13s,14s,16s,17r)-16-fluoro-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol"	"C[C@]12CC[C@H]3[C@H]([C@@H]1C[C@@H]([C@@H]2O)F)CCC4=C3C=CC(=C4)O"	-0.3
+"(4s,7s,13s)-13-[[(2s)-2-amino-3-(4-hydroxyphenyl)propanoyl]amino]-7-benzyl-3,3,14,14-tetramethyl-6,9,12-trioxo-1,2-dithia-5,8,11-triazacyclotetradecane-4-carboxylic acid"	"CC1([C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(SS1)(C)C)C(=O)O)CC2=CC=CC=C2)NC(=O)[C@H](CC3=CC=C(C=C3)O)N)C"	-0.3
+"1,5-dimethyl-5h-pyrrolo[2,3-d]pyrimidine-2,4-dione"	"CC1C=NC2=C1C(=O)NC(=O)N2C"	-0.3
+"ethyl 8-fluoro-5-methyl-6-oxo-4h-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate"	"CCOC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CC(=C3)F)C"	-0.3
+"3,7-dimethylpurine-2,6-dione"	"CN1C=NC2=C1C(=O)NC(=O)N2C"	-0.3
+"1-(5-chloro-2-hydroxyphenyl)-3-[2-chloro-5-(trifluoromethyl)phenyl]urea"	"C1=CC(=C(C=C1C(F)(F)F)NC(=O)NC2=C(C=CC(=C2)Cl)O)Cl"	-0.3
+"lithium"	"[Li]"	-0.3
+"(19s)-19-ethyl-19-hydroxy-17-oxa-3,13-diazapentacyclo[11.8.0.02,11.04,9.015,20]henicosa-1(21),2,4,6,8,10,15(20)-heptaene-14,18-dione"	"CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=CC=CC=C5N=C4C3=C2)O"	-0.29
+"n-[4-[1-hydroxy-2-(propan-2-ylamino)ethyl]phenyl]methanesulfonamide"	"CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O"	-0.28
+"1,1-dichloroethane"	"CC(Cl)Cl"	-0.28
+"n-[3-[4-[(dimethylamino)methyl]pyridin-2-yl]phenyl]-3-nitro-1h-pyrrol-2-amine"	"CN(C)CC1=CC(=NC=C1)C2=CC(=CC=C2)NC3=C(C=CN3)[N+](=O)[O-]"	-0.28
+"n-(4-bromo-2,6-dimethylphenyl)-4,5-dihydro-1h-imidazol-2-amine"	"CC1=CC(=CC(=C1NC2=NCCN2)C)Br"	-0.28
+"2-fluoroethyl carbamimidothioate"	"C(CSC(=N)N)F"	-0.27
+"n-[3-[5-[(dimethylamino)methyl]furan-2-yl]phenyl]-3-nitro-1h-pyrrol-2-amine"	"CN(C)CC1=CC=C(O1)C2=CC(=CC=C2)NC3=C(C=CN3)[N+](=O)[O-]"	-0.27
+"(8s)-8-methyl-6,9-diazaspiro[4.5]decane-7,10-dione"	"C[C@H]1C(=O)NC2(CCCC2)C(=O)N1"	-0.26
+"tert-butyl 8-methyl-7-oxo-5-thia-1,8,12-triazatricyclo[8.3.0.02,6]trideca-2(6),3,10,12-tetraene-11-carboxylate"	"CC(C)(C)OC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CS3)C"	-0.25
+"2-cyano-n-methyl-4-(spiro[3.5]nonan-7-ylmethylamino)-6-(2,2,6,6-tetramethylpiperidin-4-yl)oxypyrimidine-5-carboxamide"	"CC1(CC(CC(N1)(C)C)OC2=NC(=NC(=C2C(=O)NC)NCC3CCC4(CCC4)CC3)C#N)C"	-0.24
+"n-[3-[3-(piperidin-1-ylmethyl)phenoxy]propyl]benzamide"	"C1CCN(CC1)CC2=CC(=CC=C2)OCCCNC(=O)C3=CC=CC=C3"	-0.24
+"1-(3-fluoropropyl)-2-nitroimidazole"	"C1=CN(C(=N1)[N+](=O)[O-])CCCF"	-0.24
+"prop-2-yn-1-ol"	"C#CCO"	-0.23
+"1-(propan-2-ylamino)-3-(2-prop-2-enylphenoxy)propan-2-ol"	"CC(C)NCC(COC1=CC=CC=C1CC=C)O"	-0.23
+"2-(2-hydroxy-2-methylpropyl)-6-(2-phenylpyrazolo[1,5-a]pyridin-3-yl)pyridazin-3-one"	"CC(C)(CN1C(=O)C=CC(=N1)C2=C3C=CC=CN3N=C2C4=CC=CC=C4)O"	-0.23
+"5,5-bis(prop-2-enyl)-1,3-diazinane-2,4,6-trione"	"C=CCC1(C(=O)NC(=O)NC1=O)CC=C"	-0.22
+"n-(cyclopropylmethyl)-7-(2,4-dichlorophenyl)-2-methyl-n-propyl-5,6-dihydropyrrolo[2,3-d]pyrimidin-4-amine"	"CCCN(CC1CC1)C2=NC(=NC3=C2CCN3C4=C(C=C(C=C4)Cl)Cl)C"	-0.22
+"4-amino-5-chloro-2-methoxy-n-(3-methoxypiperidin-4-yl)benzamide"	"COC1CNCCC1NC(=O)C2=CC(=C(C=C2OC)N)Cl"	-0.22
+"1-[4-methoxy-3-[[(2-phenylpiperidin-3-yl)amino]methyl]phenyl]pyrrolidin-2-one"	"COC1=C(C=C(C=C1)N2CCCC2=O)CNC3CCCNC3C4=CC=CC=C4"	-0.22
+"(8r,9s,10r,11s,13s,14s,17r)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1h-cyclopenta[a]phenanthren-3-one"	"C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O"	-0.22
+"n-(2-chloro-6-methylphenyl)-12-(3-methylpiperazin-1-yl)-2,4,8,13-tetrazatricyclo[7.4.0.02,6]trideca-1(9),3,5,7,10,12-hexaen-7-amine"	"CC1CN(CCN1)C2=NC3=C(C=C2)N=C(C4=CN=CN43)NC5=C(C=CC=C5Cl)C"	-0.22
+"[(1r,4r)-4-[2-amino-6-(cyclopropylamino)purin-9-yl]cyclopent-2-en-1-yl]methanol"	"C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)[C@@H]4C[C@H](C=C4)CO"	-0.22
+"2-(2,4-difluorophenyl)-1,3-bis(1,2,4-triazol-1-yl)propan-2-ol"	"C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O"	-0.22
+"(s)-[(2r,5r)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol"	"COC1=CC2=C(C=CN=C2C=C1)[C@@H]([C@H]3CC4CCN3C[C@@H]4C=C)O"	-0.21
+"2-[4-(2-methylpropyl)phenyl]propanoic acid"	"CC(C)CC1=CC=C(C=C1)C(C)C(=O)O"	-0.2
+"n-(2,6-difluorophenyl)-4,5-dihydro-1h-imidazol-2-amine"	"Fc1cccc(F)c1[NH+]=C2NCCN2"	-0.2
+"2-(4-phenylmethoxyphenyl)-n-[1-(2-pyrrolidin-1-ylethyl)indazol-6-yl]acetamide"	"C1CCN(C1)CCN2C3=C(C=CC(=C3)NC(=O)CC4=CC=C(C=C4)OCC5=CC=CC=C5)C=N2"	-0.2
+"benzyl 4-[(pyrimidin-4-ylamino)methyl]piperidine-1-carboxylate"	"C1CN(CCC1CNC2=NC=NC=C2)C(=O)OCC3=CC=CC=C3"	-0.2
+"n-cyclohexyl-4-(1h-imidazol-5-yl)piperidine-1-carbothioamide"	"C1CCC(CC1)NC(=S)N2CCC(CC2)C3=CN=CN3"	-0.2
+"n'-ethyl-2-phenylpropanediamide"	"CCNC(=O)C(C1=CC=CC=C1)C(=O)N"	-0.19
+"(3-carbamoyloxy-2-phenylpropyl) carbamate"	"C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N"	-0.19
+"[2-(carbamoyloxymethyl)-2-methylpentyl] n-methylcarbamate"	"CCCC(C)(COC(=O)N)COC(=O)NC"	-0.18
+"(8s,9s,10r,13s,14s,17r)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6h-cyclopenta[a]phenanthren-3-one"	"C[C@]12CC([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O"	-0.18
+"buta-1,3-diene"	"C=CC=C"	-0.17
+"3-[(2r)-2-[2-(4-methylpiperidin-1-yl)ethyl]pyrrolidin-1-yl]sulfonylphenol"	"CC1CCN(CC1)CC[C@H]2CCCN2S(=O)(=O)C3=CC=CC(=C3)O"	-0.17
+"methyl 6-methyl-2-oxo-4-[3-(trifluoromethoxy)anilino]cyclohex-3-ene-1-carboxylate"	"CC1CC(=CC(=O)C1C(=O)OC)NC2=CC(=CC=C2)OC(F)(F)F"	-0.17
+"(ne)-n-[(1-methylpyridin-1-ium-2-yl)methylidene]hydroxylamine"	"C[N+]1=CC=CC=C1/C=N/O"	-0.17
+"1-(8-fluorooctyl)-2-nitroimidazole"	"C1=CN(C(=N1)[N+](=O)[O-])CCCCCCCCF"	-0.17
+"1-ethyl-6-fluoro-7-(4-methylpiperazin-1-yl)-4-oxoquinoline-3-carboxylic acid"	"CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCN(CC3)C)F)C(=O)O"	-0.16
+"6-[(4-chlorophenyl)-(1,2,4-triazol-1-yl)methyl]-1-methylbenzotriazole"	"CN1C2=C(C=CC(=C2)C(C3=CC=C(C=C3)Cl)N4C=NC=N4)N=N1"	-0.16
+"2,4-diazatetracyclo[12.4.0.02,6.07,12]octadeca-1(18),3,7,9,11,14,16-heptaen-3-amine"	"C1C2C3=CC=CC=C3CC4=CC=CC=C4N2C(=N1)N"	-0.16
+"krypton"	"[Kr]"	-0.16
+"n-[3-acetyl-4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]butanamide"	"CCCC(=O)NC1=CC(=C(C=C1)OCC(CNC(C)C)O)C(=O)C"	-0.15
+"n-[(2-methoxy-5-methylsulfonylphenyl)methyl]-2-phenylpiperidin-3-amine"	"COC1=C(C=C(C=C1)S(=O)(=O)C)CNC2CCCNC2C3=CC=CC=C3"	-0.15
+"7-hydroxy-3-(4-hydroxyphenyl)chromen-4-one"	"C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O"	-0.15
+"(e)-4-thiophen-2-ylbut-3-en-2-one"	"CC(=O)/C=C/C1=CC=CS1"	-0.14
+"2-piperazin-1-yl-n-propan-2-ylpyridin-3-amine"	"CC(C)NC1=C(N=CC=C1)N2CCNCC2"	-0.14
+"5,5-diethyl-1,3-diazinane-2,4,6-trione"	"CCC1(C(=O)NC(=O)NC1=O)CC"	-0.14
+"ethyl 5-(2-(18f)fluoranylethyl)-8-fluoro-6-oxo-4h-imidazo[1,5-a][1,4]benzodiazepine-3-carboxylate"	"CCOC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CC(=C3)F)CC[18F]"	-0.14
+"1,2-dichloroethane"	"C(CCl)Cl"	-0.14
+"6-chloro-4-[[1-(2,3-dihydro-1-benzofuran-5-ylmethyl)piperidin-4-yl]amino]chromen-2-one"	"C1CN(CCC1NC2=CC(=O)OC3=C2C=C(C=C3)Cl)CC4=CC5=C(C=C4)OCC5"	-0.14
+"methyl acetate"	"CC(=O)OC"	-0.13
+"[2-(cyclopropylmethyl)-5-prop-2-enyl-3,4-dihydro-1h-pyrido[4,3-b]indol-8-yl]-(4-methylpiperidin-1-yl)methanone"	"CC1CCN(CC1)C(=O)C2=CC3=C(C=C2)N(C4=C3CN(CC4)CC5CC5)CC=C"	-0.13
+"4-[2-(4-hydroxyphenyl)propan-2-yl]phenol"	"CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O"	-0.12
+"4-benzyl-3-nitro-n-[2-(pyridin-2-ylmethylsulfanyl)ethyl]-1h-pyrrol-2-amine"	"C1=CC=C(C=C1)CC2=CNC(=C2[N+](=O)[O-])NCCSCC3=CC=CC=N3"	-0.12
+"5-hex-3-yn-2-yl-1-methyl-5-prop-2-enyl-1,3-diazinane-2,4,6-trione"	"CCC#CC(C)C1(C(=O)NC(=O)N(C1=O)C)CC=C"	-0.1
+"(8s,9s,10r,13s,14s,17s)-17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one"	"CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C"	-0.1
+"4-[4-[(dimethylamino)methyl]phenyl]-5-hydroxy-2h-isoquinolin-1-one"	"CN(C)CC1=CC=C(C=C1)C2=CNC(=O)C3=C2C(=CC=C3)O"	-0.1
+"4-amino-5-chloro-n-[1-(3-methoxypropyl)piperidin-4-yl]-2,3-dihydro-1-benzofuran-7-carboxamide"	"COCCCN1CCC(CC1)NC(=O)C2=CC(=C(C3=C2OCC3)N)Cl"	-0.1
+"3-(4-methylsulfonylphenyl)-4-phenyl-2h-furan-5-one"	"CS(=O)(=O)C1=CC=C(C=C1)C2=C(C(=O)OC2)C3=CC=CC=C3"	-0.1
+"4-iodo-1,5-dimethyl-2-phenylpyrazol-3-one"	"CC1=C(C(=O)N(N1C)C2=CC=CC=C2)I"	-0.1
+"2,3,5,6-tetramethylpyrazine"	"CC1=C(N=C(C(=N1)C)C)C"	-0.1
+"1,1,2-trichloroethane"	"C(C(Cl)Cl)Cl"	-0.1
+"6-[2-[2-[4-(4-chlorophenoxy)piperidin-1-yl]ethyl]pyrrolidin-1-yl]sulfonyl-1h-indole"	"C1CC(N(C1)S(=O)(=O)C2=CC3=C(C=C2)C=CN3)CCN4CCC(CC4)OC5=CC=C(C=C5)Cl"	-0.1
+"[8-chloro-6-(2-fluorophenyl)-4h-imidazo[1,5-a][1,4]benzodiazepin-1-yl]methanol"	"C1C2=CN=C(N2C3=C(C=C(C=C3)Cl)C(=N1)C4=CC=CC=C4F)CO"	-0.1
+"tert-butyl 14-bromo-12-oxo-2,4,11-triazatetracyclo[11.4.0.02,6.07,11]heptadeca-1(17),3,5,13,15-pentaene-5-carboxylate"	"CC(C)(C)OC(=O)C1=C2C3CCCN3C(=O)C4=C(N2C=N1)C=CC=C4Br"	-0.09
+"tert-butyl (7s)-14-bromo-12-oxo-2,4,11-triazatetracyclo[11.4.0.02,6.07,11]heptadeca-1(17),3,5,13,15-pentaene-5-carboxylate"	"CC(C)(C)OC(=O)C1=C2[C@@H]3CCCN3C(=O)C4=C(N2C=N1)C=CC=C4Br"	-0.09
+"tert-butyl 15-bromo-12-oxo-2,4,11-triazatetracyclo[11.4.0.02,6.07,11]heptadeca-1(17),3,5,13,15-pentaene-5-carboxylate"	"CC(C)(C)OC(=O)C1=C2C3CCCN3C(=O)C4=C(N2C=N1)C=CC(=C4)Br"	-0.09
+"8-chloro-6-(2-fluorophenyl)-1-methyl-2,4-dihydroimidazo[1,5-a][1,4]benzodiazepin-1-ol"	"CC1(NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F)O"	-0.07
+"5-ethyl-5-phenyl-1,3-diazinane-4,6-dione"	"CCC1(C(=O)NCNC1=O)C2=CC=CC=C2"	-0.07
+"methyl (1r,9r,10s,11r,12r,19r)-11-acetyloxy-12-ethyl-4-[(13s,15r,17s)-17-ethyl-17-hydroxy-13-methoxycarbonyl-1,11-diazatetracyclo[13.3.1.04,12.05,10]nonadeca-4(12),5,7,9-tetraen-13-yl]-10-hydroxy-5-methoxy-8-methyl-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate"	"CC[C@@]1(C[C@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O"	-0.07
+"(13as)-2,3,9,10-tetramethoxy-6,8,13,13a-tetrahydro-5h-isoquinolino[2,1-b]isoquinoline"	"COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC"	-0.07
+"prop-1-ene"	"CC=C"	-0.06
+"5-hexan-2-yl-1-methyl-5-prop-2-enyl-1,3-diazinane-2,4,6-trione"	"CCCCC(C)C1(C(=O)NC(=O)N(C1=O)C)CC=C"	-0.06
+"(8-methyl-8-azabicyclo[3.2.1]octan-3-yl) 3-hydroxy-2-phenylpropanoate"	"CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3"	-0.06
+"[(1s,5r)-8-methyl-8-azabicyclo[3.2.1]octan-3-yl] 3-hydroxy-2-phenylpropanoate"	"CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)C(CO)C3=CC=CC=C3"	-0.06
+"2-ethoxybenzamide"	"CCOC1=CC=CC=C1C(=O)N"	-0.05
+"4-(18f)fluoranyl-1,5-dimethyl-2-phenylpyrazol-3-one"	"CC1=C(C(=O)N(N1C)C2=CC=CC=C2)[18F]"	-0.05
+"2-(4-fluorophenyl)-1,5-dimethylpyrazol-3-one"	"CC1=CC(=O)N(N1C)C2=CC=C(C=C2)F"	-0.05
+"5-bromo-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one"	"C1C2CNCC1C3=CC=C(C(=O)N3C2)Br"	-0.05
+"12-bromo-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one"	"C1C2CNC(C1C3=CC=CC(=O)N3C2)Br"	-0.05
+"(1r,9r)-12-bromo-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one"	"C1[C@@H]2CNC([C@H]1C3=CC=CC(=O)N3C2)Br"	-0.05
+"n-[1-[[5-chloro-2-(2-methylpropoxy)phenyl]methyl]-5-methylpyrazol-3-yl]-4-(ethylaminomethyl)benzamide"	"CCNCC1=CC=C(C=C1)C(=O)NC2=NN(C(=C2)C)CC3=C(C=CC(=C3)Cl)OCC(C)C"	-0.05
+"n-(2,6-dimethylphenyl)-5-[3-(2-pyrrolidin-1-ylethoxy)phenyl]imidazo[1,5-a]pyrazin-8-amine"	"CC1=C(C(=CC=C1)C)NC2=NC=C(N3C2=CN=C3)C4=CC(=CC=C4)OCCN5CCCC5"	-0.05
+"2-(2,6-dioxopiperidin-3-yl)isoindole-1,3-dione"	"C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O"	-0.05
+"2-(5-methyl-1,3-thiazol-2-yl)guanidine"	"CC1=CN=C(S1)N=C(N)N"	-0.04
+"2-(4-methyl-1,3-thiazol-2-yl)guanidine"	"CC1=CSC(=N1)N=C(N)N"	-0.04
+"2-[4-(2-methyl-1h-imidazol-5-yl)-1,3-thiazol-2-yl]guanidine"	"CC1=NC=C(N1)C2=CSC(=N2)N=C(N)N"	-0.04
+"oxidane"	"O"	-0.04
+"1,3-benzodioxol-5-ol"	"C1OC2=C(O1)C=C(C=C2)O"	-0.04
+"6,7,8,9-tetrahydro-5h-tetrazolo[1,5-a]azepine"	"C1CCC2=NN=NN2CC1"	-0.03
+"(4r)-8-chloro-6-(2-fluorophenyl)-1-methyl-4h-imidazo[1,5-a][1,4]benzodiazepin-4-ol"	"CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=N[C@@H]2O)C4=CC=CC=C4F"	-0.03
+"8-chloro-2-[3-(4-phenylpiperidin-1-yl)propyl]-3h-quinazolin-4-one"	"C1CN(CCC1C2=CC=CC=C2)CCCC3=NC4=C(C=CC=C4Cl)C(=O)N3"	-0.03
+"butan-1-ol"	"CCCCO"	-0.02
+"2-chloro-1,1-difluoroethene"	"C(=C(F)F)Cl"	-0.02
+"benzyl 4-[(pyridin-2-ylamino)methyl]piperidine-1-carboxylate"	"C1CN(CCC1CNC2=CC=CC=N2)C(=O)OCC3=CC=CC=C3"	-0.02
+"3-[3-(piperidin-1-ylmethyl)phenoxy]propan-1-ol"	"C1CCN(CC1)CC2=CC(=CC=C2)OCCCO"	-0.02
+"4-(4-acetylpiperazin-1-yl)-n-[1-[3,5-bis(trifluoromethyl)phenyl]ethyl]-2-(4-fluoro-2-methylphenyl)-n-methylpiperidine-1-carboxamide"	"CC1=C(C=CC(=C1)F)C2CC(CCN2C(=O)N(C)C(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C(=O)C"	-0.01
+"[(1s,3r,7s,8s,8ar)-8-[2-[(2r,4r)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] 2,2-dimethylbutanoate"	"CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C"	-0.01
+"pentan-2-one"	"CCCC(=O)C"	-0.01
+"1-(4-bromophenyl)-8-[4-(4-fluorophenyl)-4-oxobutyl]-3-propyl-1,3,8-triazaspiro[4.5]decan-4-one"	"CCCN1CN(C2(C1=O)CCN(CC2)CCCC(=O)C3=CC=C(C=C3)F)C4=CC=C(C=C4)Br"	-0.01
+"[4-[3-(ethylamino)pyridin-2-yl]piperazin-1-yl]-(5-methoxy-1h-indol-2-yl)methanone"	"CCNC1=C(N=CC=C1)N2CCN(CC2)C(=O)C3=CC4=C(N3)C=CC(=C4)OC"	-0.01
+"1-fluoro-3-(2-nitroimidazol-1-yl)propan-2-ol"	"C1=CN(C(=N1)[N+](=O)[O-])CC(CF)O"	-0.01
+"1-(fluoromethoxy)-3-(2-nitroimidazol-1-yl)propan-2-ol"	"C1=CN(C(=N1)[N+](=O)[O-])CC(COCF)O"	-0.01
+"n-(3,4-dihydro-2h-chromen-2-ylmethyl)-n'-(1,4,5,6-tetrahydropyrimidin-2-yl)propane-1,3-diamine"	"C1CNC(=NC1)NCCCNCC2CCC3=CC=CC=C3O2"	-0.01
+"8-chloro-1-methyl-6-phenyl-4h-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine"	"CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4"	0.0
+"methane"	"C"	0.0
+"1-[2-(1,2-benzoxazol-3-yl)phenyl]but-3-en-1-amine"	"C=CCC(C1=CC=CC=C1C2=NOC3=CC=CC=C32)N"	0.0
+"17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one"	"CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C"	0.0
+"(6ar,10ar)-6,6,9-trimethyl-3-pentyl-6a,7,8,10a-tetrahydrobenzo[c]chromen-1-ol"	"CCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O"	0.0
+"ethyl acetate"	"CCOC(=O)C"	0.0
+"17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol"	"CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)O"	0.0
+"(1r,9r,10r)-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol"	"CN1CC[C@]23CCCC[C@H]2[C@H]1CC4=C3C=C(C=C4)O"	0.0
+"4-(dimethylamino)-1,5-dimethyl-2-phenylpyrazol-3-one"	"CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)C"	0.0
+"2-cyclopropyl-7-methyl-2,4,9,15-tetrazatricyclo[9.4.0.03,8]pentadeca-1(11),3,5,7,12,14-hexaen-10-one"	"CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4"	0.0
+"tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,9,11,13-heptaene-2-carboxamide"	"C1=CC=C2C(C3=CC=CC=C3C=CC2=C1)C(=O)N"	0.0
+"oxirane"	"C1CO1"	0.01
+"5-ethyl-5-heptyl-1,3-diazinane-2,4,6-trione"	"CCCCCCCC1(C(=O)NC(=O)NC1=O)CC"	0.02
+"methanol"	"CO"	0.02
+"molecular nitrogen"	"N#N"	0.03
+"argon"	"[Ar]"	0.03
+"nitrous oxide"	"[N-]=[N+]=O"	0.03
+"hydrazine"	"NN"	0.03
+"3-methylbutan-1-ol"	"CC(C)CCO"	0.04
+"2-methylbutan-1-ol"	"CCC(C)CO"	0.04
+"3-hydroxy-3-phenylpentanamide"	"CCC(CC(=O)N)(C1=CC=CC=C1)O"	0.04
+"(e)-1,2-dichloroethene"	"C(=C/Cl)\Cl"	0.04
+"5-ethyl-5-(3-methylbutyl)-1,3-diazinane-2,4-dione"	"CCC1(CNC(=O)NC1=O)CCC(C)C"	0.04
+"n-tert-butyl-1-phenylmethanimine oxide"	"CC(C)(C)/[N+](=C\C1=CC=CC=C1)/[O-]"	0.05
+"2-(diethylamino)ethyl 4-aminobenzoate"	"CCN(CC)CCOC(=O)C1=CC=C(C=C1)N"	0.05
+"2-(1-methylpiperidin-4-yl)-6-(2-phenylpyrazolo[1,5-a]pyridin-3-yl)pyridazin-3-one"	"CN1CCC(CC1)N2C(=O)C=CC(=N2)C3=C4C=CC=CN4N=C3C5=CC=CC=C5"	0.06
+"1,7-dimethyl-5,8-dihydro-3h-purine-2,6-dione"	"CN1CN=C2C1C(=O)N(C(=O)N2)C"	0.06
+"1,7-dimethyl-4,5-dihydro-3h-purine-2,6-dione"	"CN1C=NC2C1C(=O)N(C(=O)N2)C"	0.06
+"2-methylbutan-2-ol"	"CCC(C)(C)O"	0.07
+"1-(4-bromophenyl)-8-[4-(4-fluorophenyl)-4-oxobutyl]-1,3,8-triazaspiro[4.5]decan-4-one"	"C1CN(CCC12C(=O)NCN2C3=CC=C(C=C3)Br)CCCC(=O)C4=CC=C(C=C4)F"	0.07
+"2-cyano-n-methyl-4-[(1-propan-2-ylpiperidin-4-yl)methoxy]-6-(spiro[3.5]nonan-7-ylmethylamino)pyrimidine-5-carboxamide"	"CC(C)N1CCC(CC1)COC2=NC(=NC(=C2C(=O)NC)NCC3CCC4(CCC4)CC3)C#N"	0.08
+"(3,4,8b-trimethyl-2,3a-dihydro-1h-pyrrolo[2,3-b]indol-7-yl) n-methylcarbamate"	"CC12CCN(C1N(C3=C2C=C(C=C3)OC(=O)NC)C)C"	0.08
+"3-o-(2-methoxyethyl) 5-o-propan-2-yl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate"	"CC1=C(C(C(=C(N1)C)C(=O)OC(C)C)C2=CC(=CC=C2)[N+](=O)[O-])C(=O)OCCOC"	0.08
+"1,1,1-trichloro-2-fluoroethane"	"C(C(Cl)(Cl)Cl)F"	0.08
+"5-ethyl-5-propyl-1,3-diazinane-2,4,6-trione"	"CCCC1(C(=O)NC(=O)NC1=O)CC"	0.09
+"5-ethyl-5-pentyl-1,3-diazinane-2,4,6-trione"	"CCCCCC1(C(=O)NC(=O)NC1=O)CC"	0.09
+"1-(4-amino-5-chloro-2-methoxyphenyl)-4-(diethylamino)butan-1-one"	"CCN(CC)CCCC(=O)C1=CC(=C(C=C1OC)N)Cl"	0.09
+"4-fluoro-n-[2-[4-(2-methoxyphenyl)piperazin-1-yl]ethyl]-n-pyridin-2-ylbenzamide"	"COC1=CC=CC=C1N2CCN(CC2)CCN(C3=CC=CC=N3)C(=O)C4=CC=C(C=C4)F"	0.09
+"5-(2-fluorophenyl)-1-methyl-7-nitro-3h-1,4-benzodiazepin-2-one"	"CN1C(=O)CN=C(C2=C1C=CC(=C2)[N+](=O)[O-])C3=CC=CC=C3F"	0.1
+"1,7-dimethyl-3h-purine-2,6-dione"	"CN1C=NC2=C1C(=O)N(C(=O)N2)C"	0.1
+"[(3ar,8bs)-3,4,8b-trimethyl-2,3a-dihydro-1h-pyrrolo[2,3-b]indol-7-yl] n-methylcarbamate"	"C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC)C)C"	0.1
+"2-carboxy-4-hydroxyphenolate"	"C1=CC(=C(C=C1O)C(=O)O)[O-]"	0.1
+"[(e)-6,6-dimethylhept-2-en-4-ynyl]-methyl-(naphthalen-1-ylmethyl)azanium"	"CC(C)(C)C#C/C=C/C[NH+](C)CC1=CC=CC2=CC=CC=C21"	0.1
+"(5-ethenyl-2-bicyclo[2.2.2]octanyl)-(6-methoxyquinolin-4-yl)methanol"	"COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCC3CC4C=C)O"	0.1
+"2-ethenoxy-1,1,1-trifluoroethane"	"C=COCC(F)(F)F"	0.1
+"5-(cyclohexen-1-yl)-1,5-dimethyl-1,3-diazinane-2,4-dione"	"CC1(CN(C(=O)NC1=O)C)C2=CCCCC2"	0.1
+"(2s)-2-(6-methoxynaphthalen-2-yl)propanoic acid"	"C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O"	0.1
+"n-[3-[3-(piperidin-1-ylmethyl)phenoxy]propyl]-1,3-benzothiazol-2-amine"	"C1CCN(CC1)CC2=CC(=CC=C2)OCCCNC3=NC4=CC=CC=C4S3"	0.1
+"2-methylpropan-2-ol"	"CC(C)(C)O"	0.11
+"n-[[5-(3,5-dimethylpyrazol-1-yl)-2-methoxyphenyl]methyl]-2-phenylpiperidin-3-amine"	"CC1=CC(=NN1C2=CC(=C(C=C2)OC)CNC3CCCNC3C4=CC=CC=C4)C"	0.11
+"(4r,4as,7ar,12bs)-4a-hydroxy-9-methoxy-3-methyl-2,4,5,6,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one"	"CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O"	0.11
+"21-methyl-3,13-diaza-21-azoniapentacyclo[11.8.0.02,10.04,9.015,20]henicosa-1(21),4,6,8,15,17,19-heptaen-14-one"	"C[N+]1=C2C3C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3"	0.11
+"4-methyl-6-[[1-[2-(2-methylquinolin-5-yl)oxyethyl]piperidin-4-yl]methyl]-1,4-benzoxazin-3-one"	"CC1=NC2=C(C=C1)C(=CC=C2)OCCN3CCC(CC3)CC4=CC5=C(C=C4)OCC(=O)N5C"	0.11
+"n-(2,6-dichlorophenyl)-2,5-dihydro-1h-imidazol-2-amine"	"C1C=NC(N1)NC2=C(C=CC=C2Cl)Cl"	0.11
+"2-(difluoromethoxy)-1,1,1,2-tetrafluoroethane"	"C(C(F)(F)F)(OC(F)F)F"	0.11
+"2-(5,6-dichloroindazol-1-yl)ethanamine"	"C1=C2C=NN(C2=CC(=C1Cl)Cl)CCN"	0.11
+"propyl acetate"	"CCCOC(=O)C"	0.12
+"1,4-bis(ethenoxy)butane"	"C=COCCCCOC=C"	0.12
+"(e)-1-fluoro-2-[(e)-2-fluoroethenoxy]ethene"	"C(=C/F)\O/C=C/F"	0.13
+"benzyl 4-[(pyridin-4-ylamino)methyl]piperidine-1-carboxylate"	"C1CN(CCC1CNC2=CC=NC=C2)C(=O)OCC3=CC=CC=C3"	0.13
+"6-chloro-4-[[1-[(e)-3-phenylprop-2-enyl]piperidin-4-yl]amino]chromen-2-one"	"C1CN(CCC1NC2=CC(=O)OC3=C2C=C(C=C3)Cl)C/C=C/C4=CC=CC=C4"	0.13
+"4-amino-3-chloro-n-[2-(diethylamino)ethyl]benzamide"	"CCN(CC)CCNC(=O)C1=CC(=C(C=C1)N)Cl"	0.14
+"1-[(5-chloro-2-phenylmethoxyphenyl)methyl]-5-methyl-n-[4-(methylaminomethyl)phenyl]pyrazole-3-carboxamide"	"CC1=CC(=NN1CC2=C(C=CC(=C2)Cl)OCC3=CC=CC=C3)C(=O)NC4=CC=C(C=C4)CNC"	0.15
+"2-(2,4-dichlorophenoxy)acetic acid"	"C1=CC(=C(C=C1Cl)Cl)OCC(=O)O"	0.15
+"1,2,4-trimethylbenzene"	"CC1=CC(=C(C=C1)C)C"	0.16
+"n-(2,4-dichlorophenyl)-4,5-dihydro-1h-imidazol-2-amine"	"C1CN=C(N1)NC2=C(C=C(C=C2)Cl)Cl"	0.16
+"1-[4-[4-[4-(trifluoromethyl)pyridin-2-yl]piperazin-1-yl]butyl]pyrrolidin-2-one"	"C1CC(=O)N(C1)CCCCN2CCN(CC2)C3=NC=CC(=C3)C(F)(F)F"	0.16
+"2-methoxy-2-methylbutane"	"CCC(C)(C)OC"	0.17
+"1-chloro-4-(trifluoromethyl)benzene"	"C1=CC(=CC=C1C(F)(F)F)Cl"	0.17
+"4-methyl-6-phenyl-3-(4-pyrimidin-2-ylpiperazin-1-yl)pyridazine"	"CC1=CC(=NN=C1N2CCN(CC2)C3=NC=CC=N3)C4=CC=CC=C4"	0.18
+"2-(4-ethoxyphenyl)-3-(4-methylsulfonylphenyl)pyrazolo[1,5-b]pyridazine"	"CCOC1=CC=C(C=C1)C2=NN3C(=C2C4=CC=C(C=C4)S(=O)(=O)C)C=CC=N3"	0.18
+"5-butyl-5-ethyl-1,3-diazinane-2,4,6-trione"	"CCCCC1(C(=O)NC(=O)NC1=O)CC"	0.19
+"10-[2-(1-methylpiperidin-2-yl)ethyl]-2-methylsulfonylphenothiazine"	"CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)(=O)C"	0.2
+"5-pentan-2-yl-5-prop-2-enyl-1,3-diazinane-2,4,6-trione"	"CCCC(C)C1(C(=O)NC(=O)NC1=O)CC=C"	0.2
+"5-[(2r)-pentan-2-yl]-5-prop-2-enyl-1,3-diazinane-2,4,6-trione"	"CCC[C@@H](C)C1(C(=O)NC(=O)NC1=O)CC=C"	0.2
+"pentan-1-ol"	"CCCCCO"	0.2
+"2-[2-[(dimethylamino)methyl]phenyl]sulfanyl-5-fluoroaniline"	"CN(C)CC1=CC=CC=C1SC2=C(C=C(C=C2)F)N"	0.2
+"12-methoxy-7-methyl-16-oxa-7-azatetracyclo[11.2.1.05,15.09,14]hexadeca-4,9(14),10,12-tetraen-3-ol"	"CN1CC2=C3C4C(CC(C=C4C1)O)OC3=C(C=C2)OC"	0.2
+"n-(4-chlorophenyl)-4-(pyridin-4-ylmethyl)phthalazin-1-amine"	"C1=CC=C2C(=C1)C(=NN=C2NC3=CC=C(C=C3)Cl)CC4=CC=NC=C4"	0.2
+"(2r)-2-chloro-1-(difluoromethoxy)-1,1,2-trifluoroethane"	"[C@@H](C(OC(F)F)(F)F)(F)Cl"	0.2
+"neon"	"[Ne]"	0.2
+"2-ethoxy-2-methylpropane"	"CCOC(C)(C)C"	0.22
+"3-(3,3-dimethyl-1-phenyl-2-benzothiophen-1-yl)-n-methylpropan-1-amine"	"CC1(C2=CC=CC=C2C(S1)(CCCNC)C3=CC=CC=C3)C"	0.22
+"(1r,9r,10s)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene"	"CN1CC[C@]23CCCC[C@@H]2[C@H]1CC4=C3C=C(C=C4)OC"	0.22
+"n-[3-[3-(piperidin-1-ylmethyl)phenoxy]propyl]-1,3-benzoxazol-2-amine"	"C1CCN(CC1)CC2=CC(=CC=C2)OCCCNC3=NC4=CC=CC=C4O3"	0.22
+"(9-methyl-3-oxa-9-azatricyclo[3.3.1.02,4]nonan-7-yl) 3-hydroxy-2-phenylpropanoate"	"CN1C2CC(CC1C3C2O3)OC(=O)C(CO)C4=CC=CC=C4"	0.23
+"(9-methyl-3-oxa-9-azatricyclo[3.3.1.02,4]nonan-7-yl) (2r)-3-hydroxy-2-phenylpropanoate"	"CN1C2CC(CC1C3C2O3)OC(=O)[C@@H](CO)C4=CC=CC=C4"	0.23
+"n-(2,6-dimethylphenyl)-5-[4-(2-pyrrolidin-1-ylethoxy)phenyl]imidazo[1,5-a]pyrazin-8-amine"	"CC1=C(C(=CC=C1)C)NC2=NC=C(N3C2=CN=C3)C4=CC=C(C=C4)OCCN5CCCC5"	0.23
+"pyrene"	"C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2"	0.23
+"5-ethyl-5-octyl-1,3-diazinane-2,4,6-trione"	"CCCCCCCCC1(C(=O)NC(=O)NC1=O)CC"	0.24
+"n-[[2-methoxy-5-[5-(trifluoromethyl)tetrazol-1-yl]phenyl]methyl]-2-phenylpiperidin-3-amine"	"COC1=C(C=C(C=C1)N2C(=NN=N2)C(F)(F)F)CNC3CCCNC3C4=CC=CC=C4"	0.24
+"5-[2-(dipropylamino)ethyl]-1,3-dihydroindol-2-one"	"CCCN(CCC)CCC1=CC2=C(C=C1)NC(=O)C2"	0.25
+"8-[4-(4-fluorophenyl)-4-oxobutyl]-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one"	"C1CN(CCC12C(=O)NCN2C3=CC=CC=C3)CCCC(=O)C4=CC=C(C=C4)F"	0.26
+"4-propyl-2,3,4a,5,6,10b-hexahydrobenzo[h][1,4]benzoxazin-9-ol"	"CCCN1CCOC2C1CCC3=C2C=C(C=C3)O"	0.26
+"2-bromo-1,1,1,2-tetrafluoroethane"	"C(C(F)(F)F)(F)Br"	0.27
+"ethyl 4-aminobenzoate"	"CCOC(=O)C1=CC=C(C=C1)N"	0.27
+"3-bromo-1,1,1,3-tetrafluoropropane"	"C(C(F)Br)C(F)(F)F"	0.27
+"butyl acetate"	"CCCCOC(=O)C"	0.28
+"6-chloro-11-methyl-10-(3-methylbut-2-enyl)-1,3,10-triazatricyclo[6.4.1.04,13]trideca-4,6,8(13)-triene-2-thione"	"CC1CN2C3=C(CN1CC=C(C)C)C=C(C=C3NC2=S)Cl"	0.28
+"1-[(z)-2-chloro-2-(2,4-dichlorophenyl)ethenyl]-1,2,4-triazole"	"C1=CC(=C(C=C1Cl)Cl)/C(=C/N2C=NC=N2)/Cl"	0.28
+"2-[3-[4-[2-tert-butyl-6-(trifluoromethyl)pyrimidin-4-yl]piperazin-1-yl]propylsulfanyl]-1h-pyrimidin-6-one"	"CC(C)(C)C1=NC(=CC(=N1)N2CCN(CC2)CCCSC3=NC=CC(=O)N3)C(F)(F)F"	0.3
+"3-methyl-2-phenyl-n-(1-phenylpropyl)quinoline-4-carboxamide"	"CCC(C1=CC=CC=C1)NC(=O)C2=C(C(=NC3=CC=CC=C32)C4=CC=CC=C4)C"	0.3
+"9-(methylsulfanylmethyl)-7-propyl-6,6a,8,9,10,10a-hexahydro-4h-indolo[4,3-fg]quinoline"	"CCCN1CC(CC2C1CC3=CNC4=CC=CC2=C34)CSC"	0.3
+"(6ar,9r,10ar)-9-(methylsulfanylmethyl)-7-propyl-6,6a,8,9,10,10a-hexahydro-4h-indolo[4,3-fg]quinoline"	"CCCN1C[C@@H](C[C@H]2[C@H]1CC3=CNC4=CC=CC2=C34)CSC"	0.3
+"3-methyl-2-phenyl-n-[(1s)-1-phenylpropyl]quinoline-4-carboxamide"	"CC[C@@H](C1=CC=CC=C1)NC(=O)C2=C(C(=NC3=CC=CC=C32)C4=CC=CC=C4)C"	0.3
+"4-methyl-n-(2-morpholin-4-ylethyl)-6-phenylpyridazin-3-amine"	"CC1=CC(=NN=C1NCCN2CCOCC2)C3=CC=CC=C3"	0.3
+"n-[1-[[5-chloro-2-(2-methylpropoxy)phenyl]methyl]-5-methylpyrazol-3-yl]-4-(pyrrolidin-1-ylmethyl)benzamide"	"CC1=CC(=NN1CC2=C(C=CC(=C2)Cl)OCC(C)C)NC(=O)C3=CC=C(C=C3)CN4CCCC4"	0.3
+"n-[3-(4-methylimidazol-1-yl)phenyl]-5,6-dihydrobenzo[h]quinazolin-4-amine"	"CC1=CN(C=N1)C2=CC=CC(=C2)NC3=NC=NC4=C3CCC5=CC=CC=C54"	0.3
+"1,1,1,3,3,3-hexafluoro-2-(fluoromethoxy)propane"	"C(OC(C(F)(F)F)C(F)(F)F)F"	0.3
+"6-(trifluoromethoxy)-1,3-benzothiazol-2-amine"	"C1=CC2=C(C=C1OC(F)(F)F)SC(=N2)N"	0.3
+"ethene"	"C=C"	0.3
+"2-butyl-6,7-dimethoxy-3,3a,4,8b-tetrahydro-1h-indeno[1,2-c]pyrrole;hydrochloride"	"CCCCN1CC2CC3=CC(=C(C=C3C2C1)OC)OC.Cl"	0.31
+"9-methoxy-4-methyl-11-oxa-4-azatetracyclo[8.6.1.01,12.06,17]heptadeca-6(17),7,9,15-tetraen-14-ol"	"CN1CCC23C=CC(CC2OC4=C(C=CC(=C34)C1)OC)O"	0.32
+"(1s,12s,14r)-9-methoxy-4-methyl-11-oxa-4-azatetracyclo[8.6.1.01,12.06,17]heptadeca-6(17),7,9,15-tetraen-14-ol"	"CN1CC[C@@]23C=C[C@@H](C[C@@H]2OC4=C(C=CC(=C34)C1)OC)O"	0.32
+"3-pyrrolidin-2-ylpyridine"	"C1CC(NC1)C2=CN=CC=C2"	0.32
+"(4r,4ar,7ar,12bs)-9-methoxy-3-methyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one"	"CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3C(=O)CC4"	0.32
+"1-[(4-fluorophenyl)methyl]-2-[4-(4-methylpyrazol-1-yl)piperidin-1-yl]benzimidazole"	"CC1=CN(N=C1)C2CCN(CC2)C3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F"	0.32
+"1,2,3,4-tetrahydroisoquinolin-4-ol"	"C1C(C2=CC=CC=C2CN1)O"	0.32
+"3-[(2s)-pyrrolidin-2-yl]pyridine"	"C1C[C@H](NC1)C2=CN=CC=C2"	0.32
+"n-(2,6-dibromophenyl)-4,5-dihydro-1h-imidazol-2-amine"	"C1CN=C(N1)NC2=C(C=CC=C2Br)Br"	0.33
+"1,1,1,2-tetrachloroethane"	"C(C(Cl)(Cl)Cl)Cl"	0.33
+"2-(diethylamino)-n-(2,6-dimethylphenyl)acetamide"	"CCN(CC)CC(=O)NC1=C(C=CC=C1C)C"	0.34
+"3-bromo-3-chloro-1,1,1-trifluoropropane"	"C(C(Cl)Br)C(F)(F)F"	0.35
+"5-ethyl-5-hexyl-1,3-diazinane-2,4,6-trione"	"CCCCCCC1(C(=O)NC(=O)NC1=O)CC"	0.36
+"ethyl n-[5-amino-3-[(4-methoxy-n-methylanilino)methyl]-1,2-dihydropyrido[3,4-b]pyrazin-7-yl]carbamate"	"CCOC(=O)NC1=NC(=C2C(=C1)NCC(=N2)CN(C)C3=CC=C(C=C3)OC)N"	0.36
+"2-methoxy-2-methylpropane"	"CC(C)(C)OC"	0.36
+"n-[[2-methoxy-5-(1,3-thiazol-2-yl)phenyl]methyl]-2-phenylpiperidin-3-amine"	"COC1=C(C=C(C=C1)C2=NC=CS2)CNC3CCCNC3C4=CC=CC=C4"	0.36
+"(2r)-2-[1-[(4-methylphenyl)methyl]benzimidazol-2-yl]morpholine"	"CC1=CC=C(C=C1)CN2C3=CC=CC=C3N=C2[C@H]4CNCCO4"	0.36
+"7-(2,4-dichlorophenyl)-2-methyl-4-[3-(trifluoromethyl)pyrazol-1-yl]-5,6-dihydropyrrolo[2,3-d]pyrimidine"	"CC1=NC(=C2CCN(C2=N1)C3=C(C=C(C=C3)Cl)Cl)N4C=CC(=N4)C(F)(F)F"	0.36
+"8-chloro-2-[3-(4-phenylpiperidin-1-yl)cyclopenten-1-yl]-3h-quinazolin-4-one"	"C1CC(=CC1N2CCC(CC2)C3=CC=CC=C3)C4=NC5=C(C=CC=C5Cl)C(=O)N4"	0.36
+"2-cyano-n-methyl-4-[(1-methylpiperidin-4-yl)methoxy]-6-(spiro[3.5]nonan-7-ylmethylamino)pyrimidine-5-carboxamide"	"CNC(=O)C1=C(N=C(N=C1OCC2CCN(CC2)C)C#N)NCC3CCC4(CCC4)CC3"	0.37
+"2-benzhydryl-n-[(2-methoxyphenyl)methyl]-1-azabicyclo[2.2.2]octan-3-amine"	"COC1=CC=CC=C1CNC2C3CCN(C2C(C4=CC=CC=C4)C5=CC=CC=C5)CC3"	0.37
+"1,1,2,2-tetrachloroethene"	"C(=C(Cl)Cl)(Cl)Cl"	0.37
+"2-[3-(tert-butylamino)-2-hydroxypropoxy]benzonitrile"	"CC(C)(C)NCC(COC1=CC=CC=C1C#N)O"	0.38
+"n-(2,5-dichlorophenyl)-4,5-dihydro-1h-imidazol-2-amine"	"Clc1ccc(Cl)c(c1)[NH+]=C2NCCN2"	0.38
+"6-(2-phenylpyrazolo[1,5-a]pyridin-3-yl)-2-(2-piperidin-1-ylethyl)pyridazin-3-one"	"C1CCN(CC1)CCN2C(=O)C=CC(=N2)C3=C4C=CC=CN4N=C3C5=CC=CC=C5"	0.38
+"1-[4-[2-(cyclopropylmethoxy)ethyl]phenoxy]-3-(propan-2-ylamino)propan-2-ol"	"CC(C)NCC(COC1=CC=C(C=C1)CCOCC2CC2)O"	0.39
+"n-[(5-methoxy-2,3-dihydro-1-benzofuran-7-yl)methyl]-2-phenylpiperidin-3-amine"	"COC1=CC2=C(C(=C1)CNC3CCCNC3C4=CC=CC=C4)OCC2"	0.39
+"9-chloro-13-oxa-4-azatetracyclo[12.4.0.02,6.07,12]octadeca-1(18),7(12),8,10,14,16-hexaene"	"C1C2C(CN1)C3=C(C=CC(=C3)Cl)OC4=CC=CC=C24"	0.39
+"1-[(4-fluorophenyl)methyl]-2-[(3r)-piperidin-3-yl]benzimidazole"	"C1C[C@H](CNC1)C2=NC3=CC=CC=C3N2CC4=CC=C(C=C4)F"	0.39
+"hexafluoro-lambda6-sulfane"	"FS(F)(F)(F)(F)F"	0.4
+"1,2-xylene"	"CC1=CC=CC=C1C"	0.4
+"propan-2-yl acetate"	"CC(C)OC(=O)C"	0.4
+"17-ethynyl-17-hydroxy-7,13-dimethyl-1,2,4,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one"	"CC1CC2=C(CCC(=O)C2)C3C1C4CCC(C4(CC3)C)(C#C)O"	0.4
+"(7r,8r,9s,13s,14s,17r)-17-ethynyl-17-hydroxy-7,13-dimethyl-1,2,4,6,7,8,9,11,12,14,15,16-dodecahydrocyclopenta[a]phenanthren-3-one"	"C[C@@H]1CC2=C(CCC(=O)C2)[C@@H]3[C@@H]1[C@@H]4CC[C@]([C@]4(CC3)C)(C#C)O"	0.4
+"pentyl acetate"	"CCCCCOC(=O)C"	0.4
+"2-phenyl-n-[[2-propan-2-yloxy-5-(trifluoromethoxy)phenyl]methyl]piperidin-3-amine"	"CC(C)OC1=C(C=C(C=C1)OC(F)(F)F)CNC2CCCNC2C3=CC=CC=C3"	0.41
+"5-amino-1-cyclopropyl-7-[(3r,5s)-3,5-dimethylpiperazin-1-yl]-6,8-difluoro-4-oxoquinoline-3-carboxylic acid"	"C[C@@H]1CN(C[C@@H](N1)C)C2=C(C(=C3C(=C2F)N(C=C(C3=O)C(=O)O)C4CC4)N)F"	0.41
+"n-(4-bromo-2,6-dichlorophenyl)-4,5-dihydro-1h-imidazol-2-amine"	"C1CN=C(N1)NC2=C(C=C(C=C2Cl)Br)Cl"	0.41
+"butyl 4-aminobenzoate"	"CCCCOC(=O)C1=CC=C(C=C1)N"	0.42
+"3-[5-[(2,4-dimethoxyphenyl)methylidene]-3,4-dihydro-2h-pyridin-6-yl]pyridine"	"COC1=CC(=C(C=C1)C=C2CCCN=C2C3=CN=CC=C3)OC"	0.42
+"tert-butylbenzene"	"CC(C)(C)C1=CC=CC=C1"	0.43
+"5-(azepan-1-yl)-13-(dimethylamino)-8-thia-3,5,10-triazatricyclo[7.4.0.02,7]trideca-1(13),2(7),3,9,11-pentaen-6-one"	"CN(C)C1=C2C3=C(C(=O)N(C=N3)N4CCCCCC4)SC2=NC=C1"	0.43
+"1-[(4-fluorophenyl)methyl]-2-[(3r)-1-methylpiperidin-3-yl]benzimidazole"	"CN1CCC[C@H](C1)C2=NC3=CC=CC=C3N2CC4=CC=C(C=C4)F"	0.43
+"n-(6-chloropyridin-3-yl)-3,4-difluorobenzamide"	"C1=CC(=C(C=C1C(=O)NC2=CN=C(C=C2)Cl)F)F"	0.44
+"n-[3-[3-(piperidin-1-ylmethyl)phenoxy]propyl]-1,3-thiazol-2-amine"	"C1CCN(CC1)CC2=CC(=CC=C2)OCCCNC3=NC=CS3"	0.44
+"2-methylpropyl acetate"	"CC(C)COC(=O)C"	0.45
+"styrene"	"C=CC1=CC=CC=C1"	0.45
+"[(3r)-4-(dimethylamino)-3-methyl-1,2-diphenylbutan-2-yl] propanoate"	"CCC(=O)OC(CC1=CC=CC=C1)(C2=CC=CC=C2)[C@H](C)CN(C)C"	0.46
+"8-[4-(4-fluorophenyl)-4-oxobutyl]-3-methyl-1-phenyl-1,3,8-triazaspiro[4.5]decan-4-one"	"CN1CN(C2(C1=O)CCN(CC2)CCCC(=O)C3=CC=C(C=C3)F)C4=CC=CC=C4"	0.46
+"2-benzhydryl-n-[(5-tert-butyl-2-methoxyphenyl)methyl]-1-azabicyclo[2.2.2]octan-3-amine"	"CC(C)(C)C1=CC(=C(C=C1)OC)CNC2C3CCN(C2C(C4=CC=CC=C4)C5=CC=CC=C5)CC3"	0.46
+"n-(2,4,6-trichlorophenyl)-4,5-dihydro-1h-imidazol-2-amine"	"C1CN=C(N1)NC2=C(C=C(C=C2Cl)Cl)Cl"	0.47
+"n-butan-2-yl-1-(2-chlorophenyl)-n-methylisoquinoline-3-carboxamide"	"CCC(C)N(C)C(=O)C1=CC2=CC=CC=C2C(=N1)C3=CC=CC=C3Cl"	0.48
+"n-[(6-methoxy-2-methyl-1,3-benzothiazol-5-yl)methyl]-2-phenylpiperidin-3-amine"	"CC1=NC2=C(S1)C=C(C(=C2)CNC3CCCNC3C4=CC=CC=C4)OC"	0.48
+"2-benzhydryl-n-[(2-methoxy-5-propan-2-ylphenyl)methyl]-1-azabicyclo[2.2.2]octan-3-amine"	"CC(C)C1=CC(=C(C=C1)OC)CNC2C3CCN(C2C(C4=CC=CC=C4)C5=CC=CC=C5)CC3"	0.48
+"1-[6-(diethylaminomethyl)-1,2,3,4-tetrahydronaphthalen-2-yl]-4-[2-(4-fluorophenyl)ethyl]piperazin-2-one"	"CCN(CC)CC1=CC2=C(CC(CC2)N3CCN(CC3=O)CCC4=CC=C(C=C4)F)C=C1"	0.48
+"5-chloro-1-(3-chlorophenyl)sulfonyl-4-piperazin-1-ylindole"	"C1CN(CCN1)C2=C(C=CC3=C2C=CN3S(=O)(=O)C4=CC(=CC=C4)Cl)Cl"	0.48
+"9h-pyrido[3,4-b]indole"	"C1=CC=C2C(=C1)C3=C(N2)C=NC=C3"	0.48
+"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine"	"CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl"	0.49
+"n-[(6-methoxy-2-methyl-1,3-benzoxazol-5-yl)methyl]-2-phenylpiperidin-3-amine"	"CC1=NC2=C(O1)C=C(C(=C2)CNC3CCCNC3C4=CC=CC=C4)OC"	0.49
+"5-methyl-2,5,19-triazatetracyclo[13.4.0.02,7.08,13]nonadeca-1(15),8,10,12,16,18-hexaene"	"CN1CCN2C(C1)C3=CC=CC=C3CC4=C2N=CC=C4"	0.5
+"n'-[(4-methoxyphenyl)methyl]-n,n-dimethyl-n'-pyridin-2-ylethane-1,2-diamine"	"CN(C)CCN(CC1=CC=C(C=C1)OC)C2=CC=CC=N2"	0.5
+"6-chloro-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one"	"C1C(=O)NC2=C(C(=CC=C2)Cl)C(=N1)C3=CC=CC=C3"	0.5
+"nonane"	"CCCCCCCCC"	0.52
+"16-methyl-14-oxa-4-azatetracyclo[13.4.0.02,7.08,13]nonadeca-1(19),8,10,12,15,17-hexaen-7-ol"	"CC1=C2C(=CC=C1)C3CNCCC3(C4=CC=CC=C4O2)O"	0.52
+"(4r)-3-(1,3-benzodioxol-5-yloxymethyl)-4-(4-fluorophenyl)piperidine"	"C1CNCC([C@@H]1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4"	0.52
+"11-[3-(methylamino)propyl]-5,6-dihydrobenzo[b][1]benzazepin-3-ol"	"CNCCCN1C2=C(CCC3=CC=CC=C31)C=C(C=C2)O"	0.53
+"propyl 4-aminobenzoate"	"CCCOC(=O)C1=CC=C(C=C1)N"	0.55
+"3-methylbutyl acetate"	"CC(C)CCOC(=O)C"	0.55
+"(4r,4ar,7s,7ar,12bs)-9-methoxy-3-methyl-2,4,4a,5,6,7,7a,13-octahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol"	"CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](CC4)O"	0.55
+"2-bromopropane"	"CC(C)Br"	0.56
+"n-[4-[2-(6-cyano-3,4-dihydro-1h-isoquinolin-2-yl)ethyl]cyclohexyl]quinoline-4-carboxamide"	"C1CC(CCC1CCN2CCC3=C(C2)C=CC(=C3)C#N)NC(=O)C4=CC=NC5=CC=CC=C45"	0.56
+"1,2,3,4-tetrahydroisoquinoline"	"C1CNCC2=CC=CC=C21"	0.56
+"(2r)-n-methyl-1-phenyl-n-prop-2-ynylpropan-2-amine"	"C[C@H](CC1=CC=CC=C1)N(C)CC#C"	0.57
+"n-[1-(1,3-benzodioxol-5-ylmethyl)piperidin-4-yl]-5-methoxy-1h-indazol-3-amine"	"COC1=CC2=C(C=C1)NN=C2NC3CCN(CC3)CC4=CC5=C(C=C4)OCO5"	0.57
+"1-[4-[4-[2-tert-butyl-6-(trifluoromethyl)pyrimidin-4-yl]piperazin-1-yl]butyl]-4-methylpyridin-2-one"	"CC1=CC(=O)N(C=C1)CCCCN2CCN(CC2)C3=NC(=NC(=C3)C(F)(F)F)C(C)(C)C"	0.57
+"1-(6-fluoro-3,4-dihydro-2h-chromen-2-yl)-2-[[2-(6-fluoro-3,4-dihydro-2h-chromen-2-yl)-2-hydroxyethyl]amino]ethanol"	"C1CC2=C(C=CC(=C2)F)OC1C(CNCC(C3CCC4=C(O3)C=CC(=C4)F)O)O"	0.57
+"n-(2,4,6-tribromophenyl)-4,5-dihydro-1h-imidazol-2-amine"	"C1CN=C(N1)NC2=C(C=C(C=C2Br)Br)Br"	0.58
+"(2s)-1-(9h-carbazol-4-yloxy)-3-(1-fluoropropan-2-ylamino)propan-2-ol"	"CC(CF)NC[C@@H](COC1=CC=CC2=C1C3=CC=CC=C3N2)O"	0.58
+"7-chloro-3-hydroxy-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one"	"C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O"	0.6
+"n-methyl-3-phenothiazin-10-ylpropan-1-amine"	"CNCCCN1C2=CC=CC=C2SC3=CC=CC=C31"	0.6
+"methyl 3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate"	"CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC"	0.6
+"5-chloro-n-(2,2-difluoroethyl)-4-methyl-3,4-dihydro-1h-quinazolin-2-imine"	"CC1C2=C(C=CC=C2Cl)NC(=NCC(F)F)N1"	0.6
+"1-ethyl-10-[(1-hydroxycyclopropyl)methyl]-13,13-dimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol"	"CCC12CCN(C(C1(C)C)CC3=C2C=C(C=C3)O)CC4(CC4)O"	0.6
+"1-[3-(4-butylpiperidin-1-yl)propyl]-3,4-dihydroquinolin-2-one"	"CCCCC1CCN(CC1)CCCN2C(=O)CCC3=CC=CC=C32"	0.6
+"methyl (2r,3s)-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate"	"CN1C2CCC1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC"	0.6
+"8-chloro-6-piperazin-1-ylbenzo[b][1,4]benzoxazepine"	"C1CN(CCN1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl"	0.6
+"2-piperazin-1-ylpyrimidine"	"C1CN(CCN1)C2=NC=CC=N2"	0.6
+"tert-butylcyclohexane"	"CC(C)(C)C1CCCCC1"	0.61
+"4-(3-cyclopentyloxy-4-methoxyphenyl)pyrrolidin-2-one"	"COC1=C(C=C(C=C1)C2CC(=O)NC2)OC3CCCC3"	0.61
+"n-[(2-cyclopropyl-6-methoxy-1,3-benzothiazol-5-yl)methyl]-2-phenylpiperidin-3-amine"	"COC1=CC2=C(C=C1CNC3CCCNC3C4=CC=CC=C4)N=C(S2)C5CC5"	0.62
+"1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexan-1-ol"	"CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O"	0.62
+"n-[[2-methoxy-5-(trifluoromethoxy)phenyl]methyl]-2-phenylpiperidin-3-amine"	"COC1=C(C=C(C=C1)OC(F)(F)F)CNC2CCCNC2C3=CC=CC=C3"	0.63
+"[2,8-bis(trifluoromethyl)quinolin-4-yl]-piperidin-2-ylmethanol"	"C1CCNC(C1)C(C2=CC(=NC3=C2C=CC=C3C(F)(F)F)C(F)(F)F)O"	0.63
+"n,n-dimethyl-2-(1-phenyl-1-pyridin-2-ylethoxy)ethanamine"	"CC(C1=CC=CC=C1)(C2=CC=CC=N2)OCCN(C)C"	0.64
+"n,n-dimethyl-2-[(1s)-1-phenyl-1-pyridin-2-ylethoxy]ethanamine"	"C[C@](C1=CC=CC=C1)(C2=CC=CC=N2)OCCN(C)C"	0.64
+"3-[[4-(4-chlorophenyl)piperazin-1-yl]methyl]pyrazolo[1,5-a]pyridine"	"C1CN(CCN1CC2=C3C=CC=CN3N=C2)C4=CC=C(C=C4)Cl"	0.64
+"5-(3,4-dichlorophenyl)-6-ethylpyrimidine-2,4-diamine"	"CCC1=C(C(=NC(=N1)N)N)C2=CC(=C(C=C2)Cl)Cl"	0.65
+"decane"	"CCCCCCCCCC"	0.67
+"octane"	"CCCCCCCC"	0.69
+"n-[3-[3-(piperidin-1-ylmethyl)phenoxy]propyl]pyridin-2-amine"	"C1CCN(CC1)CC2=CC(=CC=C2)OCCCNC3=CC=CC=N3"	0.69
+"1,2,3,4-tetrahydroquinoline"	"C1CC2=CC=CC=C2NC1"	0.7
+"2-cyano-4-(2-hydroxyethoxy)-n-methyl-6-(spiro[3.5]nonan-7-ylmethylamino)pyrimidine-5-carboxamide"	"CNC(=O)C1=C(N=C(N=C1OCCO)C#N)NCC2CCC3(CCC3)CC2"	0.7
+"2-[4-[3-(2-chlorophenothiazin-10-yl)propyl]piperazin-1-yl]ethanol"	"C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl)CCO"	0.7
+"2-[2-(4-benzo[b][1,4]benzothiazepin-6-ylpiperazin-1-yl)ethoxy]ethanol"	"C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42"	0.7
+"oct-1-ene"	"CCCCCCC=C"	0.74
+"1-[4-(1,3-benzodioxol-5-yl)-4-methoxycyclohexyl]-4-[(3-methoxyphenyl)methyl]piperidine"	"COC1=CC=CC(=C1)CC2CCN(CC2)C3CCC(CC3)(C4=CC5=C(C=C4)OCO5)OC"	0.74
+"8-chloro-6-(2-chlorophenyl)-1-methyl-4h-imidazo[1,5-a][1,4]benzodiazepine"	"CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4Cl"	0.74
+"2-methylsulfanyl-10-(2-piperidin-3-ylethyl)phenothiazine"	"CSC1=CC2=C(C=C1)SC3=CC=CC=C3N2CCC4CCCNC4"	0.75
+"(2r)-2-[1-[(4-fluorophenyl)methyl]benzimidazol-2-yl]morpholine"	"C1CO[C@H](CN1)C2=NC3=CC=CC=C3N2CC4=CC=C(C=C4)F"	0.77
+"2-methyl-4-(4-methylpiperazin-1-yl)-5h-thieno[3,2-c][1,5]benzodiazepine"	"CC1=CC2=C(NC3=CC=CC=C3N=C2S1)N4CCN(CC4)C"	0.78
+"1-[4-[1,3-benzothiazol-2-yl(methyl)amino]piperidin-1-yl]-3-(4-fluorophenoxy)propan-2-ol"	"CN(C1CCN(CC1)CC(COC2=CC=C(C=C2)F)O)C3=NC4=CC=CC=C4S3"	0.78
+"6-(4-chlorophenyl)-3-[3-methoxy-4-(2-pyrrolidin-1-ylethoxy)phenyl]thieno[3,2-d]pyrimidin-4-one"	"COC1=C(C=CC(=C1)N2C=NC3=C(C2=O)SC(=C3)C4=CC=C(C=C4)Cl)OCCN5CCCC5"	0.78
+"2-[(z)-[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine"	"COCCCC/C(=N/OCCN)/C1=CC=C(C=C1)C(F)(F)F"	0.79
+"2-[(e)-[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine"	"COCCCC/C(=N\OCCN)/C1=CC=C(C=C1)C(F)(F)F"	0.79
+"2-[[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine"	"COCCCCC(=NOCCN)C1=CC=C(C=C1)C(F)(F)F"	0.79
+"2-methylsulfanyl-10-(2-piperidin-2-ylethyl)phenothiazine"	"CSC1=CC2=C(C=C1)SC3=CC=CC=C3N2CCC4CCCCN4"	0.8
+"8-chloro-6-(4-methylpiperazin-1-yl)benzo[b][1,4]benzoxazepine"	"CN1CCN(CC1)C2=NC3=CC=CC=C3OC4=C2C=C(C=C4)Cl"	0.8
+"4-(4-ethylphenyl)-n-methyl-n-[1-(3-piperidin-1-ylpyrrolidine-1-carbonyl)pyrrolidin-3-yl]benzamide"	"CCC1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)N(C)C3CCN(C3)C(=O)N4CCC(C4)N5CCCCC5"	0.81
+"5-(3,4-dichlorophenyl)-6-methylpyrimidine-2,4-diamine"	"CC1=C(C(=NC(=N1)N)N)C2=CC(=C(C=C2)Cl)Cl"	0.81
+"(1s,2r)-2-(4-fluorophenyl)cyclopropan-1-amine"	"C1[C@@H]([C@H]1N)C2=CC=C(C=C2)F"	0.81
+"4,16-dimethyl-14-oxa-4-azatetracyclo[13.4.0.02,7.08,13]nonadeca-1(19),8,10,12,15,17-hexaen-7-ol"	"CC1=C2C(=CC=C1)C3CN(CCC3(C4=CC=CC=C4O2)O)C"	0.82
+"(2r,7r)-4,16-dimethyl-14-oxa-4-azatetracyclo[13.4.0.02,7.08,13]nonadeca-1(19),8,10,12,15,17-hexaen-7-ol"	"CC1=C2C(=CC=C1)[C@@H]3CN(CC[C@@]3(C4=CC=CC=C4O2)O)C"	0.82
+"1-[10-[3-(4-methylpiperazin-1-yl)propyl]phenothiazin-2-yl]butan-1-one"	"CCCC(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCN(CC4)C"	0.83
+"1-(4-fluorophenyl)-4-(4-methylpiperidin-1-yl)butan-1-one"	"CC1CCN(CC1)CCCC(=O)C2=CC=C(C=C2)F"	0.83
+"n-[1-(1,3-benzodioxol-5-ylmethyl)piperidin-4-yl]-5-chloro-1h-indazol-3-amine"	"C1CN(CCC1NC2=NNC3=C2C=C(C=C3)Cl)CC4=CC5=C(C=C4)OCO5"	0.83
+"ethyl 1-methyl-4-phenylpiperidine-4-carboxylate"	"CCOC(=O)C1(CCN(CC1)C)C2=CC=CC=C2"	0.85
+"1-(2-bicyclo[2.2.1]hept-5-enyl)-1-phenyl-3-piperidin-1-ylpropan-1-ol"	"C1CCN(CC1)CCC(C2CC3CC2C=C3)(C4=CC=CC=C4)O"	0.85
+"n-[(2-tert-butyl-6-methoxy-1,3-benzothiazol-5-yl)methyl]-2-phenylpiperidin-3-amine"	"CC(C)(C)C1=NC2=C(S1)C=C(C(=C2)CNC3CCCNC3C4=CC=CC=C4)OC"	0.85
+"non-1-ene"	"CCCCCCCC=C"	0.86
+"2-methylhexane"	"CCCCC(C)C"	0.86
+"n-[(2-methoxyphenyl)methyl]-2-phenylpiperidin-3-amine"	"COC1=CC=CC=C1CNC2CCCNC2C3=CC=CC=C3"	0.87
+"[3-[1-(dimethylamino)ethyl]phenyl] n-ethyl-n-methylcarbamate"	"CCN(C)C(=O)OC1=CC=CC(=C1)C(C)N(C)C"	0.88
+"[3-[(1s)-1-(dimethylamino)ethyl]phenyl] n-ethyl-n-methylcarbamate"	"CCN(C)C(=O)OC1=CC=CC(=C1)[C@H](C)N(C)C"	0.88
+"n-[[2-(difluoromethoxy)-5-(trifluoromethoxy)phenyl]methyl]-2-phenylpiperidin-3-amine"	"C1CC(C(NC1)C2=CC=CC=C2)NCC3=C(C=CC(=C3)OC(F)(F)F)OC(F)F"	0.88
+"(2r)-2-[1-[(4-fluorophenyl)methyl]benzimidazol-2-yl]thiomorpholine"	"C1CS[C@H](CN1)C2=NC3=CC=CC=C3N2CC4=CC=C(C=C4)F"	0.89
+"3-methylhexane"	"CCCC(C)CC"	0.9
+"methylcyclopentane"	"CC1CCCC1"	0.9
+"4-amino-5-chloro-n-[2-(diethylamino)ethyl]-2-methoxybenzamide"	"CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl"	0.9
+"2,6-ditert-butyl-4-[[4-[2-(4-chlorophenyl)-2-hydroxyethyl]piperazin-1-yl]methyl]phenol"	"CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CN2CCN(CC2)CC(C3=CC=C(C=C3)Cl)O"	0.91
+"2-[4-[(e)-1,2-diphenylbut-1-enyl]phenoxy]-n,n-dimethylethanamine"	"CC/C(=C(/C1=CC=CC=C1)\C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3"	0.92
+"2-[4-(1,2-diphenylbut-1-enyl)phenoxy]-n,n-dimethylethanamine"	"CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3"	0.92
+"n-[(2-methoxy-5-propan-2-ylphenyl)methyl]-2-phenylpiperidin-3-amine"	"CC(C)C1=CC(=C(C=C1)OC)CNC2CCCNC2C3=CC=CC=C3"	0.92
+"1-phenylpropan-2-amine"	"CC(CC1=CC=CC=C1)N"	0.93
+"(2s)-n-methyl-1-phenylpropan-2-amine"	"C[C@@H](CC1=CC=CC=C1)NC"	0.96
+"dec-1-ene"	"CCCCCCCCC=C"	0.96
+"n-[[5-tert-butyl-2-(trifluoromethoxy)phenyl]methyl]-2-phenylpiperidin-3-amine"	"CC(C)(C)C1=CC(=C(C=C1)OC(F)(F)F)CNC2CCCNC2C3=CC=CC=C3"	0.96
+"methylcyclohexane"	"CC1CCCCC1"	0.96
+"3-(2-chlorophenothiazin-10-yl)propan-1-amine"	"C1=CC=C2C(=C1)N(C3=C(S2)C=CC(=C3)Cl)CCCN"	0.97
+"n-[(5-tert-butyl-2-methoxyphenyl)methyl]-2-phenylpiperidin-3-amine"	"CC(C)(C)C1=CC(=C(C=C1)OC)CNC2CCCNC2C3=CC=CC=C3"	0.98
+"1-[[2-iodo-5-(piperidin-1-ylmethyl)phenyl]methyl]piperidine"	"C1CCN(CC1)CC2=CC(=C(C=C2)I)CN3CCCCC3"	0.98
+"3-(5,6-dihydrobenzo[b][1]benzazepin-11-yl)-n,n,2-trimethylpropan-1-amine"	"CC(CN1C2=CC=CC=C2CCC3=CC=CC=C31)CN(C)C"	0.99
+"5-methyl-2,5-diazatetracyclo[13.4.0.02,7.08,13]nonadeca-1(19),8,10,12,15,17-hexaene"	"CN1CCN2C(C1)C3=CC=CC=C3CC4=CC=CC=C42"	0.99
+"2-methylpentane"	"CCCC(C)C"	1.0
+"tert-butyl 4-[4-[bis(2-chloroethyl)amino]phenyl]butanoate"	"CC(C)(C)OC(=O)CCCC1=CC=C(C=C1)N(CCCl)CCCl"	1.0
+"2,2-dimethylbutane"	"CCC(C)(C)C"	1.0
+"3-methylpentane"	"CCC(C)CC"	1.0
+"(3e)-3-(6h-benzo[c][1]benzoxepin-11-ylidene)-n,n-dimethylpropan-1-amine"	"CN(C)CC/C=C/1\C2=CC=CC=C2COC3=CC=CC=C31"	1.0
+"3-(6h-benzo[c][1]benzoxepin-11-ylidene)-n,n-dimethylpropan-1-amine"	"CN(C)CCC=C1C2=CC=CC=C2COC3=CC=CC=C31"	1.0
+"(3,4,8b-trimethyl-2,3a-dihydro-1h-pyrrolo[2,3-b]indol-7-yl) n-phenylcarbamate"	"CC12CCN(C1N(C3=C2C=C(C=C3)OC(=O)NC4=CC=CC=C4)C)C"	1.0
+"4-[1-[2-(2,4-difluorophenyl)ethyl]piperidin-4-yl]sulfonylbenzonitrile"	"C1CN(CCC1S(=O)(=O)C2=CC=C(C=C2)C#N)CCC3=C(C=C(C=C3)F)F"	1.0
+"1-hexyl-4-(4-iodophenyl)piperazine"	"CCCCCCN1CCN(CC1)C2=CC=C(C=C2)I"	1.01
+"1,2,4-trimethylcyclohexane"	"CC1CCC(C(C1)C)C"	1.02
+"9-chloro-4-methyl-13-oxa-4-azatetracyclo[12.4.0.02,6.07,12]octadeca-1(18),7(12),8,10,14,16-hexaene"	"CN1CC2C(C1)C3=C(C=CC(=C3)Cl)OC4=CC=CC=C24"	1.03
+"n-methyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,11,13-hexaenylidene)propan-1-amine"	"CNCCC=C1C2=CC=CC=C2CCC3=CC=CC=C31"	1.04
+"(3s)-3-(5-chloro-2-methoxyphenyl)-3-fluoro-6-(trifluoromethyl)-1h-indol-2-one"	"COC1=C(C=C(C=C1)Cl)[C@]2(C3=C(C=C(C=C3)C(F)(F)F)NC2=O)F"	1.04
+"2-methylnonane"	"CCCCCCCC(C)C"	1.05
+"n,n-dimethyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,9,11,13-heptaenylidene)propan-1-amine"	"CN(C)CCC=C1C2=CC=CC=C2C=CC3=CC=CC=C31"	1.06
+"1,2-dimethylcyclohexane"	"CC1CCCCC1C"	1.07
+"1-(4-ethylphenyl)-2-methyl-3-pyrrolidin-1-ylpropan-1-one"	"CCC1=CC=C(C=C1)C(=O)C(C)CN2CCCC2"	1.08
+"1-cyclohexyl-n-methylpropan-2-amine"	"CC(CC1CCCCC1)NC"	1.08
+"(2r)-1-cyclohexyl-n-methylpropan-2-amine"	"C[C@H](CC1CCCCC1)NC"	1.08
+"1-[(4-fluorophenyl)methyl]-n-[1-[2-(4-methoxyphenyl)ethyl]piperidin-4-yl]benzimidazol-2-amine"	"COC1=CC=C(C=C1)CCN2CCC(CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F"	1.1
+"1-methyl-16-azatetracyclo[7.6.1.02,7.010,15]hexadeca-2,4,6,10,12,14-hexaene"	"CC12C3=CC=CC=C3CC(N1)C4=CC=CC=C24"	1.11
+"4-[[1-[(e)-3-iodoprop-2-enyl]piperidin-4-yl]methoxy]benzonitrile"	"C1CN(CCC1COC2=CC=C(C=C2)C#N)C/C=C/I"	1.13
+"4-[[1-(3-iodoprop-2-enyl)piperidin-4-yl]methoxy]benzonitrile"	"C1CN(CCC1COC2=CC=C(C=C2)C#N)CC=CI"	1.13
+"3-(1-benzylpiperidin-4-yl)-1-(2,3,4,5-tetrahydro-1h-1-benzazepin-8-yl)propan-1-one"	"C1CCNC2=C(C1)C=CC(=C2)C(=O)CCC3CCN(CC3)CC4=CC=CC=C4"	1.14
+"1-[4-(2-methoxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol"	"CC(C)NCC(COC1=CC=C(C=C1)CCOC)O"	1.15
+"n,n'-bis(3-ethylphenyl)ethanimidamide"	"CCC1=CC(=CC=C1)NC(=NC2=CC=CC(=C2)CC)C"	1.2
+"n-[(6-methoxy-2-phenyl-1,3-benzothiazol-5-yl)methyl]-2-phenylpiperidin-3-amine"	"COC1=CC2=C(C=C1CNC3CCCNC3C4=CC=CC=C4)N=C(S2)C5=CC=CC=C5"	1.26
+"4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one"	"C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F"	1.3
+"n,n-dimethyl-1-phenothiazin-10-ylpropan-2-amine"	"CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C"	1.3
+"n-methyl-3-(1-tetracyclo[6.6.2.02,7.09,14]hexadeca-2,4,6,9,11,13-hexaenyl)propan-1-amine"	"CNCCCC12CCC(C3=CC=CC=C31)C4=CC=CC=C24"	1.3
+"3-(1-chlorophenothiazin-10-yl)-n-methylpropan-1-amine"	"CNCCCN1C2=CC=CC=C2SC3=C1C(=CC=C3)Cl"	1.37
+"1-(4-iodophenyl)-4-(2-methylpropyl)piperazine"	"CC(C)CN1CCN(CC1)C2=CC=C(C=C2)I"	1.38
+"1-butan-2-yl-4-(4-iodophenyl)piperazine"	"CCC(C)N1CCN(CC1)C2=CC=C(C=C2)I"	1.38
+"4-[4-(4-bromophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one"	"C1CN(CCC1(C2=CC=C(C=C2)Br)O)CCCC(=O)C3=CC=C(C=C3)F"	1.38
+"10-[3-(4-methylpiperazine-1,4-diium-1-yl)propyl]-2-(trifluoromethyl)phenothiazine"	"C[NH+]1CC[NH+](CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F"	1.4
+"2-(tert-butylamino)-1-(3-chlorophenyl)propan-1-one"	"CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C"	1.4
+"10-[3-(4-methylpiperidin-1-yl)propyl]-2-(trifluoromethyl)phenothiazine"	"CC1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F"	1.44
+"n,n-dimethyl-3-[2-(trifluoromethyl)phenothiazin-10-yl]propan-1-amine"	"CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)C(F)(F)F"	1.44
+"2-[4-[3-[2-(trifluoromethyl)phenothiazin-10-yl]propyl]piperazin-1-yl]ethanol"	"C1CN(CCN1CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F)CCO"	1.5
+"4-(3,4-dichlorophenyl)-n-methyl-1,2,3,4-tetrahydronaphthalen-1-amine"	"CNC1CCC(C2=CC=CC=C12)C3=CC(=C(C=C3)Cl)Cl"	1.6
+"1-[6-chloro-5-(trifluoromethyl)pyridin-2-yl]piperazine"	"C1CN(CCN1)C2=NC(=C(C=C2)C(F)(F)F)Cl"	1.64
+"(5s,5ar,8ar,9r)-5-[[(2r,4ar,6r,7r,8r,8as)-7,8-dihydroxy-2-methyl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5h-[2]benzofuro[6,5-f][1,3]benzodioxol-8-one"	"C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O"	-1.5
+"1-[4-[4-[[(2r,4s)-2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]ethanone"	"CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@H]3CO[C@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl"	-0.28
+"(2r,3r,4r,5r)-hexane-1,2,3,4,5,6-hexol"	"C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O"	-1.6
+"1-cyano-3-[3-[2-(diaminomethylideneamino)-1,3-thiazol-4-yl]phenyl]-2-methylguanidine"	"CN=C(NC#N)NC1=CC=CC(=C1)C2=CSC(=N2)N=C(N)N"	-1.54
+"2-(1,8-diethyl-4,9-dihydro-3h-pyrano[3,4-b]indol-1-yl)acetic acid"	"CCC1=C2C(=CC=C1)C3=C(N2)C(OCC3)(CC)CC(=O)O"	-1.42
+"1-cyano-2-methyl-3-[2-[(5-methyl-1h-imidazol-4-yl)methylsulfanyl]ethyl]guanidine"	"CC1=C(N=CN1)CSCCNC(=NC)NC#N"	-1.4
+"9-[5-(hydroxymethyl)oxolan-2-yl]-1h-purin-6-one"	"C1CC(OC1CO)N2C=NC3=C2N=CNC3=O"	-1.3
+"4-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol"	"CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O"	-1.3
+"2-(4-phenyl-1,3-thiazol-2-yl)ethanamine"	"C1=CC=C(C=C1)C2=CSC(=N2)CCN"	-1.3
+"(8-chloro-6-phenyl-4h-[1,2,4]triazolo[4,3-a][1,4]benzodiazepin-1-yl)methanol"	"C1C2=NN=C(N2C3=C(C=C(C=C3)Cl)C(=N1)C4=CC=CC=C4)CO"	-1.3
+"3-[3-[5-[5-(4,5-dihydroxy-6-methyloxan-2-yl)oxy-4-hydroxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-12,14-dihydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]-2h-furan-5-one"	"CC1C(C(CC(O1)OC2C(OC(CC2O)OC3C(OC(CC3O)OC4CCC5(C(C4)CCC6C5CC(C7(C6(CCC7C8=CC(=O)OC8)O)C)O)C)C)C)O)O"	-1.2
+"4-amino-1-[5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one"	"C1CC(OC1CO)N2C=CC(=NC2=O)N"	-1.2
+"4-amino-1-[(2r,5s)-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one"	"C1C[C@@H](O[C@@H]1CO)N2C=CC(=NC2=O)N"	-1.2
+"n-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-3-nitro-1h-pyrrol-2-amine"	"CN(C)CC1=CC=C(O1)CSCCNC2=C(C=CN2)[N+](=O)[O-]"	-1.12
+"2-hydroxybenzoic acid"	"C1=CC=C(C(=C1)C(=O)O)O"	-1.1
+"1-ethyl-6-fluoro-4-oxo-7-piperazin-1-ylquinoline-3-carboxylic acid"	"CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O"	-1.1
+"n-[4-[3-(tert-butylcarbamoyl)-3,4,4a,5,6,7,8,8a-octahydro-1h-isoquinolin-2-yl]-3-hydroxy-1-phenylbutan-2-yl]-2-(quinoline-2-carbonylamino)butanediamide"	"CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(C(CC3=CC=CC=C3)NC(=O)C(CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O"	-1.03
+"methyl 11-acetyloxy-12-ethyl-4-(17-ethyl-17-hydroxy-13-methoxycarbonyl-11-aza-1-azoniatetracyclo[13.3.1.04,12.05,10]nonadeca-4(12),5,7,9-tetraen-13-yl)-8-formyl-10-hydroxy-5-methoxy-8-aza-16-azoniapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate"	"CCC1(CC2CC(C3=C(CC[NH+](C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CC[NH+]9C7C(C=CC9)(C(C(C8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O"	-1.03
+"2-[4-[1-hydroxy-4-[4-[hydroxy(diphenyl)methyl]piperidin-1-yl]butyl]phenyl]-2-methylpropanoic acid"	"CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O"	-1.0
+"(2s)-n-[(2s,3r)-4-[(3s,4as,8as)-3-(tert-butylcarbamoyl)-3,4,4a,5,6,7,8,8a-octahydro-1h-isoquinolin-2-yl]-3-hydroxy-1-phenylbutan-2-yl]-2-(quinoline-2-carbonylamino)butanediamide"	"CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@H]([C@H](CC3=CC=CC=C3)NC(=O)[C@H](CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O"	-0.95
+"2-[4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]acetamide"	"CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O"	-0.9
+"1-[(2r,4s,5r)-4-fluoro-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione"	"CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)F"	-0.85
+"6-chloro-3-[1-[3-(2-oxo-3h-benzimidazol-1-yl)propyl]piperidin-4-yl]-1h-benzimidazol-2-one"	"C1CN(CCC1N2C3=C(C=C(C=C3)Cl)NC2=O)CCCN4C5=CC=CC=C5NC4=O"	-0.8
+"2-amino-9-(2-hydroxyethoxymethyl)-3h-purin-6-one"	"C1=NC2=C(N1COCCO)NC(=NC2=O)N"	-0.8
+"1-[4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione"	"CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-]"	-0.72
+"1-[(2r,4s,5s)-4-azido-5-(hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione"	"CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)N=[N+]=[N-]"	-0.7
+"2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethyl-methylamino]-2-propan-2-ylpentanenitrile"	"CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC"	-0.7
+"3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-9-hydroxy-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one"	"CC1=C(C(=O)N2CCCC(C2=N1)O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F"	-0.7
+"2-acetyloxybenzoate"	"CC(=O)OC1=CC=CC=C1C(=O)[O-]"	-0.5
+"n,n-dimethyl-2-[6-methyl-2-(4-methylphenyl)imidazo[1,2-a]pyridin-3-yl]acetamide"	"CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C"	-0.48
+"n-methyl-2-[3-(1-methylpiperidin-4-yl)-1h-indol-5-yl]ethanesulfonamide"	"CNS(=O)(=O)CCC1=CC2=C(C=C1)NC=C2C3CCN(CC3)C"	-0.46
+"4-[2-(dipropylamino)ethyl]-7-hydroxy-1,3-dihydroindol-2-one"	"CCCN(CCC)CCC1=C2CC(=O)NC2=C(C=C1)O"	-0.43
+"1-[3-[2-(dimethylamino)ethyl]-1h-indol-5-yl]-n-methylmethanesulfonamide"	"CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2CCN(C)C"	-0.4
+"5-[3-(tert-butylamino)-2-hydroxypropoxy]-3,4-dihydro-1h-quinolin-2-one"	"CC(C)(C)NCC(COC1=CC=CC2=C1CCC(=O)N2)O"	-0.4
+"10-[2-(1-methylpiperidin-2-yl)ethyl]-2-methylsulfinylphenothiazine"	"CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)S(=O)C"	-0.4
+"n-(4-hydroxyphenyl)acetamide"	"CC(=O)NC1=CC=C(C=C1)O"	-0.3
+"n-methyl-2-pyridin-2-ylethanamine"	"CNCCC1=CC=CC=N1"	-0.3
+"1,3-dimethyl-7h-purine-2,6-dione"	"CN1C2=C(C(=O)N(C1=O)C)NC=N2"	-0.3
+"dichloromethane"	"C(Cl)Cl"	-0.3
+"(4r,4ar,7s,7ar,12bs)-3-methyl-2,4,4a,7,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol"	"CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O"	-0.3
+"3-ethyl-3-methylpyrrolidine-2,5-dione"	"CCC1(CC(=O)NC1=O)C"	-0.3
+"8-chloro-6-(2-fluorophenyl)-1-methyl-4h-imidazo[1,5-a][1,4]benzodiazepin-4-ol"	"CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2O)C4=CC=CC=C4F"	-0.3
+"ethyl 4-(13-chloro-4-azatricyclo[9.4.0.03,8]pentadeca-1(11),3(8),4,6,12,14-hexaen-2-ylidene)piperidine-1-carboxylate"	"CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1"	-0.3
+"8-methyl-6,9-diazaspiro[4.5]decane-7,10-dione"	"CC1C(=O)NC2(CCCC2)C(=O)N1"	-0.26
+"2-propylpentanoic acid"	"CCCC(CCC)C(=O)O"	-0.2
+"3-methyl-2,4,4a,7,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol"	"CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O"	-0.2
+"(5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl)-(6-methoxyquinolin-4-yl)methanol"	"COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O"	-0.2
+"5-ethyl-5-methyl-1,3-diazinane-2,4,6-trione"	"CCC1(C(=O)NC(=O)NC1=O)C"	-0.2
+"7-tert-butyl-3-(2,5-difluorophenyl)-6-[(2-methyl-1,2,4-triazol-3-yl)methoxy]-[1,2,4]triazolo[4,3-b]pyridazine"	"CC(C)(C)C1=CC2=NN=C(N2N=C1OCC3=NC=NN3C)C4=C(C=CC(=C4)F)F"	-0.2
+"2-[3-[4-(3-chlorophenyl)piperazin-1-yl]propyl]-[1,2,4]triazolo[4,3-a]pyridin-3-one"	"C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl"	-0.2
+"ethanol"	"CCO"	-0.2
+"2-[1-(aminomethyl)cyclohexyl]acetic acid"	"C1CCC(CC1)(CC(=O)O)CN"	-0.19
+"2-methylpropan-1-ol"	"CC(C)CO"	-0.17
+"propan-1-ol"	"CCCO"	-0.16
+"(8s,9r,10s,11s,13s,14s,16r,17r)-9-fluoro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one"	"C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C"	-0.15
+"[2-(carbamoyloxymethyl)-2-methylpentyl] carbamate"	"CCCC(C)(COC(=O)N)COC(=O)N"	-0.15
+"propan-2-one"	"CC(=O)C"	-0.15
+"3-phenyl-4-pyridin-4-yl-6-(4-pyrimidin-2-ylpiperazin-1-yl)pyridazine"	"C1CN(CCN1C2=NN=C(C(=C2)C3=CC=NC=C3)C4=CC=CC=C4)C5=NC=CC=N5"	-0.15
+"urea"	"C(=O)(N)N"	-0.14
+"(z)-1,2-dichloroethene"	"C(=C\Cl)\Cl"	-0.13
+"5-ethyl-5-phenyl-1,3-diazinane-2,4,6-trione"	"CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2"	-0.12
+"methyl 11-acetyloxy-12-ethyl-4-(17-ethyl-17-hydroxy-13-methoxycarbonyl-1,11-diazatetracyclo[13.3.1.04,12.05,10]nonadeca-4(12),5,7,9-tetraen-13-yl)-10-hydroxy-5-methoxy-8-methyl-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate"	"CCC1(CC2CC(C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O"	-0.1
+"5,5-diphenylimidazolidine-2,4-dione"	"C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3"	-0.1
+"5-ethyl-5-pentan-2-yl-2-sulfanylidene-1,3-diazinane-4,6-dione"	"CCCC(C)C1(C(=O)NC(=S)NC1=O)CC"	-0.1
+"1,5-dimethyl-2-phenylpyrazol-3-one"	"CC1=CC(=O)N(N1C)C2=CC=CC=C2"	-0.1
+"propan-2-ol"	"CC(C)O"	-0.1
+"butan-2-one"	"CCC(=O)C"	-0.1
+"1-(1h-indol-4-yloxy)-3-(propan-2-ylamino)propan-2-ol"	"CC(C)NCC(COC1=CC=CC2=C1C=CN2)O"	-0.1
+"benzo[b][1]benzazepine-11-carboxamide"	"C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N"	-0.1
+"1,3,7-trimethylpurine-2,6-dione"	"CN1C=NC2=C1C(=O)N(C(=O)N2C)C"	-0.1
+"[(1r,2s,6s,9r)-4,4,11,11-tetramethyl-3,5,7,10,12-pentaoxatricyclo[7.3.0.02,6]dodecan-6-yl]methyl sulfamate"	"CC1(O[C@@H]2CO[C@@]3([C@H]([C@@H]2O1)OC(O3)(C)C)COS(=O)(=O)N)C"	-0.07
+"[(1s,3r,7s,8s,8ar)-8-[2-[(2r,4r)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2s)-2-methylbutanoate"	"CC[C@H](C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C"	-0.07
+"(2s)-2-(2-oxopyrrolidin-1-yl)butanamide"	"CC[C@@H](C(=O)N)N1CCCC1=O"	-0.04
+"n-[5-[(5-tert-butyl-1,3-oxazol-2-yl)methylsulfanyl]-1,3-thiazol-2-yl]piperidine-4-carboxamide"	"CC(C)(C)C1=CN=C(O1)CSC2=CN=C(S2)NC(=O)C3CCNCC3"	-0.01
+"3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one"	"CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F"	0.0
+"ethoxyethane"	"CCOCC"	0.0
+"(1s,9s,10s)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene"	"CN1CC[C@@]23CCCC[C@@H]2[C@@H]1CC4=C3C=C(C=C4)OC"	0.02
+"1-butyl-3-phenylthiourea"	"CCCCNC(=S)NC1=CC=CC=C1"	0.03
+"xenon"	"[Xe]"	0.03
+"5-ethyl-5-(3-methylbutyl)-1,3-diazinane-2,4,6-trione"	"CCC1(C(=O)NC(=O)NC1=O)CCC(C)C"	0.04
+"n,6,6-trimethyl-n-(naphthalen-1-ylmethyl)hept-2-en-4-yn-1-amine"	"CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21"	0.08
+"5-(cyclohexen-1-yl)-1,5-dimethyl-1,3-diazinane-2,4,6-trione"	"CC1(C(=O)NC(=O)N(C1=O)C)C2=CCCCC2"	0.1
+"cyclopropane"	"C1CC1"	0.1
+"ethenoxyethene"	"C=COC=C"	0.1
+"5-ethyl-5-pentan-2-yl-1,3-diazinane-2,4,6-trione"	"CCCC(C)C1(C(=O)NC(=O)NC1=O)CC"	0.1
+"n-(2,6-dichlorophenyl)-4,5-dihydro-1h-imidazol-2-amine"	"C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl"	0.1
+"2-(4-amino-3-iodophenyl)-1,3-benzothiazol-6-ol"	"C1=CC(=C(C=C1C2=NC3=C(S2)C=C(C=C3)O)I)N"	0.2
+"4-[2-(dipropylamino)ethyl]-1,3-dihydroindol-2-one"	"CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1"	0.2
+"10-[2-(1-methylpiperidin-2-yl)ethyl]-2-methylsulfanylphenothiazine"	"CN1CCCCC1CCN2C3=CC=CC=C3SC4=C2C=C(C=C4)SC"	0.2
+"2,2-dichloro-1,1-difluoro-1-methoxyethane"	"COC(C(Cl)Cl)(F)F"	0.2
+"ethylbenzene"	"CCC1=CC=CC=C1"	0.2
+"1,3-xylene"	"CC1=CC(=CC=C1)C"	0.2
+"2-chloro-1-(difluoromethoxy)-1,1,2-trifluoroethane"	"C(C(OC(F)F)(F)F)(F)Cl"	0.24
+"3-(1-methylpyrrolidin-2-yl)pyridine"	"CN1CCCC1C2=CN=CC=C2"	0.24
+"1-bromopropane"	"CCCBr"	0.27
+"1-(3-methylphenoxy)-3-(propan-2-ylamino)propan-2-ol"	"CC1=CC(=CC=C1)OCC(CNC(C)C)O"	0.28
+"1,1,2-trichloroethene"	"C(=C(Cl)Cl)Cl"	0.3
+"2-bromo-2-chloro-1,1,1-trifluoroethane"	"C(C(F)(F)F)(Cl)Br"	0.3
+"chloroform"	"C(Cl)(Cl)Cl"	0.3
+"7-chloro-1-methyl-5-phenyl-1,5-benzodiazepine-2,4-dione"	"CN1C(=O)CC(=O)N(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3"	0.3
+"1,1,1-trichloroethane"	"CC(Cl)(Cl)Cl"	0.4
+"7-chloro-5-phenyl-1h-1,5-benzodiazepine-2,4-dione"	"C1C(=O)NC2=C(C=C(C=C2)Cl)N(C1=O)C3=CC=CC=C3"	0.4
+"2-[2-[4-[(4-chlorophenyl)-phenylmethyl]piperazin-1-yl]ethoxy]ethanol"	"OCCOCC[NH+]1CC[NH+](CC1)C(c2ccccc2)c3ccc(Cl)cc3"	0.4
+"benzene"	"C1=CC=CC=C1"	0.4
+"toluene"	"CC1=CC=CC=C1"	0.4
+"1,4-xylene"	"CC1=CC=C(C=C1)C"	0.4
+"8-chloro-6-(2-fluorophenyl)-1-methyl-4h-imidazo[1,5-a][1,4]benzodiazepine"	"CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F"	0.4
+"1-(1-phenylcyclohexyl)piperidine"	"C1CCC(CC1)(C2=CC=CC=C2)N3CCCCC3"	0.4
+"2-chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane"	"C(C(F)(F)F)(OC(F)F)Cl"	0.42
+"7-chloro-5-(2-chlorophenyl)-3-hydroxy-1,3-dihydro-1,4-benzodiazepin-2-one"	"C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl"	0.44
+"6-(2,3-dichlorophenyl)-1,2,4-triazine-3,5-diamine"	"C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N"	0.48
+"7-chloro-1-methyl-5-phenyl-3h-1,4-benzodiazepin-2-one"	"CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3"	0.5
+"8-[4-(4-pyrimidin-2-ylpiperazin-1-yl)butyl]-8-azaspiro[4.5]decane-7,9-dione"	"C1CCC2(C1)CC(=O)N(C(=O)C2)CCCCN3CCN(CC3)C4=NC=CC=N4"	0.5
+"7-chloro-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one"	"C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3"	0.5
+"1,13-dimethyl-10-(3-methylbut-2-enyl)-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol"	"CC1C2CC3=C(C1(CCN2CC=C(C)C)C)C=C(C=C3)O"	0.54
+"9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol"	"CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O"	0.6
+"n-phenyl-n-[1-(2-phenylethyl)piperidin-4-yl]propanamide"	"CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3"	0.6
+"(4r,4ar,7s,7ar,12bs)-9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1h-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol"	"CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)OC)O[C@H]3[C@H](C=C4)O"	0.6
+"1-naphthalen-1-yloxy-3-(propan-2-ylamino)propan-2-ol"	"CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O"	0.64
+"1-tert-butyl-4,4-diphenylpiperidine"	"CC(C)(C)N1CCC(CC1)(C2=CC=CC=C2)C3=CC=CC=C3"	0.66
+"n-(4-fluorophenyl)-4,5-dimethyl-6-(1-methyl-3,4-dihydro-1h-isoquinolin-2-yl)pyrimidin-2-amine"	"CC1C2=CC=CC=C2CCN1C3=NC(=NC(=C3C)C)NC4=CC=C(C=C4)F"	0.68
+"2,6-di(propan-2-yl)phenol"	"CC(C)C1=C(C(=CC=C1)C(C)C)O"	0.7
+"(1r,2r)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexan-1-ol"	"CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O"	0.7
+"8-chloro-6-(2-chlorophenyl)-1-methyl-4h-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine"	"CC1=NN=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4Cl"	0.7
+"n-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine"	"CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F"	0.72
+"4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-n,n-dimethyl-2,2-diphenylbutanamide"	"CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4"	0.77
+"2-methyl-4-(4-methylpiperazin-1-yl)-10h-thieno[2,3-b][1,5]benzodiazepine"	"CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C"	0.8
+"heptane"	"CCCCCCC"	0.8
+"pentane"	"CCCCC"	0.8
+"hexane"	"CCCCCC"	0.8
+"3-(5,6-dihydrobenzo[b][1]benzazepin-11-yl)-n,n-dimethylpropan-1-amine"	"CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31"	0.8
+"2-methylheptane"	"CCCCCC(C)C"	0.86
+"methyl 2-phenyl-2-piperidin-2-ylacetate"	"COC(=O)C(C1CCCCN1)C2=CC=CC=C2"	0.88
+"2-[(1-benzylpiperidin-4-yl)methyl]-5,6-dimethoxy-2,3-dihydroinden-1-one"	"COC1=C(C=C2C(=C1)CC(C2=O)CC3CCN(CC3)CC4=CC=CC=C4)OC"	0.89
+"6-(dimethylamino)-4,4-diphenylheptan-3-one"	"CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2"	0.9
+"n,n-dimethyl-3-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,11,13-hexaenylidene)propan-1-amine"	"CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31"	0.9
+"cyclohexane"	"C1CCCCC1"	0.9
+"n-methyl-1-phenylpropan-2-amine"	"CC(CC1=CC=CC=C1)NC"	0.9
+"2-[4-[(z)-1,2-diphenylbut-1-enyl]phenoxy]-n,n-dimethylethanamine"	"CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3"	0.92
+"2-methyloctane"	"CCCCCCC(C)C"	0.98
+"1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl)-3h-2-benzofuran-5-carbonitrile"	"CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F"	0.99
+"[(3ar,8bs)-3,4,8b-trimethyl-2,3a-dihydro-1h-pyrrolo[2,3-b]indol-7-yl] n-phenylcarbamate"	"C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC4=CC=CC=C4)C)C"	1.0
+"3-(2-chlorophenothiazin-10-yl)propyl-dimethylazanium"	"C[NH+](C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl"	1.06
+"3-(5,6-dihydrobenzo[b][1]benzazepin-11-yl)propan-1-amine"	"[NH3+]CCCN1c2ccccc2CCc3ccccc13"	1.1
+"3-(5,6-dihydrobenzo[b][1]benzazepin-11-yl)propyl-methylazanium"	"C[NH2+]CCCN1C2=CC=CC=C2CCC3=CC=CC=C31"	1.2
+"n,n-dimethyl-3-phenothiazin-10-ylpropan-1-amine"	"CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31"	1.23
+"2-benzhydryloxy-n,n-dimethylethanamine"	"CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2"	1.3
+"3-(2-chlorophenothiazin-10-yl)-n-methylpropan-1-amine"	"CNCCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl"	1.4
+"(1s,4s)-4-(3,4-dichlorophenyl)-n-methyl-1,2,3,4-tetrahydronaphthalen-1-amine"	"CN[C@H]1CC[C@H](C2=CC=CC=C12)C3=CC(=C(C=C3)Cl)Cl"	1.6

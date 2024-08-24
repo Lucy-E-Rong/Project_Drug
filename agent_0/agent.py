@@ -3,6 +3,7 @@ import json
 
 from llm import LLMAgent
 from affinity_agent import AffinityAgent
+from admet_agent import AdmetAgent
 from utils import LOGGER
 from sub_agent import main as sub_agent_main  # 导入 sub_agent 中的 main 函数
 from sub_agent import decomposition, extract_drugs_and_proteins, convert_to_smiles, convert_to_amino_acid_sequence
@@ -20,7 +21,10 @@ You are an expert in medical.
                 "type": "function",
                 "function": {
                     "name": "affinity_agent",
-                    "description": "To predict the drug's affinity against the protein, ask the Affinity Agent for information regarding the drug's binding affinity to the target protein. Given drug SMILES and protein amino acid sequence, return the predicted binding affinity.",
+                    "description": '''predict the drug's affinity against the protein, 
+                    ask the Affinity Agent for information regarding the drug's binding affinity to the target protein. 
+                    Given drug SMILES and protein amino acid sequence, return the predicted binding affinity.
+                    ''',
                     "parameters": {
                         "type": "object",
                         "properties": {
@@ -34,6 +38,27 @@ You are an expert in medical.
                             }
                         },
                         "required": ["drug_smiles", "protein_sequence"],
+                    },
+                }
+            },
+            {
+                "type": "function",
+                "function": {
+                    "name": "admet_agent",
+                    "description":'''
+                            Given the drug SMILES, use a pretrained model to predict the ADMET properties of the drug. 
+                            This includes predictions related to absorption, distribution, metabolism, excretion, and toxicity. 
+                            The agent will be triggered by any inquiries regarding ADMET-related aspects of the drug.
+                    ''',
+                    "parameters": {
+                        "type": "object",
+                        "properties": {
+                            "drug_smiles": {
+                                "type": "string",
+                                "description": "The Drug SMILES",
+                            }
+                        },
+                        "required": ["drug_smiles"],
                     },
                 }
             },
@@ -102,6 +127,54 @@ You are an expert in medical.
                     problem_results.append(combined_result)
             
         return '\n'.join(problem_results)
+    
+    def admet_agent(self, drug_smiles):
+        # 日志记录用户提示
+        LOGGER.log_with_depth(f"Initial user prompt: {self.user_prompt}", depth=1)
+        LOGGER.log_with_depth("Afdmet Agent... Initializing", depth=1)
+        
+        # Step 1: Decompose the original problem into subproblems
+        LOGGER.log_with_depth("Planning...", depth=1)
+        LOGGER.log_with_depth("[Thought] Least to Most Reasoning: Decompose the original problem", depth=1)
+        decomposition_result = decomposition(self.user_prompt, self.tools)
+        LOGGER.log_with_depth(f"Decomposition Result: {decomposition_result}", depth=1)
+
+        # Step 2: Extract drugs and proteins from the subproblems
+        drugs_tagged, proteins_tagged = extract_drugs_and_proteins(decomposition_result)
+        LOGGER.log_with_depth(f"Extracted Drugs Tagged: {drugs_tagged}", depth=1)
+        
+        # Extract individual drugs and proteins from tagged strings
+        drugs = [tag.split('</drug>')[0] for tag in drugs_tagged.split('<drug>') if '</drug>' in tag]
+        LOGGER.log_with_depth(f"Extracted Drugs: {drugs}", depth=1)
+        
+        # Step 3: Convert each drug to its SMILES notation
+        LOGGER.log_with_depth("Converting drugs to SMILES notation...", depth=1)
+        drugs_with_smiles = {drug: convert_to_smiles(drug) for drug in drugs}
+        LOGGER.log_with_depth(f"Drugs with SMILES: {drugs_with_smiles}", depth=1)
+        
+        # Process each drug-protein pair to predict admet
+        LOGGER.log_with_depth("[Action] Solving each drug smiles admet problem...", depth=1)
+        problem_results = []
+        for drug, smiles in drugs_with_smiles.items():
+            LOGGER.log_with_depth(f"Processing drug: {drug} (SMILES: {smiles})", depth=1)
+            admet_agent_ins = AdmetAgent(depth=2)
+            smiles_clean = smiles.replace("<smiles>", "").replace("</smiles>", "")
+               
+            model_result = admet_agent_ins.admet_pred(smiles_clean)
+            # 使用 decomposition 获取答案
+            response = decomposition(f"How can I predict the admet of the drug {smiles}?", tools=admet_agent_ins.tools)
+            processing_drug = f"Processing drug: {drug} (SMILES: {smiles})"
+            # 合并结果并记录日志
+            combined_result = f"Processing: {processing_drug}\n, Answer: {response}\n, Model Prediction: {model_result}\n"
+
+            if response == "":
+                LOGGER.log_with_depth(f"<solution>No solution found</solution>", depth=1)
+                problem_results.append("No solution found")
+            else:
+                LOGGER.log_with_depth(f"<solution>{combined_result}</solution>", depth=1)
+                problem_results.append(combined_result)
+            
+        return '\n'.join(problem_results)
 
 
 def main(original_problem, tools=None):
@@ -112,16 +185,23 @@ def main(original_problem, tools=None):
     protein_sequence = "MADSEQ"  # Example sequence
 
     # Get the affinity result
-    result = medical_agent.affinity_agent(drug_smiles, protein_sequence)
-    print(result)  # Print the final combined result
+    result_1 = medical_agent.affinity_agent(drug_smiles, protein_sequence)
+    result_2 = medical_agent.admet_agent(drug_smiles)
+    print(result_1)  # Print the final combined result
+    print(result_2)
 
 
 
 
     
 if __name__ == "__main__":
-    user_prompt = "Predict the DTI of aspirin and ibuprofen on proteins p53 and BRCA1."
-    agent = MedicalAgent(user_prompt)
-    result = agent.affinity_agent("C1=CC=CC=C1", "MADSEQ")
-    print(result)
+    user_prompt_1 = "Predict the DTI of aspirin and ibuprofen on proteins p53 and BRCA1."
+    agent = MedicalAgent(user_prompt_1)
+    result_1 = agent.affinity_agent("C1=CC=CC=C1", "MADSEQ")
+    print(result_1)
+    
+    user_prompt_2 = "Predict the position of C1=CC=CC=C1."
+    agent_2 = MedicalAgent(user_prompt_2)
+    result_2 = agent_2.affinity_agent("C1=CC=CC=C1")
+    print(result_2)
 

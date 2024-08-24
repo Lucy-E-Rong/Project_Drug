@@ -16,7 +16,7 @@ import gradio as gr
 
 
 sys.path.append(os.getcwd())
-from main import solve_problem
+from main_test import solve_problem
 
 model = models.model_pretrained(model = 'MPNN_CNN_BindingDB')
 

@@ -12,6 +12,7 @@ sys.path.append(os.getcwd())
 
 from utils import llm_request, LOGGER
 from agent import MedicalAgent  # 从 agent 模块中导入 MedicalAgent
+from sub_agent import decomposition
 
 def solve_problem(user_problem):
     LOGGER.log_with_depth(f"User problem:\n{user_problem}", depth=0)
@@ -19,9 +20,10 @@ def solve_problem(user_problem):
     # Initialize MedicalAgent
     medical_agent = MedicalAgent(user_problem, depth=1)
     # Using MedicalAgent to handle the problem
-    drug_smiles = "Your_SMILES_here"  # 您需要根据实际情况填写
-    protein_sequence = "Your_Protein_Sequence_here"  # 您需要根据实际情况填写
+    drug_smiles = "Your_SMILES_here" 
+    protein_sequence = "Your_Protein_Sequence_here" 
     result = medical_agent.affinity_agent(drug_smiles, protein_sequence)
+    result_2 = medical_agent.admet_agent(drug_smiles)
 
     subproblem_solutions = result
     
