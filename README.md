@@ -1,4 +1,13 @@
-# Project_Drug
+# 💊 DrugAgent
+
+## Installation
+
+## Data
+
+## Model 
+
+## Interface
+
 
 .env 环境变量 ✔ --> 
 utils 日志存储工具 ✔ --> 
